@@ -1,0 +1,19 @@
+# Organisations Syndicales France, siégeant au comité européen pour les années 2008-2009
+
+Afin de permettre à l'ensemble des organisations syndicales signataires représentatives en France au niveau Groupe d'être toutes représentées à titre dérogatoire pour les années 2008 et 2009 au niveau de l'instance plénière du Comité Européen, il a été convenu que les organisations syndicales qui ne pourraient obtenir de sièges, au regard des résultats des élections professionnelles au 30/04/2007, pourront toutefois sièger au comité européen.
+
+Fait à Neuilly sur Seine, le
+
+Pour Thales, Yves BAROU, DRH Groupe
+
+<u>Pour les Organisations Syndicales Représentatives au niveau du Groupe, les coordonnateurs syndicaux centraux \* :</u>
+
+CFDT : Guy HENRY
+
+CFE-CGC : Hervé TAUSKY
+
+CFTC : Alain DESVIGNES
+
+CGT : Laurent TROMBINI
+
+FO : Dominique ALLO
