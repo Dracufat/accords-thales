@@ -1026,7 +1026,7 @@ Pour les Organisations Syndicales représentatives au niveau du Groupe, les coor
 syndicaux centraux:
 
 CFDT : Anthony PERROCHEAU
-CFE-CGC : P.O. D FOURMESTRAIX 
+CFE-CGC : P.O. D. FOURMESTRAIX 
 CFTC : P.O. Alice NGUYEN
 CGT : P.O. Philippe JESOVER
 

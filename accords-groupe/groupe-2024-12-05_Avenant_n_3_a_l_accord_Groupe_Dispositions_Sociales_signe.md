@@ -1,8 +1,5 @@
-# AVENANT N°3
+# AVENANT N°3 A L'ACCORD GROUPE SUR LES DISPOSITIONS SOCIALES APPLICABLES AUX SALARIÉS DES SOCIÉTÉS DU GROUPE THALES
 
-## A L'ACCORD GROUPE SUR LES DISPOSITIONS SOCIALES APPLICABLES AUX SALARIÉS DES SOCIÉTÉS DU GROUPE THALES
-
-*{THALES GROUP LIMITED DISTRIBUTION}*
 
 ---
 
@@ -92,6 +89,20 @@ Le présent avenant entre en vigueur à compter du lendemain de son dépôt. Il 
 Conformément aux dispositions législatives et réglementaires en vigueur, le texte du présent avenant sera notifié à l'ensemble des Organisations syndicales représentatives au niveau du Groupe et déposé par la Direction des Ressources Humaines du Groupe sous forme électronique, en un exemplaire pdf signé et un exemplaire sous format Word anonymisé, sur la plateforme de téléprocédure du ministère du travail et en un exemplaire au Secrétariat du Greffe du Conseil des Prud'hommes de Boulogne-Billancourt.
 
 ---
+[^1]: Au sein du groupe Thales
+
+[^2]: Moyenne mensuelle des appointements des 12 derniers mois de présence = salaire mensuel de base + prime d'ancienneté + allocation annuelle + prime de travail en équipe + prime d'expatriation + indemnité afférente aux repos compensateurs + rémunération variable (ingénieurs et cadres) + heures supplémentaires et leurs majorations.
+
+[^3]: La date de départ en retraite correspond à la date de fin du préavis.
+
+[^4]: Au sein du Groupe Thales
+
+[^5]: Voir note de bas de page n°2
+
+[^6]: La date de mise à la retraite correspond à la date de fin du préavis.
+
+
+---
 
 Fait à Meudon en 6 exemplaires, le **04/12/2024**
 
@@ -141,15 +152,5 @@ Fait à Meudon en 6 exemplaires, le **04/12/2024**
 - Thales Global Services SAS
 - Thales Digital Factory SAS
 
----
 
-*{THALES GROUP LIMITED DISTRIBUTION}*
 
----
-
-[^1]: Au sein du groupe Thales
-[^2]: Moyenne mensuelle des appointements des 12 derniers mois de présence = salaire mensuel de base + prime d'ancienneté + allocation annuelle + prime de travail en équipe + prime d'expatriation + indemnité afférente aux repos compensateurs + rémunération variable (ingénieurs et cadres) + heures supplémentaires et leurs majorations.
-[^3]: La date de départ en retraite correspond à la date de fin du préavis.
-[^4]: Au sein du Groupe Thales
-[^5]: Voir note de bas de page n°2
-[^6]: La date de mise à la retraite correspond à la date de fin du préavis.
