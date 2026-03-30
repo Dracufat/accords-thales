@@ -526,7 +526,7 @@
 
 #### Avenant à l'accord groupe en faveur des personnes en situation de handicap — années 2021-2022-2023
 
-- **Fichier** : [groupe-2023-12-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.md](accords-groupe/groupe-2023-12-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.md)
+- **Fichier** : [groupe-2023-12-19-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.md](accords-groupe/groupe-2023-12-19-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.md)
 - **Source PDF** : [groupe-2023-12-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.pdf](accords-groupe/sources/groupe-2023-12-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.pdf)
 - **Date** : —
 - **Résumé** : Avenant prorogeant l'accord groupe en faveur des personnes en situation de handicap jusqu'au 31 juillet 2024, dans l'attente de la finalisation des négociations d'un nouvel accord pour les années 2025-2027. Il maintient l'ensemble des engagements et actions prévus par l'accord 2021-2023. Cette prorogation assure la continuité du dispositif d'insertion professionnelle des travailleurs handicapés.
