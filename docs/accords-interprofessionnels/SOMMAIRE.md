@@ -11,7 +11,7 @@ Les textes de la branche métallurgie à jour se trouve sur [le site de l'UIMM](
 
 ### Accords Interprofessionnels
 
-| Catégorie | Titre | Date | Document | PDF |
-|-----------|-------|------|----------|-----|
-| **Convention collective nationale de la métallurgie — Textes de référence** | Convention collective nationale de la métallurgie | — | [↗](Convention-collective-nationale-de-la-metallurgie.md) | [↗](sources/Convention-collective-nationale-de-la-metallurgie.pdf) |
-| | Note UIMM — Grille des salaires minima hiérarchiques (SMH) dans la métallurgie à compter du 1er janvier 2026 | — | [↗](Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md) | [↗](sources/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.pdf) |
+| Catégorie | Titre | Date       | Document | PDF |
+|-----------|-------|------------|----------|-----|
+| **Convention collective nationale de la métallurgie — Textes de référence** | Convention collective nationale de la métallurgie | 30/07/2022 | [↗](Convention-collective-nationale-de-la-metallurgie.md) | [↗](sources/Convention-collective-nationale-de-la-metallurgie.pdf) |
+| | Note UIMM — Grille des salaires minima hiérarchiques (SMH) dans la métallurgie à compter du 1er janvier 2026 | 01/01/2026 | [↗](Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md) | [↗](sources/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.pdf) |
