@@ -2,6 +2,7 @@
 
 >[Télécharger le PDF](sources/groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.pdf)
 
+
 > 📅 Signé le **23/12/2004** — Neuilly
 >
 > 🏢 **Thales** : Yves BAROU, Directeur des Ressources Humaines du Groupe Thales
