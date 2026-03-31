@@ -33,6 +33,16 @@
 \> ✅ **Signataires** : __orga1__ (__signataire1__) · __orga2__ (__signataire2__) · ...
 \>
 \> ❌ **Non Signataires** : __liste-des-orgas-non-signataires__
+- dans le fichier md juste apres le bloc de signature doit apparaitre un autre bloc de citation décrivant la durée de validité de l'accord. Les informations nécessaires a la completion des placeholders se trouve usuellement dans les dernieres section avant les annexes. Le template du bloc est le suivant:
+\> 📅 Conditions de validité: jusqu'à  **__date-de-validité__** 
+- dans le fichier md juste apres le bloc de validié doit apparaitre un autre bloc de citation listant les éléments liés (avenants, accord auquel l'avenant est lié). Le template du bloc est le suivant:
+\> Elements liés:
+\>- [__accord___(__date__)](lien_vers_le_md)
+\>- [__avenant___(__date__)](lien_vers_le_md)
+\>- [__annexe___(__date__)](lien_vers_le_md)
+
+
+
 - il ne doit pas y avoir de sommaire dans le fichier md
 
 ## Procédure pour l'ajout d'un accord

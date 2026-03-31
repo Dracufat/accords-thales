@@ -1,4 +1,4 @@
-# Avenant triennal relatif à l'égalité professionnelle entre les femmes et les hommes au sein de la société Thales LAS France SAS
+# Avenant triennal relatif à l'égalité professionnelle entre les femmes et les hommes au sein de la société Thales LAS France SAS Années 2019-2020-2021
 
 >[Télécharger le PDF](sources/LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.pdf)
 
@@ -10,7 +10,6 @@
 >
 > ❌ **Non Signataires** : SUPPer
 
-## Années 2019-2020-2021
 
 ---
 
