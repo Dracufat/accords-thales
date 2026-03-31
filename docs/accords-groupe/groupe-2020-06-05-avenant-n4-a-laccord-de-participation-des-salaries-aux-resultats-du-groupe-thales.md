@@ -29,7 +29,7 @@ Le présent Avenant s'appliquera à l'ensemble des sociétés relevant du périm
 
 Le présent Avenant, conclu entre la Direction de la société Thales, entreprise dominante, et les organisations syndicales représentatives au niveau du Groupe Thales, constitue un accord de Groupe au sens des articles L. 2232-30 et suivants du Code du travail.
 
-# Article 4 – Notification et dépôt
+## Article 4 – Notification et dépôt
 
 Conformément aux dispositions législatives et réglementaires en vigueur, le présent Avenant sera notifié à l'ensemble des organisations syndicales représentatives au niveau du Groupe et déposé par la Direction des Ressources Humaines du Groupe sous forme électronique, en un exemplaire PDF signé et un exemplaire sous format Word anonymisé, sur la plateforme de téléprocédure du ministère du travail et déposé en un exemplaire au Secrétariat du Greffe du Conseil des Prud'hommes de Nanterre.
 
@@ -47,7 +47,7 @@ CFTC : Véronique MICHAUT
 
 CGT : Laurent TROMBINI
 
-# ANNEXE 1 LISTE DES SOCIETES ENTRANT DANS LE CHAMP D'APPLICATION DE PARTICIPATION DES SALARIES AUX RESULTATS DES SOCIETES DU GROUPE THALES
+## ANNEXE 1 LISTE DES SOCIETES ENTRANT DANS LE CHAMP D'APPLICATION DE PARTICIPATION DES SALARIES AUX RESULTATS DES SOCIETES DU GROUPE THALES
 
 ## **GBU AVS**
 
@@ -91,7 +91,7 @@ Thales Seso SAS
 
 Thales DIS France SA
 
-# **Entités Corporate**
+## **Entités Corporate**
 
 Thales S.A. 
 

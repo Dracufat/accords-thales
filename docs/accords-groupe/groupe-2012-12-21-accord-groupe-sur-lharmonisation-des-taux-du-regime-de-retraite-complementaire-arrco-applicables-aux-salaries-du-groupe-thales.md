@@ -148,7 +148,7 @@ Pour la CGT : Monsieur Laurent TROMBINI
 | THALES CRYOGENIE                                                       |
 | THALES OPTRONIQUE                                                      |
 
-# ANNEXE 2 CALENDRIER D'HARMONISATION
+## ANNEXE 2 CALENDRIER D'HARMONISATION
 
 ![](images/_page_6_Figure_1.jpeg)
 

@@ -70,7 +70,7 @@ Pour faciliter le bon fonctionnement de la Commission de contrôle, une journée
 
 Dans le cadre du fonctionnement de la Commission de contrôle social de TST, pour chacune des réunions de cette-dite Commission, un procès-verbal sera établi systématiquement. Il sera établi par la société extérieure qui réalise aujourd'hui les procès-verbaux du Comité Central d'Entreprise de Thales SA et transmis au rapporteur et au président de la commission pour validation.
 
-# Article 4 - Coopération avec la Commission Centrale Qualité de Vie au Travail
+## Article 4 - Coopération avec la Commission Centrale Qualité de Vie au Travail
 
 Au niveau du Groupe, et dans le cadre des dispositions de l'Accord de groupe sur la qualité de vie au travail du 4 février 2014, une Commission Centrale Qualité de Vie au Travail (CCQVT) est chargée de « proposer et de suivre toutes les actions déployées au niveau du groupe en matière de santé et de qualité de vie au travail ».
 

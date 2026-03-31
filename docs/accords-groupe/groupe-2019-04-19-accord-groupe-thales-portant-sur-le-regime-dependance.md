@@ -180,7 +180,7 @@ A la mise en place du régime dépendance une note d'information, accompagnée d
 
 La garantie dépendance est assurée par l'institution de prévoyance Malakoff Médéric Prévoyance, institution régie par le code de la sécurité sociale, dont le siège social est situé 21 rue Lafitte – 75009 Paris.
 
-# Article 10 - Suivi du contrat dépendance salariés et retraités Thales
+## Article 10 - Suivi du contrat dépendance salariés et retraités Thales
 
 Le suivi du contrat dépendance sera réalisé dans le cadre de la commission paritaire technique Malakoff Médéric Humanis. Cette commission se réunira une fois par an pour assurer le suivi des résultats du contrat dépendance des salariés actifs et retraités de Thales.
 

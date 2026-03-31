@@ -1,5 +1,3 @@
-
-
 # Accord Groupe en faveur des Personnes en situation de handicap Années 2025-2026-2027
 
 >[Télécharger le PDF](sources/groupe-2024-12-19-accord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2025-2026-2027.pdf)
@@ -1034,7 +1032,7 @@ CFTC : P.O. Alice NGUYEN
 CGT : P.O. Philippe JESOVER
 
 
-# **ANNEXES**
+## **ANNEXES**
 
 - Annexe 1 : Périmètre de l'accord
 - Annexe 2 : Répartition des objectifs de recrutement par société

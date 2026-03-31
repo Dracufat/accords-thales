@@ -119,7 +119,7 @@ Fait à Meudon en 6 exemplaires, le **04/12/2024**
 
 ---
 
-# ANNEXE 1 — Périmètre d'application de l'accord
+## ANNEXE 1 — Périmètre d'application de l'accord
 
 ### GBU AVS
 - Thales AVS France SAS

@@ -57,11 +57,11 @@ Thales DMS France SAS
 
 UMS SAS
 
-# **GBU LAS**
+### **GBU LAS**
 
 Thales LAS France SAS
 
-# **GBU SIX**
+### **GBU SIX**
 
 Thales SIX GTS France SAS
 
@@ -87,7 +87,7 @@ Thales Seso SAS
 
 Thales DIS France SAS
 
-# **Entités Corporate**
+### **Entités Corporate**
 
 Thales S.A.
 

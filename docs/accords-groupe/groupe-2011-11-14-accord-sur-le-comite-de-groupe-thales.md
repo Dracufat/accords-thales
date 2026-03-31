@@ -384,7 +384,7 @@ A noter qu'en cas d'égalité de reste, le siège est attribué au syndicat ayan
 
 
 
-# Notification à l'Accord Groupe en faveur des personnes en situation de handicap 2012-2013-2014
+### Notification à l'Accord Groupe en faveur des personnes en situation de handicap 2012-2013-2014
 
 Je soussigné Laurent TROMBINI, en qualité de représentant Intercentre CGT, coordonnateur central du groupe Thales, déclare avoir reçu en main propre au nom de l'organisation syndicale CGT un exemplaire original de l'Accord Groupe en faveur des personnes en situation de handicap 2012-2013-2014 notifié par la Direction de la société Thales SA, en sa qualité d'entreprise dominante du groupe.
 

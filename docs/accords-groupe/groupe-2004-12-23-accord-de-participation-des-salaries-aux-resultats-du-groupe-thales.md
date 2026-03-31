@@ -1,4 +1,3 @@
-
 # ACCORD DE PARTICIPATION DES SALARIES AUX RESULTATS DES SOCIETES DU GROUPE THALES
 
 >[Télécharger le PDF](sources/groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.pdf)
@@ -153,7 +152,7 @@ et tout autre motif relevant des lois et circulaires d'application sur la partic
 
 Toutefois, lorsque les droits revenant aux salariés n'atteignent pas un montant fixé par arrêté ministériel (80 € à la date de signature de l'accord), ces droits sont payés directement aux salariés concernés.
 
-# ARTICLE 7 – AFFECTATION AU PLAN D'EPARGNE GROUPE DES SOMMES ATTRIBUEES AUX BENEFICIAIRES
+#### ARTICLE 7 – AFFECTATION AU PLAN D'EPARGNE GROUPE DES SOMMES ATTRIBUEES AUX BENEFICIAIRES
 
 Les sommes correspondant aux droits individuels des salariés seront versées au dépositaire, après précompte de la CSG et de la CRDS, y compris l'intérêt de retard éventuel, et affectées, au choix des bénéficiaires, sur l'un des modes de placement cidessous, tel que prévu par le PEG THALES :
 
@@ -337,9 +336,9 @@ CGT: Bernard CARLIER
 
 FO: Odile Sissler
 
-# ANNEXE: Listes des Sociétés entrant dans le champ d'application de l'accord
+## ANNEXE: Listes des Sociétés entrant dans le champ d'application de l'accord
 
-## 1. Division Systèmes Aériens
+### 1. Division Systèmes Aériens
 
 THALES AIR DEFENCE 
 
@@ -347,7 +346,7 @@ THALES ATM
 
 THALES RAYTHEON SYSTEMS (JV)
 
-## 2. Division Aéronautique
+### 2. Division Aéronautique
 
 THALES AVIONICS ELECTRICAL SYSTEMS
 
@@ -365,7 +364,7 @@ THALES SYSTEMES AEROPORTES
 
 THALES COMPUTERS
 
-## 3. Division Naval
+### 3. Division Naval
 
 THALES NAVAL
 
@@ -375,7 +374,7 @@ S.C.M.A. PONS
 
 THALES SAFARE
 
-## 4. Division Systèmes Terrestres et Interarmées
+### 4. Division Systèmes Terrestres et Interarmées
 
 THALES LASER
 
@@ -398,7 +397,7 @@ TDA ARMEMENTS S.A.S
 ARSIEM
 
 
-## 5. Division Sécurité
+### 5. Division Sécurité
 
 THALES e-TRANSACTIONS
 
@@ -416,7 +415,7 @@ THALES TELEMATICS
 
 TRIXELL
 
-## 6. Division Services
+### 6. Division Services
 
 THALES ENGINEERING & CONSULTING
 
@@ -434,7 +433,7 @@ FACEO PROPERTY MANAGEMENT
 
 BUSINESS ONE
 
-## 7. Corporate
+### 7. Corporate
 
 THALES (siege + TRT)
 

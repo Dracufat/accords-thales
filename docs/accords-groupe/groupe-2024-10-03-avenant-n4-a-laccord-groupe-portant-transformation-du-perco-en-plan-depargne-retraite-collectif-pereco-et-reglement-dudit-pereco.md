@@ -70,7 +70,7 @@ Fait à Meudon en 6 exemplaires, le **3 octobre 2024**
 
 ---
 
-# ANNEXE I - Périmètre du Groupe
+## ANNEXE I - Périmètre du Groupe
 
 ### GBU AVS
 - Thales AVS France SAS
@@ -109,7 +109,7 @@ Fait à Meudon en 6 exemplaires, le **3 octobre 2024**
 
 ---
 
-# ANNEXE III - LISTE DES FORMULES DE GESTION
+## ANNEXE III - LISTE DES FORMULES DE GESTION
 
 ## III — 1 : Formule « Gestion Libre »
 
@@ -167,7 +167,7 @@ La désensibilisation se fera suivant les grilles figurant en Annexe V.
 
 ---
 
-# ANNEXE IV - CRITÈRES DE CHOIX ET TABLEAU RÉCAPITULATIF DES FONDS DU PERECO THALES
+## ANNEXE IV - CRITÈRES DE CHOIX ET TABLEAU RÉCAPITULATIF DES FONDS DU PERECO THALES
 
 Le choix des fonds proposés au sein du PERECO Groupe THALES vise à procurer aux salariés une gamme étendue de possibilités d'investissement.
 
@@ -228,7 +228,7 @@ Il est investi en Organismes de Placement Collectif (OPC) exposés essentielleme
 
 ---
 
-# ANNEXE VI — NOTICES DES FONDS COMMUNS DE PLACEMENT D'ENTREPRISE, FONDS SOLIDAIRES OU SICAV
+## ANNEXE VI — NOTICES DES FONDS COMMUNS DE PLACEMENT D'ENTREPRISE, FONDS SOLIDAIRES OU SICAV
 
 ---
 

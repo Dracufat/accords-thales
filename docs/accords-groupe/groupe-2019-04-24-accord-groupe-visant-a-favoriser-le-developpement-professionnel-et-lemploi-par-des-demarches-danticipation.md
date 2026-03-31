@@ -969,7 +969,7 @@ CFE-CGC : José CALZADO
 
 CGT  : Gregory LEWANDOWSKI
 
-# ANNEXE
+## ANNEXE
 
 ## ANNEXE 1 - Périmètre d'application de l'accord
 

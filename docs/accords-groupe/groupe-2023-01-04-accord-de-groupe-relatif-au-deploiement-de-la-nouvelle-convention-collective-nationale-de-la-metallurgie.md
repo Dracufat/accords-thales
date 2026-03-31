@@ -190,7 +190,7 @@ En application de l'accord de Groupe visant à favoriser le développement profe
 
 Conformément aux dispositions de la nouvelle Convention collective nationale de la Métallurgie, la fiche descriptive d'emploi est examinée par le manager et le salarié au cours de l'entretien professionnel (check-in développement). Si celle-ci ne correspond plus à l'emploi occupé, le salarié sera rattaché à l'emploi correspondant à ses missions. Dès lors que, lors de l'entretien de développement, les deux parties identifient une évolution de l'emploi de nature à en modifier le descriptif, ils saisissent la fonction Ressources humaines qui examinera en concertation avec la CAEF la nécessité de faire évoluer le descriptif d'emploi ou de créer un nouvel emploi.
 
-# ARTICLE 7 - INFORMATION ET CONSULTATION DES INSTANCES REPRESENTATIVES DU PERSONNEL
+#### ARTICLE 7 - INFORMATION ET CONSULTATION DES INSTANCES REPRESENTATIVES DU PERSONNEL
 
 Dans les meilleurs délais suite à la signature du présent accord, le comité social et économique (société mono-établissement) / comité social et économique central (société multi-établissements) de chaque société du Groupe relevant du périmètre du présent accord sera informé et consulté sur les modalités envisagées pour la mise en œuvre de la classification dans l'entreprise.
 

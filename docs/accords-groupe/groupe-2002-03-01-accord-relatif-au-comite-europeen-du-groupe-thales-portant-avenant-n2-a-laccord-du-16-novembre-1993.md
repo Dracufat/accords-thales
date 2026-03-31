@@ -175,7 +175,7 @@ La veille de chaque réunion plénière, les membres du Comité Européen titula
 
 Le règlement des modalités de vote sera arrêté lors de la première réunion ordinaire du Comité Européen.
 
-# 4.2. Comité de liaison
+### 4.2. Comité de liaison
 
 Il est institué un Comité de liaison qui exerce une mission permanente de liaison entre la Direction de THALES et les membres du Comité Européen.
 
@@ -326,7 +326,7 @@ POUR LA FEDEM: D. LAIME
 Pour la FEM: Blondine LANDA
 
 
-# ANNEXE 1
+## ANNEXE 1
 
 ## PÉRIMETRE DU COMITÉ EUROPÉEN
 
@@ -352,9 +352,9 @@ Pour la FEM: Blondine LANDA
 ### 2. SUISSE
 
 
-# ANNEXE 2
+## ANNEXE 2
 
-## LISTE DES PAYS AU SEIN DESQUELS THALES EMPLOIE AU MINIMUM 150 SALARIÉS AU 30 SEPTEMBRE 2001
+### LISTE DES PAYS AU SEIN DESQUELS THALES EMPLOIE AU MINIMUM 150 SALARIÉS AU 30 SEPTEMBRE 2001
 
 |             | <u>Effectif</u> | Répartition des sièges |  |
 |-------------|-----------------|------------------------|--|
@@ -371,11 +371,11 @@ Pour la FEM: Blondine LANDA
 |             | 57 801          | 32                     |  |
 
 
-# **ANNEXE 3**
+## **ANNEXE 3**
 
-## RÉPARTITION DES SIEGES POUR LA FRANCE ENTRE LES ORGANISATIONS SYNDICALES FRANCAISES
+### RÉPARTITION DES SIEGES POUR LA FRANCE ENTRE LES ORGANISATIONS SYNDICALES FRANCAISES
 
-## **SITUATION AU 30 SEPTEMBRE 2001**
+### **SITUATION AU 30 SEPTEMBRE 2001**
 
 |         | 1 <sup>er</sup> COLLEGE | 2è COLLEGE | 3è COLLEGE | TOTAL |
 |---------|-------------------------|------------|------------|-------|

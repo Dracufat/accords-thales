@@ -1,8 +1,7 @@
-# Accord relatif au comité européen du Groupe Thales
+# Accord relatif au comité européen du Groupe Thales Portant avenant n°3 à l'accord du 16 novembre 1993
 
 >[Télécharger le PDF](sources/groupe-2007-12-18-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n3-a-laccord-du-16-novembre-1993.pdf)
 
-# Portant avenant n°3 à l'accord du 16 novembre 1993
 
 ## PREAMBULE
 

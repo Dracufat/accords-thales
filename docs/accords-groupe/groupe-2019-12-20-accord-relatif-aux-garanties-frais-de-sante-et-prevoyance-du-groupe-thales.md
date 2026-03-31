@@ -363,7 +363,7 @@ Fait à Courbevoie, en 6 exemplaires, le **20 décembre 2019**
 
 ---
 
-# Annexe 1 — Périmètre d'application de l'accord
+## Annexe 1 — Périmètre d'application de l'accord
 
 ### GBU AVS
 - Thales AVS France SAS
@@ -403,7 +403,7 @@ Fait à Courbevoie, en 6 exemplaires, le **20 décembre 2019**
 
 ---
 
-# Annexe 2 — Résumé des garanties frais de santé
+## Annexe 2 — Résumé des garanties frais de santé
 
 *Résumé des garanties frais de santé auquel se substituera la notice d'information une fois qu'elle aura été communiquée à l'employeur.*
 
@@ -572,7 +572,7 @@ Un équipement (1 monture + 2 verres) tous les 2 ans, sauf en cas d'évolution d
 
 ---
 
-# Annexe 3 — Résumé des garanties prévoyance
+## Annexe 3 — Résumé des garanties prévoyance
 
 *Résumé des garanties prévoyance auquel se substituera la notice d'information une fois qu'elle aura été communiquée à l'employeur.*
 
