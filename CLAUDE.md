@@ -21,23 +21,23 @@
 - Conserver l'arborescence actuelle des 4 sous-dossiers
 - Le fichier sommaire à la racine sert de base pour la navigation mkdocs.yml
 
-## Conventions sur les fichierss markown des accords
+## Conventions sur les fichiers markown des accords
 
-- dans le fichier md juste apres le titre doit apparaitre un lien pour télécharger l'accord dans un bloc de citation
-- dans le fichier md juste apres le lien pour le téléchargement le bloc 
-
-> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
->
-> 🏢 **Thales** : CFDT: Guy HENRY
->
-> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CFTC (Alain DESVIGNES) · FO (Dominique ALLO)
->
-> ❌ **Non Signataires** : __liste-des-orgas-non-signataires__
-
+- dans le fichier md juste apres le titre doit apparaitre un bloc de citation avec le lien pour télécharger l'accord : `>[Télécharger le PDF](sources/<nom-de-l-accord.pdf)`
+- dans le fichier md juste apres le lien de teléchargement doit apparaitre un bloc de citation decrivant la signature :
+\> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+\>
+\> 🏢 **Thales** : __Nom-du-signataire-de-la direction__, __fonction__
+\>
+\> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CFTC (Alain DESVIGNES) · FO (Dominique ALLO)
+\>
+\> ❌ **Non Signataires** : __liste-des-orgas-non-signataires__
+- il ne doit pas y avoir de sommaire dans le fichier md
 
 ## Procédure pour l'ajout d'un accord
 
-- si je te signale qu'un accord a été ajouté, j'ai créé un fichier .md a partir d'un nouveau pdf que tu peux identifier car il n'a pas été commité
-- rajoute dans le fichier md juste apres le titre un lien pour télécharger l'accord: 
-`>[Télécharger le PDF](sources/<nom-de-l-accord.pdf)`
-- rajoute une ligne le référencant dans le sommaire du type 
+- si je te signale qu'un accord a été ajouté, j'ai créé un fichier .md à partir d'un nouveau pdf que tu peux identifier car il n'a pas été commité
+- rajoute dans le fichier md le bloc de téléchargement
+- rajoute dans le fichier md le bloc de signature
+- rajoute une ligne le référencant dans le sommaire du type en te basant sur la totalité en l'inserant dans les lignes existantes
+
