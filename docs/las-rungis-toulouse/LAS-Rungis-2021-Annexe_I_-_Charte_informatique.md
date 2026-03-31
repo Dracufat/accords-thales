@@ -10,6 +10,13 @@
 >
 > ❌ **Non Signataires** : N/A
 
+> **Validité:**  Indéterminée
+
+> **Eléments liés:** 
+> - [Reglement Interieur Rungis-Toulouse 2022](LAS-Rungis-2022-02-07Reglement_Interieur_Rungis-Toulouse_2022.md)
+> - [Annexe I - Charte informatique](LAS-Rungis-2021-Annexe_I_-_Charte_informatique.md)
+>  - [Annexe II - Code de conduite](LAS-Rungis-2021-Annexe_II_-_Code_de_conduite_2021.md)
+
 ---
 
 ## Préambule
