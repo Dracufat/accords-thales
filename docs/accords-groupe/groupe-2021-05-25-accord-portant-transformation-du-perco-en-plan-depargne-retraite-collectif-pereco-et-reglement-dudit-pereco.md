@@ -473,7 +473,7 @@ Pour les Organisations Syndicales représentatives au niveau du Groupe, les coor
 **CFTC** : P.O. Philippe DESLANDE
 
 
-# ANNEXES
+
 
 - ANNEXE I - PERIMETRE DE L'ACCORD
 

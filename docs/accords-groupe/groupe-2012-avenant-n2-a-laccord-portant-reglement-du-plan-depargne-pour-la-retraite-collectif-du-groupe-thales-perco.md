@@ -38,7 +38,7 @@ Fait à Neuilly sur seine en 10 exemplaires le 17 juin 2012.
 | CGT | Non signé                |
 
 ---
-# ANNEXES
+
 
 ## ANNEXE 1 – PÉRIMÈTRE DU GROUPE
 

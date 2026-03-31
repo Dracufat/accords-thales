@@ -415,7 +415,7 @@
 #### ↳ Avenant n°3 à l'accord groupe sur les Dispositions Sociales (version signée)
 
 - **Fichier** : [groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.md](accords-groupe/groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.md)
-- **Source PDF** : [groupe-2024-12-05_Avenant_n°3_a_l_accord_Groupe_Dispositions_Sociales_signe.pdf](accords-groupe/sources/groupe-2024-12-05_Avenant_n°3_a_l_accord_Groupe_Dispositions_Sociales_signe.pdf)
+- **Source PDF** : [groupe-2024-12-05_Avenant_n°3_a_l_accord_Groupe_Dispositions_Sociales_signe.pdf](accords-groupe/sources/groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.pdf)
 - **Date** : 05/12/2024
 - **Résumé** : Avenant n°3 aux Dispositions Sociales Groupe harmonisant le barème des indemnités de départ à la retraite pour les salariés de Thales DIS France SAS à compter du 1er janvier 2025, de 1 mois (2 ans d'ancienneté) à 8 mois (40 ans d'ancienneté). Il aligne ces salariés sur le régime applicable dans le reste du Groupe Thales. Cet avenant finalise l'harmonisation des conditions de fin de carrière post-intégration de Gemalto.
 - **Mots-clés** : `dispositions sociales` `indemnité départ retraite` `Thales DIS France` `harmonisation` `barème` `ancienneté`
@@ -457,7 +457,7 @@
 #### ↳ Avenant n°2 à l'accord groupe sur les conditions de déplacements (version signée)
 
 - **Fichier** : [groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.md](accords-groupe/groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.md)
-- **Source PDF** : [groupe-2024-02-24_Avenant_n°2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.pdf](accords-groupe/sources/groupe-2024-02-24_Avenant_n°2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.pdf)
+- **Source PDF** : [groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.pdf](accords-groupe/sources/groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.pdf)
 - **Date** : 24/02/2024
 - **Résumé** : Avenant n°2 à l'accord déplacements professionnels mettant le texte en conformité avec la nouvelle CCN Métallurgie 2022, notamment en excluant les cadres dirigeants et les salariés des groupes H-I de certaines mesures de compensation, et en actualisant le périmètre des sociétés. Il adapte également les majorations salariales aux nouvelles catégories de classification. Cet avenant est applicable au 1er janvier 2024.
 - **Mots-clés** : `déplacements professionnels` `CCN métallurgie` `cadres dirigeants` `classification` `avenant` `conformité conventionnelle`

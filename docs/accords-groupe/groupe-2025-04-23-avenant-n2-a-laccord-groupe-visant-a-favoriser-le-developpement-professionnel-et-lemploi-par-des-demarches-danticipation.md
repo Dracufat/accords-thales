@@ -43,7 +43,7 @@ Fait à Meudon en 6 exemplaires originaux, le 23 avril 2025.
 |      | Marc CRUCIANI | Stéphane KHATTI | Grégory LEWANDOWSKI |
 
 ---
-# ANNEXES
+
 
 ## Annexe 1 : Périmètre d'application de l'accord
 

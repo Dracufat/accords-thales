@@ -251,7 +251,7 @@ FO : Florence COPPEL
 
 SUPPER : Jean CHAMBRUN
 
-# ANNEXES
+
 
 Annexe 1 : Sociétés entrant dans le périmètre du Groupe à la date de signature de l'accord
 

@@ -168,7 +168,7 @@ CFE-CGC : José CALZADO
 CGT : Grégory LEWANDOWSKI
 
 
-# ANNEXES
+
 
 ## ANNEXE 1 Portant sur les conditions d'utilisation de l'Intranet Groupe, de la messagerie électronique et d'internet par les Intercentres
 

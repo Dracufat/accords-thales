@@ -234,7 +234,7 @@ CFTC : P.o. Phillips DESCANDE
 
 CGT : P.O. A Dervieux
 
-# ANNEXES
+
 
 ## ANNEXE Périmètre du Groupe
 

@@ -110,7 +110,7 @@ CFTC Véronique MICHAUT
 
 CGT Laurent TROMBINI
 
-# ANNEXES
+
 
 ## ANNEXE 1 Sociétés adhérentes au service autonome de Groupe de Santé au travail
 

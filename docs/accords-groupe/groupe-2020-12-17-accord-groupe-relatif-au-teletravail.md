@@ -448,7 +448,7 @@ CFTC : Véronique MICHAUT
 
 CGT : Gregory LEWANDOWSKI 
 
-# ANNEXES
+
 
 ## ANNEXE 1 : Périmètre d’application de l'accord]
 
@@ -496,6 +496,6 @@ Thales Digital Factory SAS
 
 ## ANNEXE 2 - Avenant de mise en place du télétravail
 
-![Capture d’écran 2026-03-29 à 22.55.59.png](images/Capture%20d%E2%80%99e%CC%81cran%202026-03-29%20a%CC%80%2022.55.59.png)
+![Capture d’écran 2026-03-29 à 22.55.59.png](images/Capture d’écran 2026-03-29 à 22.55.59.png)
 ## ANNEXE 3 - Modèle d’attestation sur l'honneur de la conformité de l'installation électrique du lieu de télétravail et de déclaration de télétravail auprès de la compagnie d’assurance au titre de la multirisques habitation
-![Capture d’écran 2026-03-29 à 22.56.09.png](images/Capture%20d%E2%80%99e%CC%81cran%202026-03-29%20a%CC%80%2022.56.09.png)
+![Capture d’écran 2026-03-29 à 22.56.09.png](images/Capture d’écran 2026-03-29 à 22.56.09.png)

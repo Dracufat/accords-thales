@@ -258,7 +258,7 @@ Fait en 6 exemplaires originaux. A Paris-la-Défense, le 20/12/2022
 | P.O. SANDRINE CORANT | P.O.    | Véronique MICHAUT | Grégory LEWANDOWSKI |
 
 ---
-# ANNEXES
+
 ## Annexe 1 – Périmètre d'application de l'accord
 
 **GBU AVS**

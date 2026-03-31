@@ -108,7 +108,7 @@ CFTC : Véronique MICHAUT
 
 CGT : Grégory LEWANDOWSKI
 
-# Annexes:
+:
 
 - Annexe 1 : Périmètre d'application de l'accord
 - Annexe 2 : Résumé des garanties frais de santé auquel se substituera la notice d'information une fois qu'elle aura été communiquée à l'employeur

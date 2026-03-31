@@ -308,7 +308,7 @@ CFTC : Stéphane KHATTI <br>
 CGT :  P.O. Thierry DUBERT <br>
 
 
-# ANNEXES 
+ 
 
 ## ANNEXE 1 - Périmètre du Groupe
 

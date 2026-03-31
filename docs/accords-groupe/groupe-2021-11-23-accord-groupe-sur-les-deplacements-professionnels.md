@@ -478,7 +478,7 @@ CFTC : Véronique MICHAUT
 
 CGT : Grégory LEWANDOWSKI
 
-# ANNEXES 
+ 
 
 ## ANNEXE 1 - Périmètre d'application de l'accord
 

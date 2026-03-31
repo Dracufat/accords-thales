@@ -49,7 +49,7 @@ Monsieur David TOURNADRE, Directeur des Ressources Humaines du groupe Thales.
 | SUPPER | JEHANNEL                  |
 
 ---
-# ANNEXES 
+ 
 ## ANNEXE 1 – Périmètre du Groupe
 
 ### GBU AVS

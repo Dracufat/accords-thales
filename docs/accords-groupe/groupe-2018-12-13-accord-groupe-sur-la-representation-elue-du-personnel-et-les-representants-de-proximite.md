@@ -554,7 +554,7 @@ CFE-CGC : José CALZADO
 **CGT** : Gregory LEWANDOWSKI
 
 
-# ANNEXES
+
 
 ## ANNEXE 1  Périmètre d'application de l'accord
 ### **GBU AVS**

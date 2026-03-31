@@ -338,7 +338,7 @@ Conformément aux dispositions législatives et réglementaires en vigueur, le t
 
 Fait à Courbevoie en 6 exemplaires, le 04/01/2023
 
-# ANNEXES 
+ 
 ## ANNEXE 1- Périmètre d’application de l’accord
 
 #### GBU AVS

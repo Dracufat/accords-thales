@@ -91,7 +91,7 @@ Pour les Organisations syndicales représentatives au niveau du groupe Thales :
 - La CFTC, Madame Véronique MICHAUT 
 - La CGT : NON SIGNE
 
-# ANNEXES
+
 
 ## ANNEXE 1 — Périmètre du Groupe
 
