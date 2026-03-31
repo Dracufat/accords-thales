@@ -20,6 +20,7 @@
 - Demander avant toute modification des sommaires SOMMMAIRE.md présents dans chaque catégorie
 - Conserver l'arborescence actuelle des 4 sous-dossiers
 - Le fichier sommaire à la racine sert de base pour la navigation mkdocs.yml
+- Le fichier sommaire contient un bloc de citation avec le nombre de documents et la date de derniere modification
 
 ## Conventions sur les fichiers markown des accords
 
@@ -40,5 +41,5 @@
 - rajoute dans le fichier md le bloc de téléchargement
 - rajoute dans le fichier md le bloc de signature
 - rajoute une ligne le référencant dans le sommaire du type en te basant sur la totalité en l'inserant dans les lignes existantes
-- met a jour la citation d'en tete avec le nombre
+- met a jour le bloc de citation du sommaire
 
