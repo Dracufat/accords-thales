@@ -37,6 +37,7 @@ SOURCES = [
 
 # Marqueur pour identifier la section générée (permet la mise à jour idempotente)
 SECTION_MARKER = "\n\n---\n\n## Sommaire global\n\n"
+REVOLUS_MARKER = "\n\n---\n\n## Accords révolus\n\n"
 
 
 # ---------------------------------------------------------------------------
@@ -202,6 +203,71 @@ def build_detail_table(rows: list[dict]) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Accords révolus
+# ---------------------------------------------------------------------------
+
+def collect_revolus_data() -> list[dict]:
+    """Parcourt tous les REVOLUS.md et retourne la liste des accords révolus."""
+    rows = []
+    for folder, label in SOURCES:
+        revolus_path = os.path.join(DOCS_DIR, folder, "REVOLUS.md")
+        if not os.path.exists(revolus_path):
+            continue
+
+        with open(revolus_path, encoding="utf-8") as f:
+            content = f.read()
+
+        all_rows = parse_table_rows(content)
+        if len(all_rows) < 2:
+            continue
+
+        last_categorie = ""
+        for row in all_rows[1:]:
+            while len(row) < 5:
+                row.append("")
+            categorie, titre, date, doc_cell, pdf_cell = row[0], row[1], row[2], row[3], row[4]
+
+            if categorie:
+                last_categorie = categorie
+            else:
+                categorie = last_categorie
+
+            if not titre.strip():
+                continue
+
+            rows.append({
+                "label": label,
+                "folder": folder,
+                "categorie": categorie,
+                "titre": titre.strip(),
+                "date": date,
+                "doc": doc_cell,
+                "pdf": pdf_cell,
+            })
+
+    return rows
+
+
+def build_revolus_table(rows: list[dict]) -> str:
+    """Tableau de tous les accords révolus."""
+    if not rows:
+        return "_Aucun accord révolu référencé._"
+
+    lines = [
+        "| Type d'accord | Catégorie | Titre | Date | Document | PDF |",
+        "|---|---|---|---|---|---|",
+    ]
+    for r in rows:
+        doc = _prefix_link(r["doc"], r["folder"])
+        pdf = _prefix_link(r["pdf"], r["folder"])
+        lines.append(
+            f"| {r['label']} | {r['categorie']} | {r['titre']} | {r['date']}"
+            f" | {doc} | {pdf} |"
+        )
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
 # Point d'entrée
 # ---------------------------------------------------------------------------
 
@@ -230,6 +296,9 @@ def main():
     summary = build_summary_table(totals, counts)
     detail = build_detail_table(rows)
 
+    revolus_rows = collect_revolus_data()
+    revolus_table = build_revolus_table(revolus_rows)
+
     section = (
         "### Détail de tous les accords\n\n"
         + detail
@@ -237,12 +306,14 @@ def main():
         + summary
         + "\n"
     )
-    new_content = current + SECTION_MARKER + section
+    revolus_section = revolus_table + "\n"
+
+    new_content = current + SECTION_MARKER + section + REVOLUS_MARKER + revolus_section
 
     with open(INDEX_PATH, "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    print(f"  ✓ index.md mis à jour — {len(rows)} accords listés, total {totals['**Total**']:,} tokens.".replace(",", "\u202f"))
+    print(f"  ✓ index.md mis à jour — {len(rows)} accords actifs, {len(revolus_rows)} accords révolus, total {totals['**Total**']:,} tokens.".replace(",", "\u202f"))
 
 
 if __name__ == "__main__":
