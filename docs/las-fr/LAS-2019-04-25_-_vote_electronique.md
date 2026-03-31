@@ -6,54 +6,16 @@
 >
 > 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
 >
-> ✅ **Signataires** : CFE-CGC, CFTC
+> ✅ **Signataires** : CFE-CGC (Philippe DAUDIGNY), CFTC (Ludovic BONENFANT)
 >
 > ❌ **Non Signataires** : CFDT, CGT, SUPPer
 
----
+> **Validité:** Durée indéterminée. 
 
-**Entre :**
-
-La **Société Thales LAS France SAS**, Société par Action Simplifiée au capital de 199 800 722 euros, inscrite au registre du Commerce et des Sociétés de Versailles sous le numéro 319 159 877, dont le Siège Social est situé 2, avenue Gay Lussac, 78990 Elancourt, représenté par Monsieur Philippe NETO, en sa qualité de Directeur des Ressources Humaines de la Société, dûment habilité à l'effet des présentes.
-
-*D'une part,*
-
-**Et :**
-
-**Les Organisations syndicales représentatives au niveau de la Société ci-après désignées :**
-
-- La **CFDT** représentée par : Madame Marie-Pierre ANDRE, Monsieur Thibault BONNEFIS, Monsieur Patrick JOUAUD, Monsieur Thierry PINSARD
-
-- La **CFE-CGC** représentée par : Monsieur Philippe DAUDIGNY, Monsieur Stéphane HUSSON, Monsieur Régis LEMERY, Monsieur Yann VANET
-
-- La **CFTC** représentée par : Madame Véronique MICHAUT, Monsieur Ludovic BONENFANT, Monsieur Eric DIEUDONNE, Monsieur Didier HAMONIC
-
-- La **CGT** représentée par : Monsieur Cyril AZEAU, Monsieur Eric DAGOIS, Monsieur Alain DERVIEUX, Monsieur Jean-Luc LECOINTE
-
-- **SUPPer** représenté par : Monsieur Patrick CHANTEREAU, Monsieur Aïssa DEGUIDA, Monsieur Claude FALCO, Monsieur Sylvain LUZET
-
-*D'autre part.*
+ 
+> **Eléments liés:**  aucun
 
 ---
-
-## SOMMAIRE
-
-- Préambule
-- Article 1 – Champ d'application
-- Article 2 – Recours au vote électronique
-- Article 3 – Cahier des charges
-  - Article 3.1 – Prestataire
-  - Article 3.2 – Caractéristiques du système
-  - Article 3.3 – Assistance téléphonique
-  - Article 3.4 – Information des formalités relatives à la Commission Nationale de l'Informatique et des Libertés
-  - Article 3.5 – Information du personnel
-- Article 4 – Formation au système de vote électronique
-- Article 5 – Protocoles d'accords préélectoraux au sein des établissements
-- Article 6 – Durée et suivi de l'accord
-- Article 7 – Dépôt et publicité
-
----
-
 ## Préambule
 
 Afin de faciliter l'organisation et le suivi des élections professionnelles des membres des comités sociaux et économiques de la Société Thales LAS France SAS et ainsi utiliser les moyens modernes mis à sa disposition, la Direction a souhaité s'inscrire dans une démarche de vote électronique.
@@ -172,12 +134,12 @@ Directeur des Ressources Humaines
 
 **Pour les Organisations syndicales représentatives au niveau de la Société**
 
-- La **CFDT** représentée par : Madame Marie-Pierre ANDRE, Monsieur Thibault BONNEFIS, Monsieur Patrick JOUAUD, Monsieur Thierry PINSARD : NON SIGNE
+- La **CFDT** représentée par :  NON SIGNE
 
-- La **CFE-CGC** représentée par : Monsieur Philippe DAUDIGNY, Monsieur Stéphane HUSSON, Monsieur Régis LEMERY, Monsieur Yann VANET :  Philippe DAUDIGNY
+- La **CFE-CGC** représentée par  :  Philippe DAUDIGNY
 
-- La **CFTC** représentée par : Madame Véronique MICHAUT, Monsieur Ludovic BONENFANT, Monsieur Eric DIEUDONNE, Monsieur Didier HAMONIC : Ludovic BONENFANT
+- La **CFTC** représentée par : Ludovic BONENFANT
 
-- La **CGT** représentée par : Monsieur Cyril AZEAU, Monsieur Eric DAGOIS, Monsieur Alain DERVIEUX, Monsieur Jean-Luc LECOINTE : NON SIGNE
+- La **CGT** :  NON SIGNE
 
-- **SUPPer** représenté par : Monsieur Patrick CHANTEREAU, Monsieur Aïssa DEGUIDA, Monsieur Claude FALCO, Monsieur Sylvain LUZET : NON SIGNE
+- **SUPPer** : NON SIGNE

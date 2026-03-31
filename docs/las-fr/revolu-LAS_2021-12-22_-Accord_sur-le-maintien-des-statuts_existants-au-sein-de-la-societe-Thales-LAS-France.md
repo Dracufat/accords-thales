@@ -10,30 +10,12 @@
 >
 > ❌ **Non Signataires** : —
 
----
 
-ENTRE :
 
-**LA SOCIETE Thales LAS France SAS**, Société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac — 78990 Elancourt, représentée par Philippe NETO, Directeur des Ressources Humaines de la Société Thales LAS France SAS, agissant par délégation du Président de la Société Thales LAS France SAS.
+> **Validité:** Révolu le 31 mars 2022
 
-Ci-après désignée la « Société »
-
-D'une part,
-
-ET :
-
-**LES ORGANISATIONS SYNDICALES REPRESENTATIVES** DESIGNEES CI-APRES :
-
-- **CFDT** représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Thierry PINSARD
-- **CFE-CGC** représentée par Messieurs Stéphane DESCLOS — Stéphane HUSSON — Régis LEMERY — Yann VANET
-- **CFTC** représentée par Madame Véronique MICHAUT et Messieurs Ludovic BONENFANT — Eric DIEUDONNE — Thierry LEGRAND
-- **CGT** représentée par Messieurs Cyril AZEAU — Eric DAGOIS — Alain DERVIEUX — Jean-Luc LECOINTE
-- **SUPPer** représenté par Messieurs Léo BEAUCHAMP — Aïssa DEGUIDA — Claude FALCO — Cyrille GRANDEMANGE
-
-Ci-après désignées les « Organisations Syndicales Représentatives »
-
-D'autre part.
-
+ 
+> **Eléments liés:** N/A
 ---
 
 ## PREAMBULE

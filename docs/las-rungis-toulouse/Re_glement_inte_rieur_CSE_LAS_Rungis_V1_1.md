@@ -10,6 +10,13 @@
 >
 > ❌ **Non Signataires** : N/A
 
+
+> **Validité:**  Indéterminée
+
+> **Eléments liés:**  Aucun
+
+---
+
 ![Logo CSE Thales Rungis](images/logo_cse_thales_rungis.png)
 **V1.1**
 

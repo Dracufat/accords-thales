@@ -10,6 +10,11 @@
 >
 > ❌ **Non Signataires** : CFDT, SUPPer
 
+> **Validité:** Revolu
+
+ 
+> **Eléments liés:**  aucun
+
 ---
 
 Suite aux réunions de négociation des 14 mai, 4 juin, 4 juillet et 9 juillet 2019, les parties conviennent que l'harmonisation des budgets ASC des comités sociaux et économiques de la Société se fera dans les conditions suivantes.

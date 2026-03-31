@@ -10,8 +10,14 @@
 >
 > ❌ **Non Signataires** : —
 
-*DRS – JRH : Edition du 03 mai 2019*
+> **Validité:** REVOLU
 
+ 
+> **Eléments liés:** N/A
+
+---
+*DRS – JRH : Edition du 03 mai 2019*
+Patrick CHANTEREAU
 ---
 
 Engagements complémentaires de la Direction dans le cadre de la signature majoritaire en date du 30 avril 2019 de : l'« Accord sur l'organisation des négociations au sein de la société Thales LAS France SAS liées au projet de simplification des structures juridiques du Groupe Thales »

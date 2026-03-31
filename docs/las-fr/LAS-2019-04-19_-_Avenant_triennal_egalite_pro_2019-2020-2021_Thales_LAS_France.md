@@ -6,46 +6,21 @@
 >
 > 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
 >
-> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT
+> ✅ **Signataires** : CFDT (Marie-Pierre ANDRE), CFE-CGC (Régis LEMERY), CFTC (Ludovic BONENFANT), CGT (Cyril AZEAU)
 >
 > ❌ **Non Signataires** : SUPPer
 
+> **Validité:** Durée indéterminée. 
+
+ 
+> **Eléments liés:** 
+> - [Accord égalité Professionnelle FH](LAS-2019-04-19-Accord-egalite-pro-femme-homme-LAS-France.md)
+> - [Avenant triennal 2019-2020-2021](LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.md)
+> - [Avenant triennal 2024-2025-2026](LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.md)
+> 
 
 ---
 
-ENTRE :
-
-**LA SOCIETE Thales LAS France SAS**, société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac – 78990 Elancourt, représentée par Monsieur Philippe NETO, Directeur des Ressources Humaines de la société Thales LAS France SAS, agissant par délégation du Président de la société Thales LAS France SAS.
-
-D'une part,
-
-ET :
-
-**LES ORGANISATIONS SYNDICALES** DESIGNEES CI-APRES :
-
-- **CFDT** représentée par Madame Marie-Pierre ANDRE - Messieurs Thibault BONNEFIS - Patrick JOUAUD - Thierry PINSARD
-
-- **CFE-CGC** représentée par Messieurs Philippe DAUDIGNY - Stéphane HUSSON - Régis LEMERY - Yann VANET
-
-- **CFTC** représentée par Madame Véronique MICHAUT et Messieurs Ludovic BONENFANT - Eric DIEUDONNE - Didier HAMONIC
-
-- **CGT** représentée par Messieurs Cyril AZEAU - Eric DAGOIS - Alain DERVIEUX - Jean-Luc LECOINTE
-
-- **SUPPer** représenté par Messieurs Patrick CHANTEREAU - Aïssa DEGUIDA - Claude FALCO - Sylvain LUZET
-
-D'autre part.
-
----
-
-  - Article 20 : Rôle de la commission centrale
-    - Article 20.1 : Missions générales
-    - Article 20.2 : Missions spécifiques aux plans d'action
-- **Dispositions générales**
-  - Article 21 : Champ d'application de l'accord
-  - Article 22 : Durée de l'accord
-  - Article 23 : Formalités de dépôt et de publicité
-
----
 
 ## Préambule
 
@@ -458,15 +433,15 @@ Un exemplaire original sera remis à chaque partie signataire.
 
 **Pour les Organisations syndicales :**
 
-- **CFDT** représentée par Madame Marie-Pierre ANDRE - Messieurs Thibault BONNEFIS - Patrick JOUAUD - Thierry PINSARD : Marie-Pierre ANDRE
+- **CFDT** : Marie-Pierre ANDRE
 
-- **CFE-CGC** représentée par Messieurs Philippe DAUDIGNY - Stéphane HUSSON - Régis LEMERY - Yann VANET : Régis LEMERY
+- **CFE-CGC** : Régis LEMERY
 
-- **CFTC** représentée par Madame Véronique MICHAUT et Messieurs Ludovic BONENFANT - Eric DIEUDONNE - Didier HAMONIC : Ludovic BONENFANT 
+- **CFTC** : Ludovic BONENFANT 
 
-- **CGT** représentée par Messieurs Cyril AZEAU - Eric DAGOIS - Alain DERVIEUX - Jean-Luc LECOINTE : Cyril AZEAU 
+- **CGT** : Cyril AZEAU 
 
-- **SUPPer** représenté par Messieurs Patrick CHANTEREAU - Aïssa DEGUIDA - Claude FALCO - Sylvain LUZET:  NON SIGNE
+- **SUPPer** :  NON SIGNE
 
 ---
 

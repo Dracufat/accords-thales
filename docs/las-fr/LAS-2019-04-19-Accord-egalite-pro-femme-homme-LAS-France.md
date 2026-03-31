@@ -14,9 +14,13 @@
 > **Validité:** Durée indéterminée. 
 
  
-> **Eléments liés:** N/A
+> **Eléments liés:** 
+> - [Accord égalité Professionnelle FH](LAS-2019-04-19-Accord-egalite-pro-femme-homme-LAS-France.md)
+> - [Avenant triennal 2019-2020-2021](LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.md)
+> - [Avenant triennal 2024-2025-2026](LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.md)
+> 
 
-
+---
 ## Préambule
 
 Le présent accord s'inscrit dans le cadre de l'harmonisation des statuts de la société Thales LAS France SAS à la suite de la fusion des sociétés Thales Air Systems, TOSA, TAO, Thales Angénieux, Thales Cryogénie et TDA.

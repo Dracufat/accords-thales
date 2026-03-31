@@ -10,8 +10,12 @@
 >
 > ❌ **Non Signataires** : CFDT
 
----
+> **Validité:** REVOLU
 
+ 
+> **Eléments liés:** N/A
+
+---
 ## INTRODUCTION
 
 Le Groupe Thales a simplifié ses structures juridiques en France.

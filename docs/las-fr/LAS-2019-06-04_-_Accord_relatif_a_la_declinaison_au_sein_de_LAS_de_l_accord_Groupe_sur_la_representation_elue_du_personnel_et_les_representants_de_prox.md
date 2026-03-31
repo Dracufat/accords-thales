@@ -10,53 +10,15 @@
 >
 > ❌ **Non Signataires** : SUPPer
 
----
 
-Entre les soussignés :
+> **Validité:** Durée indéterminée. 
 
-**Thales LAS France SAS**, société par action simplifiée au capital de 199 800 722 EUR dont le siège social est situé au 2, avenue Gay Lussac – 78851 Elancourt Cedex, représenté par Monsieur Philippe NETO, Directeur des Ressources Humaines de la Société, dûment mandaté,
-
-D'une part,
-
-et **les Organisations syndicales représentatives** au niveau de la Société ci-après désignées :
-
-- **CFDT,** représentée par : Madame Marie-Pierre ANDRE, Monsieur Thibault BONNEFIS, Monsieur Patrick JOUAUD, Monsieur Thierry PINSARD
-
-- **CFE-CGC,** représentée par : Monsieur Philippe DAUDIGNY, Monsieur Stéphane HUSSON, Monsieur Régis LEMERY, Monsieur Yann VANET
-
-- **CFTC,** représentée par : Madame Véronique MICHAUT, Monsieur Ludovic BONENFANT, Monsieur Eric DIEUDONNE, Monsieur Didier HAMONIC
-
-- **CGT,** représentée par : Monsieur Cyril AZEAU, Monsieur Eric DAGOIS, Monsieur Alain DERVIEUX, Monsieur Jean-Luc LECOINTE
-
-- **SUPPer,** représenté par : Monsieur Patrick CHANTEREAU, Monsieur Aïssa DEGUIDA, Monsieur Claude FALCO, Monsieur Sylvain LUZET
-
-D'autre part.
-
----
-
-## SOMMAIRE
-
-- **PREAMBULE**
-- **CHAPITRE 1 :** CSE d'établissement - Commissions
-  - Article 1.1 : Commission santé sécurité et conditions de travail
-  - Article 1.2 : Commission logement
-  - Article 1.3 : Commission emploi / formation
-  - Article 1.4 : Commission égalité professionnelle entre les femmes et les hommes
-  - Article 1.5 : Autres commissions
-- **CHAPITRE 2 :** CSE Central – Fonctionnement et commissions
-  - Article 2.1 : Fonctionnement du CSE Central
-  - Article 2.2 : Commission santé sécurité et conditions de travail centrale
-  - Article 2.3 : Commission économique
-  - Article 2.4 : Commission logement
-  - Article 2.5 : Commission emploi / formation
-  - Article 2.6 : Commission égalité professionnelle entre les femmes et les hommes
-  - Article 2.7 : Autres commissions
-- **CHAPITRE 3 :** Représentants de proximité
-- **CHAPITRE 4 :** Dispositions finales
-  - Article 4.1 : Périmètre de l'accord, durée et entrée en vigueur
-  - Article 4.2 : Révision et dénonciation
-  - Article 4.3 : Publicité et dépôt de l'accord
-
+ 
+> **Eléments liés:** 
+> - [Accord groupe sur la représentation du personnel et RP](../accords-groupe/groupe-2018-12-13-accord-groupe-sur-la-representation-elue-du-personnel-et-les-representants-de-proximite.md)
+> - [Declinaison LAS de l'accord groupe](LAS-2019-06-04_-_Accord_relatif_a_la_declinaison_au_sein_de_LAS_de_l_accord_Groupe_sur_la_representation_elue_du_personnel_et_les_representants_de_prox.md)
+> - [Accord sur la repartition des sièges au SCEC](LAS-2019-07-18_-nombre-et-Repartition_des_sieges_au_CSEC.md)
+> - [Avenant n°2](LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.md)
 ---
 
 ## PREAMBULE

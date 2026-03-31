@@ -10,29 +10,14 @@
 >
 > ❌ **Non Signataires** : SUPPer
 
----
+> **Validité:** Durée indéterminée. 
 
-ENTRE :
-
-**LA SOCIETE Thales LAS France SAS**, Société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac — 78990 Elancourt, représentée par Philippe NETO, Directeur des Ressources Humaines de la Société Thales LAS France SAS, agissant par délégation du Président de la Société Thales LAS France SAS.
-
-Ci-après désignée la « Société »
-
-D'une part,
-
-ET :
-
-**LES ORGANISATIONS SYNDICALES REPRESENTATIVES** DESIGNEES CI-APRES :
-
-- CFDT représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Patrick VETU
-- CFE-CGC représentée par Messieurs Stéphane DESCLOS — Stéphane HUSSON — Régis LEMERY — Yann VANET
-- CFTC représentée par Messieurs Mathieu BENBASSA — Ludovic BONENFANT — Igor GAZEYEFF — Thierry LEGRAND
-- CGT représentée par Messieurs Cyril AZEAU — Eric DAGOIS — Cyril DARDENNE — Jean-Luc LECOINTE
-- SUPPer représenté par Messieurs Léo BEAUCHAMP — Thierry COURDACHER — Aïssa DEGUIDA — Cyrille GRANDEMANGE
-
-Ci-après désignées les « Organisations Syndicales Représentatives »
-
-D'autre part.
+ 
+> **Eléments liés:** 
+> - [Accord égalité Professionnelle FH](LAS-2019-04-19-Accord-egalite-pro-femme-homme-LAS-France.md)
+> - [Avenant triennal 2019-2020-2021](LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.md)
+> - [Avenant triennal 2024-2025-2026](LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.md)
+> 
 
 ---
 

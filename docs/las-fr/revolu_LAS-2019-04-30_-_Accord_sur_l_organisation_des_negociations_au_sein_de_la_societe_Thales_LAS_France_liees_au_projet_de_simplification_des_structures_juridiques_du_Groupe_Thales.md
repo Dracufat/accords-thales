@@ -6,33 +6,17 @@
 >
 > 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
 >
-> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT, SUPPer
+> ✅ **Signataires** : CFDT (Thierry PINSARD), CFE-CGC (Philippe DAUDIGNY), CFTC (Ludovic BONENFANT), CGT (Eric DAGOIS), SUPPer (Patrick CHANTEREAU)
 >
 > ❌ **Non Signataires** : —
 
----
+> **Validité:** Revolu M+8 premier mai 2019
 
-ENTRE :
-
-**LA SOCIETE Thales LAS France SAS**, Société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac – 78990 Elancourt, représentée par Monsieur Philippe NETO, Directeur des Ressources Humaines de la Société Thales LAS France SAS, agissant par délégation du Président de la Société Thales LAS France SAS.
-
-D'une part,
-
-ET :
-
-**LES ORGANISATIONS SYNDICALES** DESIGNEES CI-APRES :
-
-- **CFDT** représentée par Madame Marie-Pierre ANDRE - Messieurs Thibault BONNEFIS - Patrick JOUAUD - Thierry PINSARD
-
-- **CFE-CGC** représentée par Messieurs Philippe DAUDIGNY - Stéphane HUSSON - Régis LEMERY - Yann VANET
-
-- **CFTC** représentée par Madame Véronique MICHAUT et Messieurs Ludovic BONENFANT - Eric DIEUDONNE - Didier HAMONIC
-
-- **CGT** représentée par Messieurs Cyril AZEAU - Eric DAGOIS - Alain DERVIEUX – Jean-Luc LECOINTE
-
-- **SUPPer** représenté par Messieurs Patrick CHANTEREAU - Aïssa DEGUIDA - Claude FALCO - Sylvain LUZET
-
-D'autre part.
+ 
+> **Eléments liés:**  
+> - [Accord sur la négociation](LAS-2019-04-30_-_Accord_sur_l_organisation_des_negociations_au_sein_de_la_societe_Thales_LAS_France_liees_au_projet_de_simplification_des_structures_juridiques_du_Groupe_Thales.md)
+> - [Engagements complémentaires](LAS-2019-05-07_-_Dispositions_complementaires_prorogation_periode_transitoire.md)
+> 
 
 ---
 
@@ -114,15 +98,15 @@ Un exemplaire original sera remis à chaque partie signataire.
 
 **Pour les Organisations syndicales :**
 
-- **CFDT** représentée par Madame Marie-Pierre ANDRE - Messieurs Thibault BONNEFIS - Patrick JOUAUD - Thierry PINSARD :  Thierry PINSARD 
+- **CFDT** : Thierry PINSARD 
 
-- **CFE-CGC** représentée par Messieurs Philippe DAUDIGNY - Stéphane HUSSON - Régis LEMERY - Yann VANET : Philippe DAUDIGNY
+- **CFE-CGC** : Philippe DAUDIGNY
 
-- **CFTC** représentée par Madame Véronique MICHAUT et Messieurs Ludovic BONENFANT - Eric DIEUDONNE - Didier HAMONIC : Ludovic BONENFANT 
+- **CFTC** : Ludovic BONENFANT 
 
-- **CGT** représentée par Messieurs Cyril AZEAU - Eric DAGOIS - Alain DERVIEUX - Jean-Luc LECOINTE : Eric DAGOIS
+- **CGT** : Eric DAGOIS
 
-- **SUPPer** représenté par Messieurs Patrick CHANTEREAU - Aïssa DEGUIDA - Claude FALCO - Sylvain LUZET : Patrick CHANTEREAU 
+- **SUPPer** : Patrick CHANTEREAU 
 
 ---
 

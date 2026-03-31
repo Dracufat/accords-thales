@@ -3,7 +3,7 @@
 
 >[Télécharger le PDF](sources/Re_glement-inte_rieur-CSEC-LAS-Fr-TOL-non-signe_.pdf)
 
-
+> Statut ?
 --- 
 En séance du JJ/MM/AAAA, le Comité Social et Economique Central (CSE-C) de la société THALES LAS FRANCE SAS a adopté le règlement ci-après.
 

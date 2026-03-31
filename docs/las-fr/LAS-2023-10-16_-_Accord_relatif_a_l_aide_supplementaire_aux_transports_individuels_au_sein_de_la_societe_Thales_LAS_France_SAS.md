@@ -10,29 +10,10 @@
 >
 > ❌ **Non Signataires** : —
 
----
+> **Validité:** Durée indéterminée. 
 
-ENTRE :
-
-**LA SOCIETE Thales LAS France SAS**, Société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac — 78990 Elancourt, représentée par Philippe NETO, Directeur des Ressources Humaines de la Société Thales LAS France SAS, agissant par délégation du Président de la Société Thales LAS France SAS.
-
-Ci-après désignée la « Société »
-
-D'une part,
-
-ET :
-
-**LES ORGANISATIONS SYNDICALES REPRESENTATIVES** DESIGNEES CI-APRES :
-
-- CFDT représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Patrick VETU
-- CFE-CGC représentée par Messieurs Stéphane DESCLOS — Stéphane HUSSON — Régis LEMERY — Yann VANET
-- CFTC représentée par Messieurs Mathieu BENBASSA — Ludovic BONENFANT — Igor GAZEYEFF — Thierry LEGRAND
-- CGT représentée par Messieurs Cyril AZEAU — Eric DAGOIS — Cyril DARDENNE — Jean-Luc LECOINTE
-- SUPPer représenté par Messieurs Léo BEAUCHAMP — Thierry COURDACHER — Aïssa DEGUIDA — Cyrille GRANDEMANGE
-
-Ci-après désignées les « Organisations Syndicales Représentatives »
-
-D'autre part.
+ 
+> **Eléments liés:**  
 
 ---
 
@@ -118,8 +99,8 @@ Fait à Elancourt en 7 exemplaires originaux, le 16 octobre 2023.
 
 **Pour les Organisations Syndicales Représentatives au niveau de la Société, les Délégués syndicaux centraux :**
 
-- CFDT représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Patrick VETU : Patrick JOUAUD 
-- CFE-CGC représentée par Messieurs Stéphane DESCLOS — Stéphane HUSSON — Régis LEMERY — Yann VANET : Stéphane HUSSON
-- CFTC représentée par Messieurs Mathieu BENBASSA — Ludovic BONENFANT — Igor GAZEYEFF — Thierry LEGRAND : Ludovic BONENFANT 
-- CGT représentée par Messieurs Cyril AZEAU — Eric DAGOIS — Cyril DARDENNE — Jean-Luc LECOINTE : Cyril DARDENNE
-- SUPPer représenté par Messieurs Léo BEAUCHAMP — Thierry COURDACHER — Aïssa DEGUIDA — Cyrille GRANDEMANGE : Cyrille GRANDEMANGE
+- CFDT : Patrick JOUAUD 
+- CFE-CGC  : Stéphane HUSSON
+- CFTC : Ludovic BONENFANT 
+- CGT : Cyril DARDENNE
+- SUPPer : Cyrille GRANDEMANGE

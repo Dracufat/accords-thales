@@ -10,35 +10,14 @@
 >
 > ❌ **Non Signataires** : —
 
----
+> **Validité:** Durée indéterminée. 
 
-Entre les soussignés :
-
-**Thales LAS France SAS**, société par action simplifiée au capital de 199 800 722 EUR dont le siège social est situé au 2, avenue Gay Lussac – 78851 Elancourt Cedex, représenté par Monsieur Philippe LAN, Directeur des Relations Sociales et Juridique RH de la Société, dûment mandaté,
-
-D'une part,
-
-et **les Organisations syndicales intéressées** présentes à la négociation :
-
-- **CFDT,** représentée par : T. PINSARD
-- **CFE-CGC,** représentée par : Ph. DAUDIGNY
-- **CFTC,** représentée par : D. HAMONIC
-- **CGT,** représentée par : E. DAGOIS
-- **SUPPer,** représenté par : P. CHANTEREAU
-
-D'autre part.
-
----
-
-## SOMMAIRE
-
-- Préambule
-- Article 1 : Nombre de membres du CSEC
-- Article 2 : Répartition des sièges entre les différents établissements de la Société Thales LAS France SAS
-- Article 3 : Répartition des sièges entre les collèges
-- Article 4 : Répartition des sièges en fonction du poids de la représentativité
-- Article 5 : Représentants syndicaux au CSEC
-- Article 6 : Entrée en vigueur, durée du présent accord et dépôt
+ 
+> **Eléments liés:**  
+> - [Accord groupe sur la représentation du personnel et RP](../accords-groupe/groupe-2018-12-13-accord-groupe-sur-la-representation-elue-du-personnel-et-les-representants-de-proximite.md)
+> - [Declinaison LAS de l'accord groupe](LAS-2019-06-04_-_Accord_relatif_a_la_declinaison_au_sein_de_LAS_de_l_accord_Groupe_sur_la_representation_elue_du_personnel_et_les_representants_de_prox.md)
+> - [Accord sur la repartition des sièges au SCEC](LAS-2019-07-18_-nombre-et-Repartition_des_sieges_au_CSEC.md)
+> - [Avenant n°2](LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.md)
 
 ---
 

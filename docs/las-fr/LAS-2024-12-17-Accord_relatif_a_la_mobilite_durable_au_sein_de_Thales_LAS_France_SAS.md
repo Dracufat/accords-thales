@@ -9,30 +9,11 @@
 > ✅ **Signataires** : CFDT, CFTC, CGT, SUPPer
 >
 > ❌ **Non Signataires** : CFE-CGC
+ 
+> **Validité:** jusqu'au 1er janvier 2028
 
----
-
-Entre,
-
-La Société THALES LAS France SAS, société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac — 78990 Elancourt, représentée par Philippe NETO, Directeur des Ressources Humaines de la Société Thales LAS France SAS, agissant par délégation du Président de la Société Thales LAS France SAS.
-
-Ci-après désignée la « Société »
-
-D'une part,
-
-Et,
-
-**LES ORGANISATIONS SYNDICALES REPRESENTATIVES DESIGNEES CI-APRES :**
-
-- **CFDT** représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Sébastien PRAUD — Patrick VETU
-- **CFE-CGC** représentée par Messieurs Pascal BOURY — Stéphane DESCLOS — Bertrand DUQUENOY — Régis LEMERY — Yann VANET
-- **CFTC** représentée par Madame Lydie COLIN — Messieurs Hervé DANIEL — Igor GAZEYEFF — Rodrigue RAAD
-- **CGT** représentée par Madame Sandra ITIER — Messieurs Cyril DARDENNE — Yoann JEHANNEUF — Anthony LECOINTE — Jean-Luc LECOINTE
-- **SUPPer** représenté par Madame Dalila BOUDLALE — Messieurs Thierry COURDACHER — Cyrille GRANDEMANGE — Sylvain LUZET
-
-Ci-après désignées les « Organisations Syndicales Représentatives »
-
-D'autre part,
+ 
+> **Eléments liés:**  
 
 ---
 
@@ -246,8 +227,8 @@ Fait à Elancourt, le 17 décembre 2024, en sept exemplaires originaux.
 
 **Pour les Organisations Syndicales Représentatives au niveau de la Société, les délégués centraux :**
 
-- **CFDT** représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Sébastien PRAUD — Patrick VETU : Patrick JOUAUD
-- **CFE-CGC** représentée par Messieurs Pascal BOURY — Stéphane DESCLOS — Bertrand DUQUENOY — Régis LEMERY — Yann VANET :  NON SIGNE 
-- **CFTC** représentée par Madame Lydie COLIN — Messieurs Hervé DANIEL — Igor GAZEYEFF — Rodrigue RAAD : Igor GAZEYEFF 
-- **CGT** représentée par Madame Sandra ITIER — Messieurs Cyril DARDENNE — Yoann JEHANNEUF — Anthony LECOINTE — Jean-Luc LECOINTE : Cyril DARDENNE 
-- **SUPPer** représenté par Madame Dalila BOUDLALE — Messieurs Thierry COURDACHER — Cyrille GRANDEMANGE — Sylvain LUZET : Cyrille GRANDEMANGE
+- **CFDT** : Patrick JOUAUD
+- **CFE-CGC** :  NON SIGNE 
+- **CFTC** : Igor GAZEYEFF 
+- **CGT** : Cyril DARDENNE 
+- **SUPPer** : Cyrille GRANDEMANGE

@@ -6,50 +6,17 @@
 >
 > 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
 >
-> ✅ **Signataires** : CFE-CGC, CFTC, CGT, SUPPer
+> ✅ **Signataires** : CFE-CGC (Philippe DAUDIGNY), CFTC (Didier HAMONIC), CGT (Alain DERVIEUX), SUPPer (Patrick CHANTEREAU)
 >
 > ❌ **Non Signataires** : CFDT
 
----
+> **Validité:** Durée indéterminée. 
 
-Entre les soussignés :
-
-**Thales LAS France SAS**, société par action simplifiée au capital de 199 800 722 EUR dont le siège social est situé au 2, avenue Gay Lussac – 78851 Elancourt Cedex, représenté par Monsieur Philippe NETO, Directeur des Ressources Humaines de la Société, dûment mandaté,
-
-D'une part,
-
-et **les Organisations syndicales représentatives** au niveau de la Société ci-après désignées :
-
-- **CFDT**, représentée par : Madame Marie-Pierre ANDRE, Monsieur Thibault BONNEFIS, Monsieur Patrick JOUAUD, Monsieur Thierry PINSARD
-
-- **CFE-CGC**, représentée par : Monsieur Philippe DAUDIGNY, Monsieur Stéphane HUSSON, Monsieur Régis LEMERY, Monsieur Yann VANET
-
-- **CFTC**, représentée par : Madame Véronique MICHAUT, Monsieur Ludovic BONENFANT, Monsieur Eric DIEUDONNE, Monsieur Didier HAMONIC
-
-- **CGT**, représentée par : Monsieur Cyril AZEAU, Monsieur Eric DAGOIS, Monsieur Alain DERVIEUX, Monsieur Jean-Luc LECOINTE
-
-- **SUPPer**, représenté par : Monsieur Patrick CHANTEREAU, Monsieur Aïssa DEGUIDA, Monsieur Claude FALCO, Monsieur Sylvain LUZET
-
-D'autre part.
+ 
+> **Eléments liés:** N/A
 
 ---
 
-## SOMMAIRE
-
-- **PREAMBULE**
-- **CHAPITRE 1 :** Nombre et périmètre des établissements distincts de la Société Thales LAS France SAS
-  - Article 1.1 : Définition des établissements distincts de la Société Thales LAS France SAS
-  - Article 1.2 : Périmètre de mise en place des CSE d'établissement et du CSEC
-- **CHAPITRE 2 :** Calendrier électoral permettant la mise en place concomitante d'un comité social et économique central et des comités sociaux et économiques d'établissement
-  - Article 2.1 : Mise en place concomitante des CSE d'établissements
-  - Article 2.2 : Impacts du calendrier électoral adopté sur la durée des mandats en cours au sein de la Société Thales LAS France SAS
-  - Article 2.3 : Impacts du calendrier électoral adopté sur la désignation des membres des CSE d'établissements au CSE Central
-- **CHAPITRE 3 :** Dispositions finales
-  - Article 3.1 : Périmètre de l'accord, durée et entrée en vigueur
-  - Article 3.2 : Révision et dénonciation
-  - Article 3.3 : Publicité et dépôt de l'accord
-
----
 
 ## PREAMBULE
 
@@ -177,12 +144,12 @@ Monsieur Philippe NETO, Directeur des Ressources Humaines de la Société,
 
 **Pour les Organisations syndicales représentatives au niveau de la Société :**
 
-- **CFDT**, représentée par : Madame Marie-Pierre ANDRE, Monsieur Thibault BONNEFIS, Monsieur Patrick JOUAUD, Monsieur Thierry PINSARD : NON SIGNE
+- **CFDT**, représentée par : NON SIGNE
 
-- **CFE-CGC**, représentée par : Monsieur Philippe DAUDIGNY, Monsieur Stéphane HUSSON, Monsieur Régis LEMERY, Monsieur Yann VANET
+- **CFE-CGC**, représentée par : Monsieur Philippe DAUDIGNY
 
-- **CFTC**, représentée par : Madame Véronique MICHAUT, Monsieur Ludovic BONENFANT, Monsieur Eric DIEUDONNE, Monsieur Didier HAMONIC
+- **CFTC**, représentée par :  Monsieur Didier HAMONIC
 
-- **CGT**, représentée par : Monsieur Cyril AZEAU, Monsieur Eric DAGOIS, Monsieur Alain DERVIEUX, Monsieur Jean-Luc LECOINTE
+- **CGT**, représentée par : Alain DERVIEUX
 
-- **SUPPer**, représenté par : Monsieur Patrick CHANTEREAU, Monsieur Aïssa DEGUIDA, Monsieur Claude FALCO, Monsieur Sylvain LUZET
+- **SUPPer**, représenté par : Patrick CHANTEREAU

@@ -10,30 +10,14 @@
 >
 > ❌ **Non Signataires** : —
 
----
+> **Validité:** Durée indéterminée. 
 
-ENTRE :
-
-**LA SOCIETE Thales LAS France SAS**, Société par actions simplifiée au capital de 199 800 722 Euros dont le Siège social est situé au 2 avenue Gay Lussac — 78990 Elancourt, représentée par Philippe LAN, Directeur des Relations Sociales et Juridique RH de la Société Thales LAS France SAS, dûment mandaté,
-
-Ci-après désignée la « Société »
-
-D'une part,
-
-ET :
-
-**LES ORGANISATIONS SYNDICALES REPRESENTATIVES** DESIGNEES CI-APRES :
-
-- CFDT représentée par Madame Marie-Pierre ANDRE — Messieurs Thibault BONNEFIS — Patrick JOUAUD — Thierry PINSARD
-- CFE-CGC représentée par Messieurs Stéphane DESCLOS — Stéphane HUSSON — Régis LEMERY — Yann VANET
-- CFTC représentée par Madame Véronique MICHAUT — Messieurs Ludovic BONENFANT — Eric DIEUDONNE — Thierry LEGRAND
-- CGT représentée par Messieurs Cyril AZEAU — Eric DAGOIS — Cyril DARDENNE — Jean-Luc LECOINTE
-- SUPPer représenté par Messieurs Léo BEAUCHAMP — Thierry COURDACHER — Aïssa DEGUIDA — Cyrille GRANDEMANGE
-
-Ci-après désignées les « Organisations Syndicales Représentatives »
-
-D'autre part.
-
+ 
+> **Eléments liés:**
+> - [Accord groupe sur la représentation du personnel et RP](../accords-groupe/groupe-2018-12-13-accord-groupe-sur-la-representation-elue-du-personnel-et-les-representants-de-proximite.md)
+> - [Declinaison LAS de l'accord groupe](LAS-2019-06-04_-_Accord_relatif_a_la_declinaison_au_sein_de_LAS_de_l_accord_Groupe_sur_la_representation_elue_du_personnel_et_les_representants_de_prox.md)
+> - [Accord sur la repartition des sièges au SCEC](LAS-2019-07-18_-nombre-et-Repartition_des_sieges_au_CSEC.md)
+> - [Avenant n°2](LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.md)
 ---
 
 ## Préambule
