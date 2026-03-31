@@ -92,3 +92,12 @@ accords-thales/
 3. mettre à jour le fichier SOMMAIRE.md de la sous-catégorie
 4. Exécuter le script `update_index_and_mkdocs.py`
 5. Commit and push, le workflow github publiera la nouvelle version du site 
+
+
+### Pour supprimer un accord révolu
+
+1. supprimer la reference dans le fichier SOMMAIRE.md de la sous-catégorie
+2. Renommer le fichier .md correspodant en préfixant par révolu
+3. ajouter la reference dans le fichier REVOLUS.md
+4. Exécuter le script `update_index_and_mkdocs.py`
+5. Commit and push, le workflow github publiera la nouvelle version du site 
