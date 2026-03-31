@@ -8,10 +8,12 @@ use_directory_urls: true
 theme:
   name: material
   language: fr
+  logo: logo.png
+  favicon: logo.png
   palette:
     - scheme: default
-      primary: blue grey
-      accent: light blue
+      primary: red
+      accent: black
   features:
     - navigation.tabs
     - navigation.sections
