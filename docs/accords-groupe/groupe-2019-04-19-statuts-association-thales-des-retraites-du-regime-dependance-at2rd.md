@@ -2,7 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2019-04-19-statuts-association-thales-des-retraites-du-regime-dependance-at2rd.pdf)
 
+> 📅 Signé le **19 avril 2019** — Courbevoie
+>
+> 🏢 **Thales** :Pierre GROIÉY, VP, Développement social et Protection sociale ; VP, Coordination RH France, DRH de Thales SA, 
+>
+> ✅ **Signataires** : CFE-CGC (José CALZADO) · CGT (P.O. Alain DERVIEUX) · CFTC (P.O. Philippe DESLANDE)
+>
+> ❌ **Non Signataires** : CFDT
 
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:**
+> - [Accord Régime Dépendance](groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.md)
+> - [Statuts AT2RD](groupe-2019-04-19-statuts-association-thales-des-retraites-du-regime-dependance-at2rd.md)
 
 ---
 

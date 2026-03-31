@@ -2,7 +2,23 @@
 
 >[Télécharger le PDF](sources/groupe-2004-01-13-accord-cadre-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.pdf)
 
+> 📅 Signé le **13 janvier 2004** — Paris
+>
+> 🏢 **Thales** : Yves BAROU, Directeur des Ressources Humaines du Groupe
+>
+> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CGT (Bernard CARLIER) · FO (Odile SISSLER)
+>
+> ❌ **Non Signataires** : aucun
 
+
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+> - [groupe-2012-06-21-annexes-a-lavenant-n1-a-laccord-groupe-sur-legalite-professionnelle-femmes-hommes.md](groupe-2012-06-21-annexes-a-lavenant-n1-a-laccord-groupe-sur-legalite-professionnelle-femmes-hommes.md)
+> - [groupe-2012-06-21-avenant-n1-a-laccord-cadre-groupe-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.md](groupe-2012-06-21-avenant-n1-a-laccord-cadre-groupe-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.md)
+---
 La politique de gestion des ressources humaines, développée dans le Groupe, doit contribuer à assurer l'égalité professionnelle entre les femmes et les hommes.
 
 La directive européenne 2002/73 du 23 septembre 2002, et la loi du 9 mai 2001 sur l'égalité professionnelle entre les femmes et les hommes constituent la référence de base pour le groupe THALES en terme d'égalité de traitement en matière d'emploi et de travail, ainsi que de dialogue social.

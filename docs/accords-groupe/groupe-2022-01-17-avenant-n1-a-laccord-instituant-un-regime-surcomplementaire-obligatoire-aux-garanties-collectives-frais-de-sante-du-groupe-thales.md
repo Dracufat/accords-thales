@@ -2,7 +2,24 @@
 
 >[Télécharger le PDF](sources/groupe-2022-01-17-avenant-n1-a-laccord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.pdf)
 
+> 📅 Signé le **27 janvier 2022** — Courbevoie
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur des Ressources
+>
+> ✅ **Signataires** : CFE-CGC (Marc CRUCIANI) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : CFDT
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord régime surcomplémentaire obligatoire](groupe-2019-12-20-accord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md)
+> - [Avenant n°1 2022-01](groupe-2022-01-17-avenant-n1-a-laccord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md)
+> - [Avenant n°2 2022-10](groupe-2022-10-avenant-n2-a-laccord-groupe-portant-sur-la-mise-en-place-dun-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante.md)
+> 
+
+---
 ## Préambule
 
 Le 20 décembre 2019, les parties ont conclu un accord de Groupe portant sur la mise en place d'un régime surcomplémentaire obligatoire aux garanties collectives « Frais de santé » (ci-après l'Accord).

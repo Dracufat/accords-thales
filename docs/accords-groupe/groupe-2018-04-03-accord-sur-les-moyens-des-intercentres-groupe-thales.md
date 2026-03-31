@@ -10,23 +10,12 @@
 >
 > ❌ **Non Signataires** : aucun
 
+> **Validité:**  Indéterminée
 
-Entre le Directeur des Ressources humaines du Groupe Thales,
+ 
+> **Eléments liés:** N/A
 
-d'une part
-
-et les Organisations syndicales représentatives au niveau du Groupe, représentées par les coordinateurs syndicaux ci-après désignés :
-
-la CFDT représentée par : Madame Anne COGNIEUX
-
- la CFE-CGC représentée par : Monsieur José CALZADO
-
- la CFTC représentée par : Madame Véronique MICHAUT
-
-la CGT représentée par : Monsieur Grégory LEWANDOWSKI
-
-d'autre part
-
+---
 
 ## **Préambule**
 

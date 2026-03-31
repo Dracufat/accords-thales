@@ -2,7 +2,30 @@
 
 >[Télécharger le PDF](sources/groupe-2007-10-17-accord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales.pdf)
 
+> 📅 Signé le **17 octobre 2007** — Neuilly-sur-Seine
+>
+> 🏢 **Thales** : Yves BAROU, Directeur des Ressources Humaines du Groupe THALES
+>
+> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CFTC (Alain DESVIGNES) · FO (Dominique ALLO)
+>
+> ❌ **Non Signataires** : CGT
 
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+> - [Avenant n°1 2011-03](groupe-2011-03-29-avenant-n1-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Avenant n°2 2012](groupe-2012-avenant-n2-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Avenant n°3 2016-05](groupe-2016-05-20-avenant-n3-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Avenant n°4 2018](groupe-2018-avenant-n4-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Accord de transformation du PERCO en PERECO 2021](groupe-2021-05-25-accord-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°1 2022-10](groupe-2022-10-03-avenant-n1-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°2 2023-04](groupe-2023-04-27-avenant-n2-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°3 2024-03](groupe-2024-03-20-avenant-n3-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°4 2024-10](groupe-2024-10-03-avenant-n4-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+
+---
 Le règlement du plan d'épargne pour la retraite collectif (ci-après le « PERCO Groupe Thales ») est institué par le présent accord (ci-après « l'Accord ») négocié entre Thales SA et les organisations syndicales représentatives signataires de l'avenant n°1 de l'accord sur les dispositions sociales pour le bénéfice des salariés de Thales SA et l'ensemble de ses sociétés filiales détenues directement ou indirectement à plus de 50% (ci-après « le Groupe »).
 
 Le présent PERCO Groupe Thales soumis aux dispositions du Titre IV du Livre IV du Code du travail est établi selon les modalités prévues par le Titre III du Livre I du Code du travail.
@@ -364,6 +387,7 @@ CFTC: Alain DESVIGNES
 
 FO: Dominique ALLO
 
+CGT :  NON SIGNE
 
 
 ## LISTE DES ANNEXES

@@ -2,7 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2007-12-18-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n3-a-laccord-du-16-novembre-1993.pdf)
 
+> 📅 Signé le **18 décembre 2007** — Neuilly-sur-Seine
+>
+> 🏢 **Thales** : Yves BAROU, Directeur des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CFTC (Alain DESVIGNES) · CGT (Laurent TROMBINI) · FO (Dominique ALLO)
+>
+> ❌ **Non Signataires** : aucun
 
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** N/A
+---
 ## PREAMBULE
 
 Le Comité européen de THALES a été institué par un accord du 16 novembre 1993.

@@ -2,9 +2,23 @@
 
 >[Télécharger le PDF](sources/groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
 
+> 📅 Signé le **23 avril 2025** — Meudon
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : CFDT
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord Développement professionnel, emploi et anticipation](groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+> - [Avenant n°1 2024-03](groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+> - [Avenant n°2 2024-07](groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
 
 ---
-
 ## Préambule
 
 L'accord Groupe visant à favoriser le développement professionnel et l'emploi par des démarches d'anticipation a été conclu pour une durée déterminée de cinq ans à compter du 24 avril 2019.

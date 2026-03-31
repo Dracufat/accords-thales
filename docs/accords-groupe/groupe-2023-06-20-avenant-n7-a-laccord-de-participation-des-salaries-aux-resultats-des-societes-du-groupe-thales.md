@@ -2,7 +2,27 @@
 
 >[Télécharger le PDF](sources/groupe-2023-06-20-avenant-n7-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.pdf)
 
+> 📅 Signé le **20 juin 2023** — Courbevoie
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+> - [Accord de participation des salariés aux résultats 2004](groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md)
+> - [Avenant n°1 2007](groupe-2007-avenant-n1-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°2 2016-05](groupe-2016-05-20-avenant-n2-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md)
+> - [Avenant n°3 2018-06](groupe-2018-06-29-avenant-n3-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°4 2020-06](groupe-2020-06-05-avenant-n4-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md)
+> - [Avenant n°5 2022-01](groupe-2022-01-27-avenant-n5-constatant-la-possibilite-de-poursuivre-lapplication-de-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°6 2022-10](groupe-2022-10-03-avenant-n6-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> 
+---
 ## Préambule
 
 Le 23 décembre 2004, les organisations syndicales représentatives du Groupe Thales et la Direction du Groupe ont conclu un accord de Groupe relatif à la participation des salariés aux résultats des sociétés du Groupe (ci-après « l'Accord Groupe » ou « l'Accord »).

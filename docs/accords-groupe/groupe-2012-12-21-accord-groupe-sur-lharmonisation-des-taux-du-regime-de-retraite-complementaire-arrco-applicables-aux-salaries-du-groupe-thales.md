@@ -2,7 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2012-12-21-accord-groupe-sur-lharmonisation-des-taux-du-regime-de-retraite-complementaire-arrco-applicables-aux-salaries-du-groupe-thales.pdf)
 
+> 📅 Signé le **20 décembre 2012** — Neuilly-sur-Seine
+>
+> 🏢 **Thales** : P. FOURNIE, Directeur des Ressources Humaines du Groupe THALES
+>
+> ✅ **Signataires** : CFDT (Didier GLADIEU) · CFE-CGC (Hervé TAUSKY) · CFTC (Véronique MICHAUT) · CGT (Laurent TROMBINI)
+>
+> ❌ **Non Signataires** : aucun
 
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** N/A
+---
 ## Préambule
 
 Par la signature des accords sur le guichet unique en 2005 et sur les Dispositions sociales en 2006, le groupe Thales a souhaité harmoniser les règles applicables à l'ensemble de ses salariés en matière de retraite et de prévoyance.

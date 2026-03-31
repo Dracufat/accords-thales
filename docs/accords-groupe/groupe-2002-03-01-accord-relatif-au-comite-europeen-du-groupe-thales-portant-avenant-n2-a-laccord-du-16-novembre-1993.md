@@ -2,7 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2002-03-01-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n2-a-laccord-du-16-novembre-1993.pdf)
 
+> 📅 Signé le **1er mars 2002** — Paris
+>
+> 🏢 **Thales** : Yves BAROU, Directeur des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Guy HENRI) · CFE-CGC (G. VERSCHAVE) · CGT (B. COULIN) · FO (O. SISSLER) · CFTC (M.A. MURCANTONI)
+>
+> ❌ **Non Signataires** : aucun
 
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** N/A
+---
 ## PREAMBULE
 
 Le Comité Européen de THALES (ex THOMSON-CSF) a été institué par un accord du 16 novembre 1993.

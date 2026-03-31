@@ -2,9 +2,22 @@
 
 >[Télécharger le PDF](sources/groupe-2024-09-12-questions-reponses-accord-groupe-sur-le-temps-et-lorganisation-du-travail-du-20-novembre-2023.pdf)
 
+> 📅 Signé le N/A
+>
+> 🏢 **Thales** : N/A
+>
+> ✅ **Signataires** : N/A
+>
+> ❌ **Non Signataires** : N/A
 
-Date de création : 5 mars 2024
 
+> **Eléments liés:** 
+> - [Accord temps et organisation de travail](groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.md)
+> - [Questions réponses sur l'accord](groupe-2024-09-12-questions-reponses-accord-groupe-sur-le-temps-et-lorganisation-du-travail-du-20-novembre-2023.md)
+> 
+
+> Date de création : 5 mars 2024
+---
 ## CHAPITRE I - DISPOSITIONS GENERALES
 
 ### 1. Entrée en vigueur progressive de l'accord ecord en 2024

@@ -2,7 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2021-06-04-accord-relatif-aux-modalites-du-controle-social-du-service-de-prevention-et-de-sante-au-travail-du-groupe-thales.pdf)
 
+> 📅 Signé le **4 juin 2021** — Paris-la-Défense
+>
+> 🏢 **Thales** : Clément DE VILLEPIN, Directeur Général des Ressources Humaines de THALES,
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFE-CGC (José CALZADO) · CFTC (P.O. Philippe DESLANDE) · CGT (Gregory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+> **Validité:**  5 ans
+
+ 
+> **Eléments liés:** N/A
+ 
+--- 
 ## **PREAMBULE**
 
 Le groupe Thales s'est engagé depuis de nombreuses années en France à assurer un cadre de travail sûr et sain à ses salariés, au travers d'actions en faveur de la qualité de vie au travail et d'une politique de prévention des risques professionnels exigeante.

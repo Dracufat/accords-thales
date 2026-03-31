@@ -2,7 +2,22 @@
 
 >[Télécharger le PDF](sources/groupe-2022-01-27-avenant-n1-a-laccord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.pdf)
 
+> 📅 Signé le **27 janvier 2022** — Courbevoie
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur des Ressources
+>
+> ✅ **Signataires** : CFDT (P.O. Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord CIE](groupe-2020-03-31-accord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md)
+> - [Avenant n°1 2022-01](groupe-2022-01-27-avenant-n1-a-laccord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md)
+
+---
 ## Préambule
 
 Le 31 mars 2020, les parties ont conclu un accord de Groupe portant sur la composition et le fonctionnement du comité interentreprise du groupe Thales (ci-après l'Accord).

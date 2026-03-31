@@ -2,7 +2,24 @@
 
 >[Télécharger le PDF](sources/groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.pdf)
 
+> 📅 Signé le **2 avril 2024** — Meudon
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI)
+>
+> ❌ **Non Signataires** : CGT
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord déplacements professionnels](groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.md)
+> - [Avenant n°1 2022-10](groupe-2022-10-03-avenant-n1-a-laccord-groupe-sur-les-deplacements-professionnels.md)
+> - [Avenant n°2 2024-02](groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.md)
+
+
+---
 ## Préambule
 
 Le 23 novembre 2021, les parties ont conclu un accord de Groupe portant sur les déplacements professionnels (ci-après l'Accord). Un premier avenant a été conclu le 3 octobre 2022 pour tenir compte des évolutions de la structure du Groupe Thales.

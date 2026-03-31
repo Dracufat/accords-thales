@@ -41,143 +41,134 @@ nav:
   - Accords interprofessionnels:
       - Sommaire: accords-interprofessionnels/SOMMAIRE.md
       - Convention collective nationale de la métallurgie — Textes de référence:
-          - Convention collective nationale de la métallurgie: accords-interprofessionnels/Convention-collective-nationale-de-la-metallurgie.md
-          - Note UIMM — Grille SMH 2026: accords-interprofessionnels/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md
+          - Convention collective nationale de la métallurgie: accords-interprofessionnels/metallurgie-20-02-2026-convention-collective.md
+          - Note UIMM — Grille des salaires minima hiérarchiques (SMH) dans la métallurgie à compter du 1er janvier 2026: accords-interprofessionnels/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md
 
   - Accords de groupe:
       - Sommaire: accords-groupe/SOMMAIRE.md
       - Dialogue social européen — Comité Européen:
-          - Accord fondateur Comité Européen Thomson-CSF (1993): accords-groupe/groupe-1993-11-16-accord-sur-la-creation-dun-comite-europeen-thomson-csf-et-filiales.md
-          - Avenant n°2 — Comité Européen Thales (2002): accords-groupe/groupe-2002-03-01-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n2-a-laccord-du-16-novembre-1993.md
-          - Avenant n°3 — Comité Européen Thales (2007): accords-groupe/groupe-2007-12-18-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n3-a-laccord-du-16-novembre-1993.md
-          - Annexe — Organisations syndicales Comité Européen (2007): accords-groupe/groupe-2007-organisations-syndicales-france-siegeant-au-comite-europeen-annexe-a-lavenant-n3-a-laccord-du-comite-europeen.md
-
-      - Comité de groupe et représentation du personnel:
-          - Accord sur le Comité de groupe Thales (2011): accords-groupe/groupe-2011-11-14-accord-sur-le-comite-de-groupe-thales.md
-          - Avenant n°1 — Comité de groupe (2016): accords-groupe/groupe-2016-01-15-avenant-n1-a-laccord-sur-le-comite-de-groupe-thales-du-14-novembre-2011.md
-          - Accord sur la représentation élue et représentants de proximité (2018): accords-groupe/groupe-2018-12-13-accord-groupe-sur-la-representation-elue-du-personnel-et-les-representants-de-proximite.md
-          - Accord sur la composition et le fonctionnement du CIE (2020): accords-groupe/groupe-2020-03-31-accord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md
-          - Avenant n°1 — CIE (2022): accords-groupe/groupe-2022-01-27-avenant-n1-a-laccord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md
-          - Accord sur la durée des mandats (2015): accords-groupe/groupe-2015-11-23-accord-groupe-thales-sur-la-duree-des-mandats-des-representants-du-personnel.md
-          - Accord sur les moyens des Intercentres (2018): accords-groupe/groupe-2018-04-03-accord-sur-les-moyens-des-intercentres-groupe-thales.md
-          - Accord relatif à la consultation stratégique et à la BDES (2014): accords-groupe/groupe-2014-10-23-accord-groupe-relatif-a-la-consultation-sur-les-orientations-strategiques-et-a-la-mise-en-oeuvre-au-sein-du-groupe-thales-de-la-base-de-donnees-economiques-et-sociales.md
-
+          - "Accord sur la création d'un Comité Européen Thomson-CSF et filiales": accords-groupe/groupe-1993-11-16-accord-sur-la-creation-dun-comite-europeen-thomson-csf-et-filiales.md
+          - Avenant n°2 — Accord relatif au Comité Européen du groupe Thales: accords-groupe/groupe-2002-03-01-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n2-a-laccord-du-16-novembre-1993.md
+          - Avenant n°3 — Accord relatif au Comité Européen du groupe Thales: accords-groupe/groupe-2007-12-18-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n3-a-laccord-du-16-novembre-1993.md
+          - Annexe — Organisations syndicales France siégeant au Comité Européen: accords-groupe/groupe-2007-organisations-syndicales-france-siegeant-au-comite-europeen-annexe-a-lavenant-n3-a-laccord-du-comite-europeen.md
+      - Comité de groupe:
+          - Accord sur le Comité de groupe Thales: accords-groupe/groupe-2011-11-14-accord-sur-le-comite-de-groupe-thales.md
+          - "Avenant n°1 à l'accord sur le Comité de groupe Thales du 14 novembre 2011": accords-groupe/groupe-2016-01-15-avenant-n1-a-laccord-sur-le-comite-de-groupe-thales-du-14-novembre-2011.md
+      - Représentation du personnel:
+          - Accord groupe sur la représentation élue du personnel et les représentants de proximité: accords-groupe/groupe-2018-12-13-accord-groupe-sur-la-representation-elue-du-personnel-et-les-representants-de-proximite.md
+          - Accord groupe sur la durée des mandats des représentants du personnel: accords-groupe/groupe-2015-11-23-accord-groupe-thales-sur-la-duree-des-mandats-des-representants-du-personnel.md
+          - Accord sur les moyens des Intercentres groupe Thales: accords-groupe/groupe-2018-04-03-accord-sur-les-moyens-des-intercentres-groupe-thales.md
+          - Accord groupe relatif à la consultation sur les orientations stratégiques et la BDES: accords-groupe/groupe-2014-10-23-accord-groupe-relatif-a-la-consultation-sur-les-orientations-strategiques-et-a-la-mise-en-oeuvre-au-sein-du-groupe-thales-de-la-base-de-donnees-economiques-et-sociales.md
       - Dialogue social et droit syndical:
-          - Accord sur le dialogue social, le droit syndical et l'évolution de carrière (2018): accords-groupe/groupe-2018-12-13-accord-sur-le-dialogue-social-le-droit-syndical-et-levolution-de-carriere-des-representants-du-personnel.md
-
-      - Égalité professionnelle Femmes-Hommes:
-          - Accord cadre égalité professionnelle (2004): accords-groupe/groupe-2004-01-13-accord-cadre-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.md
-          - Avenant n°1 — Égalité professionnelle (2012): accords-groupe/groupe-2012-avenant-n1-a-laccord-cadre-groupe-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.md
-          - Annexes à l'avenant n°1 — Égalité professionnelle (2012): accords-groupe/groupe-2012-annexes-a-lavenant-n1-a-laccord-groupe-sur-legalite-professionnelle-femmes-hommes.md
-
+          - "Accord sur le dialogue social, le droit syndical et l'évolution de carrière des représentants du personnel": accords-groupe/groupe-2018-12-13-accord-sur-le-dialogue-social-le-droit-syndical-et-levolution-de-carriere-des-representants-du-personnel.md
+      - CIE:
+          - Accord groupe sur la composition et le fonctionnement du Comité Interentreprise du groupe Thales: accords-groupe/groupe-2020-03-31-accord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md
+          - "Avenant n°1 à l'accord sur la composition et le fonctionnement du Comité Interentreprise": accords-groupe/groupe-2022-01-27-avenant-n1-a-laccord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md
+      - "Égalité professionnelle Femmes-Hommes":
+          - "Accord cadre relatif à l'égalité professionnelle entre les femmes et les hommes dans le groupe Thales en France": accords-groupe/groupe-2004-01-13-accord-cadre-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.md
+          - "Avenant n°1 à l'accord cadre groupe relatif à l'égalité professionnelle": accords-groupe/groupe-2012-06-21-avenant-n1-a-laccord-cadre-groupe-relatif-a-legalite-professionnelle-entre-les-femmes-et-les-hommes-dans-le-groupe-thales-en-france.md
+          - "Annexes à l'avenant n°1 — Égalité professionnelle femmes-hommes": accords-groupe/groupe-2012-06-21-annexes-a-lavenant-n1-a-laccord-groupe-sur-legalite-professionnelle-femmes-hommes.md
       - Participation des salariés aux résultats:
-          - Accord de participation aux résultats (2004): accords-groupe/groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md
-          - Avenant n°1 — Participation (2007): accords-groupe/groupe-2007-avenant-n1-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
-          - Avenant n°2 — Participation (2016): accords-groupe/groupe-2016-05-20-avenant-n2-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md
-          - Avenant n°3 — Participation (2018): accords-groupe/groupe-2018-06-29-avenant-n3-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
-          - Avenant n°4 — Participation (2020): accords-groupe/groupe-2020-06-05-avenant-n4-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md
-          - Avenant n°5 — Participation (2022): accords-groupe/groupe-2022-01-27-avenant-n5-constatant-la-possibilite-de-poursuivre-lapplication-de-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
-          - Avenant n°6 — Participation (2022): accords-groupe/groupe-2022-10-03-avenant-n6-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
-          - Avenant n°7 — Participation (2023): accords-groupe/groupe-2023-06-20-avenant-n7-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
-
+          - Accord de participation des salariés aux résultats du groupe Thales: accords-groupe/groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md
+          - Avenant n°1: accords-groupe/groupe-2007-avenant-n1-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
+          - Avenant n°2: accords-groupe/groupe-2016-05-20-avenant-n2-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md
+          - Avenant n°3: accords-groupe/groupe-2018-06-29-avenant-n3-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
+          - Avenant n°4: accords-groupe/groupe-2020-06-05-avenant-n4-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md
+          - "Avenant n°5 — Constatant la possibilité de poursuivre l'application de l'accord": accords-groupe/groupe-2022-01-27-avenant-n5-constatant-la-possibilite-de-poursuivre-lapplication-de-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
+          - Avenant n°6: accords-groupe/groupe-2022-10-03-avenant-n6-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
+          - Avenant n°7: accords-groupe/groupe-2023-06-20-avenant-n7-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md
       - Intéressement:
-          - Accord groupe sur l'intéressement 2023-2024-2025: accords-groupe/groupe-2023-06-27-accord-groupe-sur-linteressement-2023-2024-2025.md
-
+          - "Accord groupe sur l'intéressement 2023-2024-2025": accords-groupe/groupe-2023-06-27-accord-groupe-sur-linteressement-2023-2024-2025.md
       - Épargne retraite — PERCO / PERECO:
-          - Accord PERCO (2007): accords-groupe/groupe-2007-10-17-accord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales.md
-          - Avenant n°1 — PERCO (2011): accords-groupe/groupe-2011-03-29-avenant-n1-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
-          - Avenant n°2 — PERCO (2012): accords-groupe/groupe-2012-avenant-n2-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
-          - Avenant n°3 — PERCO (2016): accords-groupe/groupe-2016-05-20-avenant-n3-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
-          - Avenant n°4 — PERCO (2018): accords-groupe/groupe-2018-avenant-n4-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
-          - Accord transformation PERCO en PERECO (2021): accords-groupe/groupe-2021-05-25-accord-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
-          - Avenant n°1 — PERECO (2022): accords-groupe/groupe-2022-10-03-avenant-n1-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
-          - Avenant n°2 — PERECO (2023): accords-groupe/groupe-2023-04-27-avenant-n2-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
-          - Avenant n°3 — PERECO (2024): accords-groupe/groupe-2024-03-20-avenant-n3-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
-          - Avenant n°4 — PERECO (2024): accords-groupe/groupe-2024-10-03-avenant-n4-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
-
+          - "Accord portant règlement du Plan d'Épargne pour la Retraite Collectif du groupe Thales (PERCO)": accords-groupe/groupe-2007-10-17-accord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales.md
+          - Avenant n°1 au PERCO: accords-groupe/groupe-2011-03-29-avenant-n1-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
+          - Avenant n°2 au PERCO: accords-groupe/groupe-2012-avenant-n2-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
+          - Avenant n°3 au PERCO: accords-groupe/groupe-2016-05-20-avenant-n3-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
+          - Avenant n°4 au PERCO: accords-groupe/groupe-2018-avenant-n4-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md
+          - Accord portant transformation du PERCO en PERECO et règlement dudit PERECO: accords-groupe/groupe-2021-05-25-accord-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
+          - Avenant n°1 au PERECO: accords-groupe/groupe-2022-10-03-avenant-n1-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
+          - Avenant n°2 au PERECO: accords-groupe/groupe-2023-04-27-avenant-n2-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
+          - Avenant n°3 au PERECO: accords-groupe/groupe-2024-03-20-avenant-n3-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
+          - Avenant n°4 au PERECO: accords-groupe/groupe-2024-10-03-avenant-n4-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md
       - Retraite complémentaire — ARRCO:
-          - Accord harmonisation taux ARRCO (2012): accords-groupe/groupe-2012-12-21-accord-groupe-sur-lharmonisation-des-taux-du-regime-de-retraite-complementaire-arrco-applicables-aux-salaries-du-groupe-thales.md
-
+          - "Accord groupe sur l'harmonisation des taux du régime de retraite complémentaire ARRCO": accords-groupe/groupe-2012-12-21-accord-groupe-sur-lharmonisation-des-taux-du-regime-de-retraite-complementaire-arrco-applicables-aux-salaries-du-groupe-thales.md
       - Frais de santé et prévoyance:
-          - Accord garanties frais de santé et prévoyance (2019): accords-groupe/groupe-2019-12-20-accord-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
-          - Avenant n°1 — Frais de santé et prévoyance (2022): accords-groupe/groupe-2022-01-17-avenant-n1-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
-          - Avenant n°2 — Frais de santé et prévoyance (2022): accords-groupe/groupe-2022-10-avenant-n2-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
-          - Avenant n°3 — Frais de santé et prévoyance (2022): accords-groupe/groupe-2022-12-20-avenant-n3-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
-          - Avenant n°4 — Frais de santé et prévoyance (2023): accords-groupe/groupe-2023-01-16-avenant-n4-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
-          - Accord surcomplémentaire frais de santé (2019): accords-groupe/groupe-2019-12-20-accord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md
-          - Avenant n°1 — Surcomplémentaire santé (2022): accords-groupe/groupe-2022-01-17-avenant-n1-a-laccord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md
-          - Avenant n°2 — Surcomplémentaire santé (2022): accords-groupe/groupe-2022-10-avenant-n2-a-laccord-groupe-portant-sur-la-mise-en-place-dun-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante.md
-
+          - Accord relatif aux garanties frais de santé et prévoyance du groupe Thales: accords-groupe/groupe-2019-12-20-accord-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
+          - Avenant n°1: accords-groupe/groupe-2022-01-17-avenant-n1-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
+          - Avenant n°2: accords-groupe/groupe-2022-10-avenant-n2-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
+          - Avenant n°3: accords-groupe/groupe-2022-12-20-avenant-n3-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
+          - Avenant n°4: accords-groupe/groupe-2023-01-16-avenant-n4-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md
+          - Accord instituant un régime surcomplémentaire obligatoire aux garanties collectives frais de santé: accords-groupe/groupe-2019-12-20-accord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md
+          - Avenant n°1 au régime surcomplémentaire: accords-groupe/groupe-2022-01-17-avenant-n1-a-laccord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md
+          - Avenant n°2 au régime surcomplémentaire: accords-groupe/groupe-2022-10-avenant-n2-a-laccord-groupe-portant-sur-la-mise-en-place-dun-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante.md
       - Régime dépendance:
-          - Accord groupe régime dépendance (2019): accords-groupe/groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.md
-          - Statuts association AT2RD (2019): accords-groupe/groupe-2019-04-19-statuts-association-thales-des-retraites-du-regime-dependance-at2rd.md
-
+          - Accord groupe Thales portant sur le régime dépendance: accords-groupe/groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.md
+          - "Statuts de l'Association Thales des Retraités du Régime Dépendance (AT2RD)": accords-groupe/groupe-2019-04-19-statuts-association-thales-des-retraites-du-regime-dependance-at2rd.md
       - Organisation du travail:
-          - Accord groupe sur le temps et l'organisation du travail (2023): accords-groupe/groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.md
-          - Questions / Réponses — Accord temps de travail (2024): accords-groupe/groupe-2024-09-12-questions-reponses-accord-groupe-sur-le-temps-et-lorganisation-du-travail-du-20-novembre-2023.md
-          - Avenant n°3 — Dispositions Sociales (2024): accords-groupe/groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.md
-          - Accord groupe sur le CET (2023): accords-groupe/groupe-2023-07-12-accord-groupe-sur-le-compte-epargne-temps.md
-          - Accord groupe relatif au télétravail (2020): accords-groupe/groupe-2020-12-17-accord-groupe-relatif-au-teletravail.md
-
+          - "Accord groupe sur le temps et l'organisation du travail": accords-groupe/groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.md
+          - "Questions / Réponses sur l'accord groupe sur le temps et l'organisation du travail": accords-groupe/groupe-2024-09-12-questions-reponses-accord-groupe-sur-le-temps-et-lorganisation-du-travail-du-20-novembre-2023.md
+      - Télétravail:
+          - Accord groupe relatif au télétravail: accords-groupe/groupe-2020-12-17-accord-groupe-relatif-au-teletravail.md
+      - CET:
+          - Accord groupe sur le compte épargne temps (CET): accords-groupe/groupe-2023-07-12-accord-groupe-sur-le-compte-epargne-temps.md
+      - Dispositions sociales:
+          - Accord sur les Dispositions Sociales applicables aux salariés des sociétés du groupe Thales: accords-groupe/groupe-2022-06-13-ACCORD-DISPOSITIONS-SOCIALES.md
+          - "Avenant n°1 à l'accord groupe sur les Dispositions Sociales": accords-groupe/groupe-2022-10-03-Avenant-n1-a-lAccord-Dispositions-Sociales-signe-3oct2022.md
+          - "Avenant n°2 à l'accord groupe sur les Dispositions Sociales": accords-groupe/groupe-2024-03-20-Avenant_n2_a_l_accord_Groupe_sur_les_dispositions_sociales_applicables_aux_salaries_des_societes_du_Groupe_Thales-20mars2024.md
+          - "Avenant n°3 à l'accord groupe sur les Dispositions Sociales": accords-groupe/groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.md
       - Déplacements professionnels:
-          - Accord groupe sur les déplacements professionnels (2021): accords-groupe/groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.md
-          - Avenant n°1 — Déplacements professionnels (2022): accords-groupe/groupe-2022-10-03-avenant-n1-a-laccord-groupe-sur-les-deplacements-professionnels.md
-          - Avenant n°2 — Conditions de déplacements (2024): accords-groupe/groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.md
-
-      - Mobilité individuelle et développement professionnel (GPEC):
-          - Accord groupe relatif à la mobilité individuelle (2019): accords-groupe/groupe-2019-11-25-accord-groupe-relatif-a-la-mobilite-individuelle-des-salaries.md
-          - Accord GPEC — Développement professionnel et emploi (2019): accords-groupe/groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md
-          - Avenant n°1 — GPEC (2024): accords-groupe/groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md
-          - Avenant n°2 — GPEC (2025): accords-groupe/groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md
-
+          - Accord groupe sur les déplacements professionnels: accords-groupe/groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.md
+          - "Avenant n°1 à l'accord groupe sur les déplacements professionnels": accords-groupe/groupe-2022-10-03-avenant-n1-a-laccord-groupe-sur-les-deplacements-professionnels.md
+          - "Avenant n°2 à l'accord groupe sur les conditions de déplacements (version signée)": accords-groupe/groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.md
+      - Mobilité individuelle:
+          - Accord groupe relatif à la mobilité individuelle des salariés: accords-groupe/groupe-2019-11-25-accord-groupe-relatif-a-la-mobilite-individuelle-des-salaries.md
+      - Développement professionnel (GPEC et Anticipation):
+          - "Accord groupe visant à favoriser le développement professionnel et l'emploi par des démarches d'anticipation (GPEC)": accords-groupe/groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md
+          - Avenant n°1: accords-groupe/groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md
+          - Avenant n°2: accords-groupe/groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md
       - Santé au travail:
-          - Accord contrôle social du service de santé au travail (2015): accords-groupe/groupe-2015-11-23-accord-relatif-aux-modalites-du-controle-social-du-service-de-sante-au-travail-du-groupe-thales.md
-          - Accord contrôle social TPST (2021): accords-groupe/groupe-2021-06-04-accord-relatif-aux-modalites-du-controle-social-du-service-de-prevention-et-de-sante-au-travail-du-groupe-thales.md
-
+          - Accord relatif aux modalités du contrôle social du service de prévention et de santé au travail: accords-groupe/groupe-2021-06-04-accord-relatif-aux-modalites-du-controle-social-du-service-de-prevention-et-de-sante-au-travail-du-groupe-thales.md
       - Personnes en situation de handicap:
-          - Accord groupe handicap 2025-2026-2027: accords-groupe/groupe-2024-accord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2025-2026-2027.md
-          - Avenant — Accord handicap 2021-2022-2023 (prorogation): accords-groupe/groupe-2023-12-19-avenant-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.md
-          - Avenant n°2 — Accord handicap 2021-2022-2023 (2024): accords-groupe/groupe-2024-07-26-avenant-n2-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.md
-
+          - "Accord groupe en faveur des personnes en situation de handicap — années 2025-2026-2027": accords-groupe/groupe-2024-accord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2025-2026-2027.md
       - Convention collective nationale de la métallurgie:
-          - Accord groupe déploiement CCN Métallurgie (2023): accords-groupe/groupe-2023-01-04-accord-de-groupe-relatif-au-deploiement-de-la-nouvelle-convention-collective-nationale-de-la-metallurgie.md
+          - Accord de groupe relatif au déploiement de la nouvelle convention collective nationale de la métallurgie: accords-groupe/groupe-2023-01-04-accord-de-groupe-relatif-au-deploiement-de-la-nouvelle-convention-collective-nationale-de-la-metallurgie.md
 
   - Thales LAS France:
       - Sommaire: las-fr/SOMMAIRE.md
       - Harmonisation et transition des statuts collectifs:
-          - Accord relatif aux statuts collectifs transitoires (2018): las-fr/LAS-2018-01-18_-_Accord_relatif-aux-statuts-collectifs-applicables-a-titre-transitoire-au-sein-des-nouveaux-etablissements_Thales_LAS_France.md
-          - Accord sur l'organisation des négociations — simplification juridique (2019): las-fr/LAS-2019-04-30_-_Accord_sur_l_organisation_des_negociations_au_sein_de_la_societe_Thales_LAS_France_liees_au_projet_de_simplification_des_structures_juridiques_du_Groupe_Thales.md
-          - Accord prorogation période transitoire (2019): las-fr/LAS-2019-05-07_-_Dispositions_complementaires_prorogation_periode_transitoire.md
-          - Accord sur le maintien des statuts existants (2021): las-fr/LAS_2021-12-22_-Accord_sur-le-maintien-des-statuts_existants-au-sein-de-la-societe-Thales-LAS-France.md
-          - Accord de clôture — harmonisation des statuts (2022): las-fr/LAS-2022-02-01_-_Accord_de_cloture_dans_le_cadre_de_l_harmonisation_des_statuts.md
-
+          - Accord relatif aux statuts collectifs applicables à titre transitoire au sein des nouveaux établissements Thales LAS France: las-fr/LAS-2018-01-18_-_Accord_relatif-aux-statuts-collectifs-applicables-a-titre-transitoire-au-sein-des-nouveaux-etablissements_Thales_LAS_France.md
+          - "Accord sur l'organisation des négociations liées au projet de simplification des structures juridiques du groupe Thales": las-fr/LAS-2019-04-30_-_Accord_sur_l_organisation_des_negociations_au_sein_de_la_societe_Thales_LAS_France_liees_au_projet_de_simplification_des_structures_juridiques_du_Groupe_Thales.md
+          - Engagements complémentaires de la Direction — Prorogation de la période transitoire: las-fr/LAS-2019-05-07_-_Dispositions_complementaires_prorogation_periode_transitoire.md
+          - Accord sur le maintien des statuts existants au sein de la société Thales LAS France: las-fr/LAS_2021-12-22_-Accord_sur-le-maintien-des-statuts_existants-au-sein-de-la-societe-Thales-LAS-France.md
+          - "Accord de clôture dans le cadre de l'harmonisation des statuts": las-fr/LAS-2022-02-01_-_Accord_de_cloture_dans_le_cadre_de_l_harmonisation_des_statuts.md
       - Mise en place et fonctionnement des instances représentatives (CSE / CSEC):
-          - Accord mise en place CSE — élections et établissements distincts (2019): las-fr/LAS-2019-03-01_-_Mise_en_place_CSE_accord_date_elections_Etab_distincts.md
-          - Accord déclinaison LAS de l'accord groupe sur la représentation élue (2019): las-fr/LAS-2019-06-04_-_Accord_relatif_a_la_declinaison_au_sein_de_LAS_de_l_accord_Groupe_sur_la_representation_elue_du_personnel_et_les_representants_de_prox.md
-          - Accord relatif au nombre et à la répartition des sièges du CSEC (2019): las-fr/LAS-2019-07-18_-nombre-et-Repartition_des_sieges_au_CSEC.md
-          - Avenant n°2 — Répartition des sièges du CSEC (2022): las-fr/LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.md
-          - Engagements harmonisation budgets ASC des CSE (2019): las-fr/LAS-2019-07-11_-_Engagements_dans_le_cadre_de_l_harmonisation_des_budgets_relatifs_aux_ASC_des_CSE.md
-          - Accord vote électronique (2019): las-fr/LAS-2019-04-25_-_vote_electronique.md
-          - Règlement intérieur CSEC LAS France Toulouse (non signé): las-fr/Re_glement-inte_rieur-CSEC-LAS-Fr-TOL-non-signe_.md
-
-      - Égalité professionnelle Femmes-Hommes:
-          - Avenant triennal égalité professionnelle 2019-2020-2021: las-fr/LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.md
-          - Avenant triennal égalité professionnelle 2024-2025-2026: las-fr/LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.md
-
+          - Accord de mise en place des CSE — date des élections et établissements distincts: las-fr/LAS-2019-03-01_-_Mise_en_place_CSE_accord_date_elections_Etab_distincts.md
+          - "Accord relatif à la déclinaison au sein de LAS de l'accord groupe sur la représentation élue du personnel": las-fr/LAS-2019-06-04_-_Accord_relatif_a_la_declinaison_au_sein_de_LAS_de_l_accord_Groupe_sur_la_representation_elue_du_personnel_et_les_representants_de_prox.md
+          - Accord relatif au nombre et à la répartition des sièges au CSEC: las-fr/LAS-2019-07-18_-nombre-et-Repartition_des_sieges_au_CSEC.md
+          - "Avenant n°2 à l'accord relatif au nombre et à la répartition des sièges du CSEC": las-fr/LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.md
+          - "Engagements dans le cadre de l'harmonisation des budgets relatifs aux ASC des CSE": las-fr/LAS-2019-07-11_-_Engagements_dans_le_cadre_de_l_harmonisation_des_budgets_relatifs_aux_ASC_des_CSE.md
+          - Accord relatif à la mise en place du vote électronique: las-fr/LAS-2019-04-25_-_vote_electronique.md
+          - Accord relatif aux contributions patronales aux ASC et aux subventions de fonctionnement des CSE des établissements de LAS France SAS: las-fr/LAS-2019-12-04-Contributions-patronales-ASC-et-fonctionnement-CSE-Thales-LAS-France-SAS.md
+      - Règlement intérieur CSEC:
+          - Règlement intérieur du CSEC LAS France — Toulouse (non signé): las-fr/Re_glement-inte_rieur-CSEC-LAS-Fr-TOL-non-signe_.md
+      - "Égalité professionnelle Femmes-Hommes":
+          - "Accord relatif à l'égalité professionnelle entre les femmes et les hommes au sein de la Société Thales LAS France SAS": las-fr/LAS-2019-04-19-Accord-egalite-pro-femme-homme-LAS-France.md
+          - "Avenant triennal relatif à l'égalité professionnelle 2019-2020-2021 Thales LAS France": las-fr/LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.md
+          - "Avenant triennal relatif à l'égalité Femmes-Hommes Thales LAS France 2024-2025-2026": las-fr/LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.md
       - Organisation du travail et conditions de travail:
-          - Accord sur les horaires atypiques (2021): las-fr/LAS-2021-09-08-Accord-sur-les-horaires-atypiques-Thales-LAS-France.md
-          - Accord conditions particulières de travail en déplacement (2022): las-fr/LAS-2022-06-14_-_Accord_Thales_LAS_sur_les_conditions_particulieres_de_travail_en_deplacement_professionnel.md
-
+          - Accord sur les horaires atypiques Thales LAS France: las-fr/LAS-2021-09-08-Accord-sur-les-horaires-atypiques-Thales-LAS-France.md
+          - Accord sur les conditions particulières de travail en déplacement professionnel: las-fr/LAS-2022-06-14_-_Accord_Thales_LAS_sur_les_conditions_particulieres_de_travail_en_deplacement_professionnel.md
       - Mobilité et transports:
-          - Accord aide supplémentaire aux transports individuels (2023): las-fr/LAS-2023-10-16_-_Accord_relatif_a_l_aide_supplementaire_aux_transports_individuels_au_sein_de_la_societe_Thales_LAS_France_SAS.md
-          - Accord mobilité durable (2024): las-fr/LAS-2024-12-17-Accord_relatif_a_la_mobilite_durable_au_sein_de_Thales_LAS_France_SAS.md
+          - "Accord relatif à l'aide supplémentaire aux transports individuels au sein de Thales LAS France SAS": las-fr/LAS-2023-10-16_-_Accord_relatif_a_l_aide_supplementaire_aux_transports_individuels_au_sein_de_la_societe_Thales_LAS_France_SAS.md
+          - Accord relatif à la mobilité durable au sein de Thales LAS France SAS: las-fr/LAS-2024-12-17-Accord_relatif_a_la_mobilite_durable_au_sein_de_Thales_LAS_France_SAS.md
+      - Connect:
+          - "Accord mesures d'accompagnement dans le cadre du déménagement des activités des établissements de Rungis et Massy vers Velizy": las-fr/LAS-2025-04-19-Accord-mesures_d_accompagnement-demenagement_activites_Etabt_Rungis_Massy_vers_Helios_Velizy.md
 
-  - LAS Rungis-Toulouse:
+  - "LAS Rungis-Toulouse":
       - Sommaire: las-rungis-toulouse/SOMMAIRE.md
       - Règlement intérieur CSE:
-          - Règlement intérieur CSE LAS Rungis-Toulouse (2022): las-rungis-toulouse/LAS-Rungis-2022-02-07Reglement_Interieur_Rungis-Toulouse_2022.md
           - Règlement intérieur du CSE LAS Rungis V1.1: las-rungis-toulouse/Re_glement_inte_rieur_CSE_LAS_Rungis_V1_1.md
-
-      - Chartes et codes de conduite:
-          - Charte d'utilisation des ressources informatiques (Annexe I): las-rungis-toulouse/LAS-Rungis-2021-Annexe_I_-_Charte_informatique.md
-          - Code de conduite — Prévention de la corruption (Annexe II): las-rungis-toulouse/LAS-Rungis-2021-Annexe_II_-_Code_de_conduite_2021.md
+      - Règlement intérieur:
+          - "Règlement intérieur de l'établissement LAS Rungis-Toulouse (2022)": las-rungis-toulouse/LAS-Rungis-2022-02-07Reglement_Interieur_Rungis-Toulouse_2022.md
+          - "Charte d'utilisation des ressources informatiques (Annexe I)": las-rungis-toulouse/LAS-Rungis-2021-Annexe_I_-_Charte_informatique.md
+          - Code de conduite — Prévention du harcèlement et des agissements sexistes (Annexe II): las-rungis-toulouse/LAS-Rungis-2021-Annexe_II_-_Code_de_conduite_2021.md

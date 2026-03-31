@@ -3,6 +3,19 @@
 >[Télécharger le PDF](sources/groupe-2023-06-27-accord-groupe-sur-linteressement-2023-2024-2025.pdf)
 
 
+> 📅 Signé le **21 juin 2023** — Courbevoie
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI) · CGT (P.O. Thierry DUBERT)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Exercices 2023-2024-2025
+
+ 
+> **Eléments liés:** N/A
+---
 
 ## **PRÉAMBULE**
 

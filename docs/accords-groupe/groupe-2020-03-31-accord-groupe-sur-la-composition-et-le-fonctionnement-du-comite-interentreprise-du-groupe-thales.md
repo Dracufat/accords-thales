@@ -2,7 +2,22 @@
 
 >[Télécharger le PDF](sources/groupe-2020-03-31-accord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.pdf)
 
+> 📅 Signé le **31 mars 2020** — Courbevoie
+>
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe THALES
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord CIE](groupe-2020-03-31-accord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md)
+> - [Avenant n°1 2022-01](groupe-2022-01-27-avenant-n1-a-laccord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.md)
+
+---
 ## PREAMBULE
 
 L'accord portant création du comité interentreprises a été conclu avec l'ensemble des organisations syndicales, le 29 mars 1993.

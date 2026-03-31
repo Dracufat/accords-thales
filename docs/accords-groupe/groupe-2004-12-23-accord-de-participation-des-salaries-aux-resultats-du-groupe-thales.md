@@ -12,19 +12,19 @@
 > ❌ **Non Signataires** : aucun
 
 
-Entre les soussignés,
+> **Validité:**  Indéterminée
 
-**THALES SA**,
-
-située au 45 rue de Villiers, 92526 Neuilly sur Seine Cedex et représentée par Monsieur Yves BAROU, en sa qualité de Directeur des Ressources Humaines du Groupe THALES et,
-
-d'une part,
-
-**Et les représentants des organisations syndicales représentatives au niveau du Groupe THALES.**
-
-d'autre part,
-
-**il a été convenu et arrêté les dispositions suivantes :**
+ 
+> **Eléments liés:** 
+> - [Avenant n°1 2007](groupe-2007-avenant-n1-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°2 2016-05](groupe-2016-05-20-avenant-n2-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md)
+> - [Avenant n°3 2018-06](groupe-2018-06-29-avenant-n3-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°4 2020-06](groupe-2020-06-05-avenant-n4-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.md)
+> - [Avenant n°5 2022-01](groupe-2022-01-27-avenant-n5-constatant-la-possibilite-de-poursuivre-lapplication-de-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°6 2022-10](groupe-2022-10-03-avenant-n6-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> - [Avenant n°7 2023-06](groupe-2023-06-20-avenant-n7-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.md)
+> 
+---
 
 Le présent accord de participation est conclu, à titre dérogatoire, dans le cadre du Groupe THALES, composé des sociétés figurant en annexe.
 

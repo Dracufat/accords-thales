@@ -2,7 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2019-11-25-accord-groupe-relatif-a-la-mobilite-individuelle-des-salaries.pdf)
 
+> 📅 Signé le **25 novembre 2019** — Paris-la-Défense
+>
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe THALES,
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFE-CGC (José CALZADO) · CFTC (Véronique Michaut) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** N/A
+
+---
 
 ## **PREAMBULE**
 

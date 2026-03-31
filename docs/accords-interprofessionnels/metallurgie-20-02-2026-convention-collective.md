@@ -14,9 +14,10 @@
 > **Validité:**  illimité
 
  
-> **Eléments liés:** N/A
+> **Eléments liés:** 
+> - [Accord de déploiement dans Thales 2023-01](../accords-groupe/groupe-2023-01-04-accord-de-groupe-relatif-au-deploiement-de-la-nouvelle-convention-collective-nationale-de-la-metallurgie.md)
 
-
+---
 >modifiée par l'avenant du 1er juillet 2022 et par
 l'avenant du 30 septembre 2022 et par l'avenant du 11 juillet 2023 et par
 l'avenant du 3 novembre 2023 et par l'avenant du 10 juin 2024

@@ -3,6 +3,24 @@
 >[Télécharger le PDF](sources/groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.pdf)
 
 
+> 📅 Signé le **19/04/2019** — Courbevoie
+>
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe Thales
+>
+> ✅ **Signataires** :  CFE-CGC (José CALZADO) · CFTC (P.O. Philippe DESLANDE) · CGT (Alain DERVIEUX)
+>
+> ❌ **Non Signataires** : CFDT
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:**
+> - [Accord Régime Dépendance](groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.md)
+> - [Statuts AT2RD](groupe-2019-04-19-statuts-association-thales-des-retraites-du-regime-dependance-at2rd.md)
+
+---
+
+
 ## Préambule
 
 L'Accord d'Entreprise du 23 novembre 2006 portant sur les dispositions sociales applicables aux salariés des sociétés du Groupe THALES a instauré plusieurs régimes de protection sociale complémentaire dont un régime dépendance.

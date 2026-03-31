@@ -2,9 +2,25 @@
 
 >[Télécharger le PDF](sources/groupe-2019-12-20-accord-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.pdf)
 
+> 📅 Signé le **20 décembre 2019** — Courbevoie
+>
+> 🏢 **Thales** : Pierre GROISY, Directeur des Ressources Humaines France du Groupe
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX, avec réserve) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT) · CGT (P.O. Laurent TROMBINI)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord garanties frais de santé et prévoyance 2019](groupe-2019-12-20-accord-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md)
+> - [Avenant n°1 2022-01](groupe-2022-01-17-avenant-n1-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md)
+> - [Avenant n°2 2022-10](groupe-2022-10-avenant-n2-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md)
+> - [Avenant n°3 2022-12](groupe-2022-12-20-avenant-n3-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md)
+> - [Avenant n°4 2023-01](groupe-2023-01-16-avenant-n4-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.md)
 
 ---
-
 ## Préambule
 
 Depuis 2006, les salariés des sociétés du Groupe Thales bénéficient de garanties prévoyance et frais de santé responsable dans le cadre d'un dispositif collectif unique et obligatoire, répondant au souci de développer une protection sociale complète et uniforme pour l'ensemble des salariés du groupe, quelle que soit l'entreprise dont ils relèvent.

@@ -2,7 +2,18 @@
 
 >[Télécharger le PDF](sources/groupe-2024-07-26-avenant-n2-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.pdf)
 
+> 📅 Signé le **26 juillet 2024** — Meudon
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (P.O. Sandrine CORNUT) · CFE-CGC (P.O. Daniel FOURMESTRAUX) · CFTC (Stéphane KHATTI) · CGT (P.O. Philippe JESOVER)
+>
+> ❌ **Non Signataires** : aucun
 
+> Validité: REVOLU
+
+ 
+---
 ## Préambule
 
 L'accord Groupe en faveur des personnes en situation de handicap a été conclu le 17 novembre 2020, pour une durée déterminée de trois ans, soit du 1er janvier 2021 au 31 décembre 2023.

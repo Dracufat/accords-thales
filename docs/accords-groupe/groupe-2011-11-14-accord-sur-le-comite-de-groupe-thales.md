@@ -2,7 +2,24 @@
 
 >[Télécharger le PDF](sources/groupe-2011-11-14-accord-sur-le-comite-de-groupe-thales.pdf)
 
+> 📅 Signé le **14 novembre 2011** — Neuilly
+>
+> 🏢 **Thales** : Loic MAHÉ, Directeur des Ressources Humaines du Groupe THALES
+>
+> ✅ **Signataires** : CFDT (Didier GLADIEU) · CFE-CGC (Hervé TAUSKY) · CFTC (Véronique MICHAUT) · CGT (Laurent TROMBINI) · FO (Florence COPPEL) · SUPPER (Jean CHAMBRUN)
+>
+> ❌ **Non Signataires** : aucun
 
+
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+>  - [groupe-2016-01-15-avenant-n1-a-laccord-sur-le-comite-de-groupe-thales-du-14-novembre-2011.md](groupe-2016-01-15-avenant-n1-a-laccord-sur-le-comite-de-groupe-thales-du-14-novembre-2011.md)
+> 
+ 
+---
 ## **Préambule**
 
 L'accord portant création du comité de Groupe a été conclu avec l'ensemble des organisations syndicales concernées le 27 avril 2000.

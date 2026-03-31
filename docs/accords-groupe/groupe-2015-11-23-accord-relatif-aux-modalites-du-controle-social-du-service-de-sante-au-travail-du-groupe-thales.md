@@ -11,6 +11,12 @@
 > ❌ **Non Signataires** : aucun
 
 
+> **Validité:**  5ans, révolu en 2021
+
+ 
+> **Eléments liés:** N/A
+ 
+---
 ## **PREAMBULE**
 
 Le groupe Thales s'est engagé depuis de nombreuses années en France à assurer un cadre de travail sûr et sain à ses salariés, au travers d'actions en faveur de la qualité de vie au travail et d'une politique de prévention des risques professionnels exigeante.

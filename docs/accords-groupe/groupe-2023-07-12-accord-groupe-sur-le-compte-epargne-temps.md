@@ -2,6 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2023-07-12-accord-groupe-sur-le-compte-epargne-temps.pdf)
 
+> 📅 Signé le **27 juin 2023** — Courbevoie
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI) · CGT (Gregory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** N/A
+---
+
 
 ## **PRÉAMBULE**
 

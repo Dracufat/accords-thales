@@ -2,7 +2,23 @@
 
 >[Télécharger le PDF](sources/groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
 
+> 📅 Signé le **20 mars 2024** — Meudon
+>
+> 🏢 **Thales** : Patrice CAINE, Président Directeur Général du Groupe Thale
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (P.O. Philippe DESLANDE) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord Développement professionnel, emploi et anticipation](groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+> - [Avenant n°1 2024-03](groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+> - [Avenant n°2 2024-07](groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+
+---
 ## Préambule
 
 L'accord Groupe visant à favoriser le développement professionnel et l'emploi par des démarches d'anticipation a été conclu pour une durée déterminée de cinq ans à compter du 24 avril 2019 et arrive donc à échéance le 24 avril 2024.

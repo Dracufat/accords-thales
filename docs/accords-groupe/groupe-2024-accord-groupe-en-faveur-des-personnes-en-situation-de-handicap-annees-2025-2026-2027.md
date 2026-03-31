@@ -2,8 +2,19 @@
 
 >[Télécharger le PDF](sources/groupe-2024-12-19-accord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2025-2026-2027.pdf)
 
+> 📅 Signé le **19 décembre 2024** — Meudon
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (P.O. D. FOURMESTRAIX) · CFTC (P.O. Alice NGUYEN) · CGT (P.O. Philippe JESOVER)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Indéterminée
 
 
+> **Eléments liés:** 
+---
 ## **PREAMBULE**
 
 Le Groupe Thales s'est engagé, depuis 1992 dans une politique forte et ambitieuse en faveur de l'emploi des personnes en situation de handicap.
@@ -1003,7 +1014,8 @@ Les attributions de la Commission Emploi Handicap Bassin d'emploi sont les suiva
 
 ### 13.1 - NATURE, DUREE DE L'ACCORD ET ENTREE EN VIGUEUR
 
-Le présent accord groupe, au sens des articles L. 2232-30 et suivants du code du travail, est conclu dans le cadre des dispositions du Code du travail relatives aux accords collectifs, entre la Direction de la société Thales, entreprise dd
+Le présent accord groupe, au sens des articles L. 2232-30 et suivants du code du travail, est conclu dans le cadre des dispositions du Code du travail relatives aux accords collectifs, 
+entre la Direction de la société Thales, entreprise dd
 
 Il est conclu pour une durée de 3 ans, soit du 1er janvier 2025 au 31 décembre 2027.
 

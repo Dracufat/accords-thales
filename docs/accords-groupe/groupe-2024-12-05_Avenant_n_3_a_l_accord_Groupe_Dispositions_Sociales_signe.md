@@ -2,7 +2,24 @@
 
 >[Télécharger le PDF](sources/groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.pdf)
 
+> 📅 Signé le **4 décembre 2024** — Meudon
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
 
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accords Dispositions Sociales](groupe-2022-06-13-ACCORD-DISPOSITIONS-SOCIALES.md)
+> - [Avenant n°1 2022-10](groupe-2022-10-03-Avenant-n1-a-lAccord-Dispositions-Sociales-signe-3oct2022.md)
+> - [Avenant n°2 2024-03](groupe-2024-03-20-Avenant_n2_a_l_accord_Groupe_sur_les_dispositions_sociales_applicables_aux_salaries_des_societes_du_Groupe_Thales-20mars2024.md)
+> - [Avenant n°3 2024-12](groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.md)
+> - [Site THADIS](https://www.thadis.com/preambule/preambule/)
 
 ---
 

@@ -2,7 +2,22 @@
 
 >[Télécharger le PDF](sources/groupe-1993-11-16-accord-sur-la-creation-dun-comite-europeen-thomson-csf-et-filiales.pdf)
 
+> 📅 Signé le **16 novembre 1993** — Paris
+>
+> 🏢 **Thomson-CSF** : P. CALANDRA, Directeur des Affaires Sociales
+>
+> ✅ **Signataires** : CFDT (TAILLEZ) · CFTC (Michel BERNELLE) · CGT (Pierre LAIRESIE) · CGT-FO (J.Y. DANTEC)
+>
+> ❌ **Non Signataires** : aucun
 
+
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** N/A
+
+---
 ## Préambule
 
 Pour tenir compte de l'internationalisation de Thomson-CSF et ses filiales, la Direction et les organisations syndicales ont convenu de la création d'un Comité Européen de Thomson-CSF et filiales.

@@ -2,6 +2,23 @@
 
 >[Télécharger le PDF](sources/groupe-2016-01-15-avenant-n1-a-laccord-sur-le-comite-de-groupe-thales-du-14-novembre-2011.pdf)
 
+> 📅 Signé le **15 janvier 2016** — La Défense
+>
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du groupe Thales
+>
+> ✅ **Signataires** : CFDT (Didier GLADIEU) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT) · CGT (Laurent TROMBINI) · FO (Florence COPPEL) · SUPPER (JEHANNEL)
+>
+> ❌ **Non Signataires** : aucun
+
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+> - [groupe-2011-11-14-accord-sur-le-comite-de-groupe-thales.md](groupe-2011-11-14-accord-sur-le-comite-de-groupe-thales.md)
+> 
+> 
+ 
 
 ---
 

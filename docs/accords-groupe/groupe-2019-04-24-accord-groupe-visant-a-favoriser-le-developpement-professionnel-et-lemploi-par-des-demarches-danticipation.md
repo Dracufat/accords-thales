@@ -3,6 +3,24 @@
 >[Télécharger le PDF](sources/groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
 
 
+> 📅 Signé le **24/04/2019** — Courbevoie
+>
+> 🏢 **Thales** : Patrice CAINE, Président Directeur Général du Groupe Thales
+>
+> ✅ **Signataires** :  CFE-CGC (José CALZADO) · CFTC (P.O. Philippe DESLANDE) · CGT (Alain DERVIEUX) · CFDT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord Développement professionnel, emploi et anticipation](groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+> - [Avenant n°1 2024-03](groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+> - [Avenant n°2 2024-07](groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.md)
+
+---
+
 ## **PREAMBULE**
 
 Les parties à l'accord, après avoir établi le bilan du précédent accord (2013- 2018), et échangé leurs points de vue sur les enjeux de la période à venir, sont convenues de la nécessité de poursuivre leur démarche d'anticipation et de conclure ce nouvel accord pour la période 2019-2023.

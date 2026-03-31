@@ -3,6 +3,22 @@
 >[Télécharger le PDF](sources/groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.pdf)
 
 
+> 📅 Signé le **20 novembre 2023** — Meudon
+>
+> 🏢 **Thales** : Monsieur Patrice CAINE, Président-directeur général,
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI) · CGT (Gregory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+> - [Accord temps et organisation de travail](groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.md)
+> - [Questions réponses sur l'accord](groupe-2024-09-12-questions-reponses-accord-groupe-sur-le-temps-et-lorganisation-du-travail-du-20-novembre-2023.md)
+> 
+---
 ## **PREAMBULE**
 
 Dans les années 2000, le Groupe a cherché à mettre en place une organisation commune du temps de travail sur la base d'un accord cadre et d'accords société.

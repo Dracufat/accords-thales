@@ -2,6 +2,21 @@
 
 >[Télécharger le PDF](sources/groupe-2018-12-13-accord-sur-le-dialogue-social-le-droit-syndical-et-levolution-de-carriere-des-representants-du-personnel.pdf)
 
+> 📅 Signé le **13/12/2018** — Courbevoie
+>
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe Thales
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : aucun
+
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** N/A
+
+---
+
 
 ## **PREAMBULE**
 

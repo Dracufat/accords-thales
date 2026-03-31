@@ -2,7 +2,24 @@
 
 >[Télécharger le PDF](sources/groupe-2019-12-20-accord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.pdf)
 
+> 📅 Signé le **20 décembre 2019** — Courbevoie
+>
+> 🏢 **Thales** : Pierre GROISY, Directeur des Ressources Humaines France du Groupe THALES, en sa qualité d’employeur de Lentreprise dominante
+>
+> ✅ **Signataires** : CFE-CGC (José CALZADO) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : CFDT
 
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord régime surcomplémentaire obligatoire](groupe-2019-12-20-accord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md)
+> - [Avenant n°1 2022-01](groupe-2022-01-17-avenant-n1-a-laccord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.md)
+> - [Avenant n°2 2022-10](groupe-2022-10-avenant-n2-a-laccord-groupe-portant-sur-la-mise-en-place-dun-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante.md)
+> 
+
+---
 ## Préambule
 
 Le groupe Thales a mis en conformité son régime relatif aux frais de santé pour donner suite aux différentes réformes du contrat responsable (et notamment les décrets n°2014-1374 du 18 novembre 2014 et n°2019-21 du 12 janvier 2019) qui ont instauré des plafonds et des planchers de remboursements afin d'encadrer les dépenses de santé.

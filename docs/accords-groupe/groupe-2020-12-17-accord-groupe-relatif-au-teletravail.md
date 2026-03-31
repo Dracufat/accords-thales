@@ -2,6 +2,20 @@
 
 >[Télécharger le PDF](sources/groupe-2020-12-17-accord-groupe-relatif-au-teletravail.pdf)
 
+> 📅 Signé le **17 décembre 2020** — Courbevoie
+>
+> 🏢 **Thales** : Pierre Groisy, VP, Développement social et Protection social
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI)
+>
+> ❌ **Non Signataires** : CFE-CGC
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** N/A
+
+---
 
 ## PREAMBULE
 

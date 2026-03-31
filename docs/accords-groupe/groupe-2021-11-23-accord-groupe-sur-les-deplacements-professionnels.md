@@ -3,6 +3,24 @@
 >[Télécharger le PDF](sources/groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.pdf)
 
 
+> 📅 Signé le **23 novembre 2021** — Courbevoie
+>
+> 🏢 **Thales** : Monsieur Clément de VILLEPIN, Directeur des Ressources,
+>
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI) • CFE-CGC (P.O.)
+>
+> ❌ **Non Signataires** : N/A
+
+> **Validité:**  Indéterminée
+
+
+> **Eléments liés:** 
+> - [Accord déplacements professionnels](groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.md)
+> - [Avenant n°1 2022-10](groupe-2022-10-03-avenant-n1-a-laccord-groupe-sur-les-deplacements-professionnels.md)
+> - [Avenant n°2 2024-02](groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.md)
+
+
+---
 ## **Préambule**
 
 La gestion des déplacements professionnels connait un traitement disparate au sein du Groupe Thales : la Convention sur les déplacements de 1989 n'est pas appliquée par toutes les sociétés du Groupe, et l'est rarement de manière homogène, certaines d'entre elles ayant défini leur propre corps de règles.

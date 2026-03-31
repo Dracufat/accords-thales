@@ -2,7 +2,30 @@
 
 >[Télécharger le PDF](sources/groupe-2024-03-20-avenant-n3-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.pdf)
 
+> 📅 Signé le **20 mars 2024** — Meudon
+>
+> 🏢 **Thales** : Clément de VILLEPIN, Directeur Général des Ressources Humaines Groupe
+>
+> ✅ **Signataires** : CFDT (Anthony PERROCHEAU) · CFE-CGC (Marc CRUCIANI) · CFTC (Stéphane KHATTI)
+>
+> ❌ **Non Signataires** : CGT
 
+> **Validité:**  Indéterminée
+
+ 
+> **Eléments liés:** 
+> - [Accord PERCO 2007](groupe-2007-10-17-accord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales.md)
+> - [Avenant n°1 2011-03](groupe-2011-03-29-avenant-n1-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Avenant n°2 2012](groupe-2012-avenant-n2-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Avenant n°3 2016-05](groupe-2016-05-20-avenant-n3-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Avenant n°4 2018](groupe-2018-avenant-n4-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.md)
+> - [Accord de transformation du PERCO en PERECO 2021](groupe-2021-05-25-accord-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°1 2022-10](groupe-2022-10-03-avenant-n1-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°2 2023-04](groupe-2023-04-27-avenant-n2-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°3 2024-03](groupe-2024-03-20-avenant-n3-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+> - [Avenant n°4 2024-10](groupe-2024-10-03-avenant-n4-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.md)
+
+---
 ## Préambule
 
 Le 25 mai 2021, les parties ont conclu un accord de Groupe portant transformation du PERCO en Plan d'Épargne Retraite d'Entreprise Collectif (PERECO) et règlement dudit PERECO (ci-après « l'Accord »). L'Accord a fait l'objet de deux avenants conclus respectivement le 3 octobre 2022 et le 27 avril 2023.
