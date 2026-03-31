@@ -41,12 +41,42 @@ python main.py
 marker_single accords-groupe/sources/groupe-1993-11-16-accord-sur-la-creation-dun-comite-europeen-thomson-csf-et-filiales.pdf --output_dir ./accords-groupe --force_ocr 
 ```
 
+## Documentation (MkDocs)
+
+### Installer MkDocs Material
+
+```bash
+pip install mkdocs-material
+```
+
+### Lancer le serveur de développement
+
+```bash
+mkdocs serve
+```
+
+Le site est disponible sur http://127.0.0.1:8000/
+
+### Générer le site statique
+
+```bash
+mkdocs build
+```
+
+Le site est généré dans le dossier `site/`.
+
 ## Structure du projet
 
 ```
 accords-thales/
-├── accords-groupe/
-│   └── sources/        # Fichiers PDF sources
+├── docs/
+│    ├── /accords-groupe    # accords en format MD
+│    │   └── /sources       # sources en pdf
+│    ├── /accords-interprofessionnels
+│    │    └── /sources
+│    ├── ...
+│ 
+├── site/  # contient le site statique
 ├── main.py
 └── README.md
 ```
