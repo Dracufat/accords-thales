@@ -1,8 +1,12 @@
 # Projet Documentation
 
 ## Structure
-- fichiers .md répartis dans 4 sous-dossiers (les .md a la racine ne sont pas de la meme nature)
-- fichiers .pdf source correspondant a chaque .md 
+- fichiers .md répartis dans 4 sous-dossiers  correspondant a des types d'accord (les .md a la racine ne sont pas de la meme nature)
+  - docs/las-rungis-toulouse: Etablissement LAS Rungis - Toulouse
+  - docs/las-fr: Société LAS France
+  - docs/accords-groupe: Groupe
+  - docs/accords-interprofessionnels: Accords Interprofessionnels
+- fichiers .pdf source correspondant a chaque .md dans le dossier source/ attenant
 - Un sommaire (SOMMAIRE.md) à la racine
 - Objectif : générer un site MkDocs Material avec recherche plein texte
 
