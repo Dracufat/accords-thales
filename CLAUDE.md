@@ -40,4 +40,5 @@
 - rajoute dans le fichier md le bloc de téléchargement
 - rajoute dans le fichier md le bloc de signature
 - rajoute une ligne le référencant dans le sommaire du type en te basant sur la totalité en l'inserant dans les lignes existantes
+- met a jour la citation d'en tete avec le nombre
 
