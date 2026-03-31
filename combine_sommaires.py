@@ -139,6 +139,7 @@ def collect_data() -> tuple[list[dict], dict[str, int]]:
 
             rows.append({
                 "label": label,
+                "folder": folder,
                 "categorie": categorie,
                 "titre": titre,
                 "date": date,
@@ -175,6 +176,15 @@ def build_summary_table(totals: dict[str, int], counts: dict[str, int]) -> str:
     return "\n".join(lines)
 
 
+def _prefix_link(cell: str, folder: str) -> str:
+    """Préfixe les liens relatifs dans une cellule markdown avec le dossier."""
+    return re.sub(
+        r'\[([^\]]*)\]\((?!https?://)([^)]+)\)',
+        lambda m: f"[{m.group(1)}]({folder}/{m.group(2)})",
+        cell
+    )
+
+
 def build_detail_table(rows: list[dict]) -> str:
     """Tableau détaillé de tous les accords."""
     lines = [
@@ -182,9 +192,11 @@ def build_detail_table(rows: list[dict]) -> str:
         "|---|---|---|---|---|---|---:|",
     ]
     for r in rows:
+        doc  = _prefix_link(r["doc"],  r["folder"])
+        pdf  = _prefix_link(r["pdf"],  r["folder"])
         lines.append(
             f"| {r['label']} | {r['categorie']} | {r['titre']} | {r['date']}"
-            f" | {r['doc']} | {r['pdf']} | {r['tokens_str']} |"
+            f" | {doc} | {pdf} | {r['tokens_str']} |"
         )
     return "\n".join(lines)
 
