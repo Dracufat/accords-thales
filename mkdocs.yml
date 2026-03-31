@@ -36,9 +36,15 @@ markdown_extensions:
 
 nav:
   - Accueil: index.md
-  - Sommaire: SOMMAIRE.md
+
+  - Accords interprofessionnels:
+      - Sommaire: accords-interprofessionnels/SOMMAIRE.md
+      - Convention collective nationale de la métallurgie — Textes de référence:
+          - Convention collective nationale de la métallurgie: accords-interprofessionnels/Convention-collective-nationale-de-la-metallurgie.md
+          - Note UIMM — Grille SMH 2026: accords-interprofessionnels/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md
 
   - Accords de groupe:
+      - Sommaire: accords-groupe/SOMMAIRE.md
       - Dialogue social européen — Comité Européen:
           - Accord fondateur Comité Européen Thomson-CSF (1993): accords-groupe/groupe-1993-11-16-accord-sur-la-creation-dun-comite-europeen-thomson-csf-et-filiales.md
           - Avenant n°2 — Comité Européen Thales (2002): accords-groupe/groupe-2002-03-01-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n2-a-laccord-du-16-novembre-1993.md
@@ -135,12 +141,8 @@ nav:
       - Convention collective nationale de la métallurgie:
           - Accord groupe déploiement CCN Métallurgie (2023): accords-groupe/groupe-2023-01-04-accord-de-groupe-relatif-au-deploiement-de-la-nouvelle-convention-collective-nationale-de-la-metallurgie.md
 
-  - Accords interprofessionnels:
-      - Convention collective nationale de la métallurgie — Textes de référence:
-          - Convention collective nationale de la métallurgie: accords-interprofessionnels/Convention-collective-nationale-de-la-metallurgie.md
-          - Note UIMM — Grille SMH 2026: accords-interprofessionnels/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md
-
   - Thales LAS France:
+      - Sommaire: las-fr/SOMMAIRE.md
       - Harmonisation et transition des statuts collectifs:
           - Accord relatif aux statuts collectifs transitoires (2018): las-fr/LAS-2018-01-18_-_Accord_relatif-aux-statuts-collectifs-applicables-a-titre-transitoire-au-sein-des-nouveaux-etablissements_Thales_LAS_France.md
           - Accord sur l'organisation des négociations — simplification juridique (2019): las-fr/LAS-2019-04-30_-_Accord_sur_l_organisation_des_negociations_au_sein_de_la_societe_Thales_LAS_France_liees_au_projet_de_simplification_des_structures_juridiques_du_Groupe_Thales.md
