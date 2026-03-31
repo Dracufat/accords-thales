@@ -21,6 +21,20 @@
 - Conserver l'arborescence actuelle des 4 sous-dossiers
 - Le fichier sommaire à la racine sert de base pour la navigation mkdocs.yml
 
+## Conventions sur les fichierss markown des accords
+
+- dans le fichier md juste apres le titre doit apparaitre un lien pour télécharger l'accord dans un bloc de citation
+- dans le fichier md juste apres le lien pour le téléchargement le bloc 
+
+> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+>
+> 🏢 **Thales** : CFDT: Guy HENRY
+>
+> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CFTC (Alain DESVIGNES) · FO (Dominique ALLO)
+>
+> ❌ **Non Signataires** : __liste-des-orgas-non-signataires__
+
+
 ## Procédure pour l'ajout d'un accord
 
 - si je te signale qu'un accord a été ajouté, j'ai créé un fichier .md a partir d'un nouveau pdf que tu peux identifier car il n'a pas été commité
