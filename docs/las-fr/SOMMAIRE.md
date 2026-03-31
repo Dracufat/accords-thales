@@ -1,6 +1,6 @@
 # Sommaire des accords Thales Las France
 
-> 20 accords — organisés par thème — dernière mise à jour : 2026-03-31
+> 21 accords — organisés par thème — dernière mise à jour : 2026-03-31
 
 ---
 
@@ -32,3 +32,4 @@ Les accords applicables a la société LAS France sont tirés de l'intranet.
 |                                                                                | Accord sur les conditions particulières de travail en déplacement professionnel                                                       | 14/06/2022 | [↗](LAS-2022-06-14_-_Accord_Thales_LAS_sur_les_conditions_particulieres_de_travail_en_deplacement_professionnel.md) | [↗](sources/LAS-2022-06-14_-_Accord_Thales_LAS_sur_les_conditions_particulieres_de_travail_en_deplacement_professionnel.pdf)                      |
 | **Mobilité et transports**                                                     | Accord relatif à l'aide supplémentaire aux transports individuels au sein de Thales LAS France SAS                                    | 16/10/2023 | [↗](LAS-2023-10-16_-_Accord_relatif_a_l_aide_supplementaire_aux_transports_individuels_au_sein_de_la_societe_Thales_LAS_France_SAS.md) | [↗](sources/LAS-2023-10-16_-_Accord_relatif_a_l_aide_supplementaire_aux_transports_individuels_au_sein_de_la_societe_Thales_LAS_France_SAS.pdf)   |
 |                                                                                | Accord relatif à la mobilité durable au sein de Thales LAS France SAS                                                                 | 17/12/2024 | [↗](LAS-2024-12-17-Accord_relatif_a_la_mobilite_durable_au_sein_de_Thales_LAS_France_SAS.md) | [↗](sources/LAS-2024-12-17-Accord_relatif_a_la_mobilite_durable_au_sein_de_Thales_LAS_France_SAS.pdf)                                             |
+| **Connect**                                                                    | Accord mesures d'accompagnement dans le cadre du déménagement des activités des établissements de Rungis et Massy vers Velizy         | 29/05/2024 | [↗](LAS-2025-04-19-Accord-mesures_d_accompagnement-demenagement_activites_Etabt_Rungis_Massy_vers_Helios_Velizy.md) | [↗](sources/LAS-2025-04-19-Accord-mesures_d_accompagnement-demenagement_activites_Etabt_Rungis_Massy_vers_Helios_Velizy.pdf)                                                                                 |
