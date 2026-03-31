@@ -1,5 +1,8 @@
 # Convention collective nationale de la métallurgie
 
+>[Télécharger le PDF](sources/Convention-collective-nationale-de-la-metallurgie.pdf)
+
+
 **Convention collective nationale de la métallurgie du 7 février 2022**
 *modifiée par l'avenant du 1er juillet 2022 et par l'avenant du 30 septembre 2022*
 

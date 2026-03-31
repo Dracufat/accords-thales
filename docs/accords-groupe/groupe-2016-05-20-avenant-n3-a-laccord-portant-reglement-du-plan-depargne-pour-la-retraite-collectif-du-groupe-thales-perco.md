@@ -1,5 +1,8 @@
 # AVENANT N° 3 A L'ACCORD PORTANT REGLEMENT DU PLAN D'EPARGNE POUR LA RETRAITE COLLECTIF DU GROUPE THALES (PERCO)
 
+>[Télécharger le PDF](sources/groupe-2016-05-20-avenant-n3-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.pdf)
+
+
 ---
 
 ## PREAMBULE

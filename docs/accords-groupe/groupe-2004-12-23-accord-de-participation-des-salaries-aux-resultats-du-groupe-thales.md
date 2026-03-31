@@ -1,6 +1,9 @@
 
 # ACCORD DE PARTICIPATION DES SALARIES AUX RESULTATS DES SOCIETES DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.pdf)
+
+
 Entre les soussignés,
 
 **THALES SA**,

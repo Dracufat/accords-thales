@@ -1,5 +1,8 @@
 # AVENANT N°2 A L'ACCORD GROUPE VISANT A FAVORISER LE DEVELOPPEMENT PROFESSIONNEL ET L'EMPLOI PAR DES DEMARCHES D'ANTICIPATION
 
+>[Télécharger le PDF](sources/groupe-2025-04-23-avenant-n2-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
+
+
 ---
 
 ## Préambule

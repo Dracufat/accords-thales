@@ -1,5 +1,8 @@
 # AVENANT N° 4 à l'Accord de participation des salariés aux résultats du Groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2020-06-05-avenant-n4-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.pdf)
+
+
 ## PREAMBULE
 
 L'accord de participation des salariés aux résultats du Groupe Thales a été conclu le 23 décembre 2004 (ci-après désigné l' « Accord »).

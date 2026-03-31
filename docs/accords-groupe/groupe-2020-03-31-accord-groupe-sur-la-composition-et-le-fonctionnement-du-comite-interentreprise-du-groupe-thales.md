@@ -1,5 +1,8 @@
 # ACCORD GROUPE SUR LA COMPOSITION ET LE FONCTIONNEMENT DU COMITE INTERENTREPRISE DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2020-03-31-accord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.pdf)
+
+
 ## PREAMBULE
 
 L'accord portant création du comité interentreprises a été conclu avec l'ensemble des organisations syndicales, le 29 mars 1993.

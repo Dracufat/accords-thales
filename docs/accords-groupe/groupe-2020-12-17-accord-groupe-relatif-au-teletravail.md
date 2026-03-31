@@ -1,5 +1,8 @@
 # ACCORD GROUPE RELATIF AU TELETRAVAIL
 
+>[Télécharger le PDF](sources/groupe-2020-12-17-accord-groupe-relatif-au-teletravail.pdf)
+
+
 ## SOMMAIRE
 
 - TITRE I - DEFINITION

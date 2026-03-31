@@ -1,5 +1,8 @@
 # Organisations Syndicales France, siégeant au comité européen pour les années 2008-2009
 
+>[Télécharger le PDF](sources/groupe-2007-organisations-syndicales-france-siegeant-au-comite-europeen-annexe-a-lavenant-n3-a-laccord-du-comite-europeen.pdf)
+
+
 Afin de permettre à l'ensemble des organisations syndicales signataires représentatives en France au niveau Groupe d'être toutes représentées à titre dérogatoire pour les années 2008 et 2009 au niveau de l'instance plénière du Comité Européen, il a été convenu que les organisations syndicales qui ne pourraient obtenir de sièges, au regard des résultats des élections professionnelles au 30/04/2007, pourront toutefois sièger au comité européen.
 
 Fait à Neuilly sur Seine, le

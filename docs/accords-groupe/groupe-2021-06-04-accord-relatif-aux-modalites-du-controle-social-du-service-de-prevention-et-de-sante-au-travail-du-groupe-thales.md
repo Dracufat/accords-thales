@@ -1,5 +1,8 @@
 # Accord relatif aux modalités du contrôle social du service de prévention et de santé au travail du groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2021-06-04-accord-relatif-aux-modalites-du-controle-social-du-service-de-prevention-et-de-sante-au-travail-du-groupe-thales.pdf)
+
+
 ## **PREAMBULE**
 
 Le groupe Thales s'est engagé depuis de nombreuses années en France à assurer un cadre de travail sûr et sain à ses salariés, au travers d'actions en faveur de la qualité de vie au travail et d'une politique de prévention des risques professionnels exigeante.

@@ -1,5 +1,8 @@
 # AVENANT N°4 A L'ACCORD GROUPE PORTANT TRANSFORMATION DU PERCO EN PLAN D'EPARGNE RETRAITE COLLECTIF (PERECO) ET REGLEMENT DUDIT PERECO
 
+>[Télécharger le PDF](sources/groupe-2024-10-03-avenant-n4-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.pdf)
+
+
 
 ---
 

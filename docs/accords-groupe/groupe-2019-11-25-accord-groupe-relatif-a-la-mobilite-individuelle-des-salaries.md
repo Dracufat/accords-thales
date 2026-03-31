@@ -1,5 +1,8 @@
 # ACCORD GROUPE RELATIF A LA MOBILITE INDIVIDUELLE DES SALARIES
 
+>[Télécharger le PDF](sources/groupe-2019-11-25-accord-groupe-relatif-a-la-mobilite-individuelle-des-salaries.pdf)
+
+
 
 ## **PREAMBULE**
 

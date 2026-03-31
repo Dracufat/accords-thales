@@ -1,7 +1,8 @@
-![Logo CSE Thales Rungis](images/logo_cse_thales_rungis.png)
-
 # Règlement intérieur du CSE Comité Social et Économique de Thales LAS France SAS établissement Rungis/Toulouse
 
+>[Télécharger le PDF](sources/Re_glement_inte_rieur_CSE_LAS_Rungis_V1_1.pdf)
+
+![Logo CSE Thales Rungis](images/logo_cse_thales_rungis.png)
 **V1.1**
 
 **Adopté en réunion plénière du CSE le 31 mai 2022**

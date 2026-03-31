@@ -1,5 +1,8 @@
 # Avenant N°1 à l'Accord Groupe sur la composition et le fonctionnement du Comité Interentreprise du Groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2022-01-27-avenant-n1-a-laccord-groupe-sur-la-composition-et-le-fonctionnement-du-comite-interentreprise-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Le 31 mars 2020, les parties ont conclu un accord de Groupe portant sur la composition et le fonctionnement du comité interentreprise du groupe Thales (ci-après l'Accord).

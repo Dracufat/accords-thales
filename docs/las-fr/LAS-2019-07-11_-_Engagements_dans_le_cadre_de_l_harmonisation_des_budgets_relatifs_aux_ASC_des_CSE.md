@@ -1,5 +1,8 @@
 # Engagements dans le cadre de l'harmonisation des budgets relatifs aux activités socio-culturelles des comités sociaux et économiques au sein de la Société Thales LAS France SAS
 
+>[Télécharger le PDF](sources/LAS-2019-07-11_-_Engagements_dans_le_cadre_de_l_harmonisation_des_budgets_relatifs_aux_ASC_des_CSE.pdf)
+
+
 ---
 
 Suite aux réunions de négociation des 14 mai, 4 juin, 4 juillet et 9 juillet 2019, les parties conviennent que l'harmonisation des budgets ASC des comités sociaux et économiques de la Société se fera dans les conditions suivantes.

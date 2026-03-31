@@ -1,5 +1,8 @@
 # ACCORD RELATIF AU COMITE EUROPEEN DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2002-03-01-accord-relatif-au-comite-europeen-du-groupe-thales-portant-avenant-n2-a-laccord-du-16-novembre-1993.pdf)
+
+
 Portant avenant n° 2 à l'accord du 16 novembre 1993
 
 ## PREAMBULE

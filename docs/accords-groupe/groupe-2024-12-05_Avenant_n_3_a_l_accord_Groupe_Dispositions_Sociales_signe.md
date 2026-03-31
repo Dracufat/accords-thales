@@ -1,5 +1,8 @@
 # AVENANT N°3 A L'ACCORD GROUPE SUR LES DISPOSITIONS SOCIALES APPLICABLES AUX SALARIÉS DES SOCIÉTÉS DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2024-12-05_Avenant_n_3_a_l_accord_Groupe_Dispositions_Sociales_signe.pdf)
+
+
 
 ---
 

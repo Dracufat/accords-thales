@@ -1,5 +1,8 @@
 # ACCORD GROUPE RELATIF A LA CONSULTATION SUR LES ORIENTATIONS STRATEGIQUES ET A LA MISE EN ŒUVRE AU SEIN DU GROUPE THALES DE LA BASE DE DONNEES ECONOMIQUES ET SOCIALES
 
+>[Télécharger le PDF](sources/groupe-2014-10-23-accord-groupe-relatif-a-la-consultation-sur-les-orientations-strategiques-et-a-la-mise-en-oeuvre-au-sein-du-groupe-thales-de-la-base-de-donnees-economiques-et-sociales.pdf)
+
+
 ## **PREAMBULE**
 
 Le présent accord vise à assurer la mise en œuvre, au sein du Groupe Thales, d'une partie de la loi du 14 juin 2013 dite loi de sécurisation de l'emploi.

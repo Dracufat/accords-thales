@@ -1,5 +1,8 @@
 # AVENANT N°1 A L'ACCORD PORTANT REGLEMENT DU PLAN D'EPARGNE POUR LA RETRAITE COLLECTIF DU GROUPE THALES (PERCO) CONSTITUE PAR AVENANT N°1 A L'ACCORD SUR LES DISPOSITIONS SOCIALES
 
+>[Télécharger le PDF](sources/groupe-2011-03-29-avenant-n1-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.pdf)
+
+
 ## **PREAMBULE**
 
 Par avenant n°1 à l'accord sur les dispositions sociales conclu le 23 novembre 2006, un plan d'épargne pour la retraite collectif (PERCO) a été mis en place au sein du groupe Thales.

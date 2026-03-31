@@ -1,5 +1,8 @@
 # Accord de mise en place des comités sociaux et économiques d'établissement et du comité social et économique central au sein de la Société Thales LAS France SAS
 
+>[Télécharger le PDF](sources/LAS-2019-03-01_-_Mise_en_place_CSE_accord_date_elections_Etab_distincts.pdf)
+
+
 ---
 
 Entre les soussignés :

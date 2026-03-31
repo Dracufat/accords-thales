@@ -1,5 +1,8 @@
 # Avenant N°1 à l'Accord Groupe sur les déplacements professionnels
 
+>[Télécharger le PDF](sources/groupe-2022-10-03-avenant-n1-a-laccord-groupe-sur-les-deplacements-professionnels.pdf)
+
+
 ## Préambule
 
 Le 23 novembre 2021, les parties ont conclu un accord de Groupe portant sur les déplacements professionnels (ci-après l'Accord).

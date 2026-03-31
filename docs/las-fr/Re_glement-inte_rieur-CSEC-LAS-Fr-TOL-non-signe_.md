@@ -1,6 +1,8 @@
 # Règlement intérieur du Comité social et économique Central (CSE-C) THALES LAS FRANCE SAS
 
 
+>[Télécharger le PDF](sources/Re_glement-inte_rieur-CSEC-LAS-Fr-TOL-non-signe_.pdf)
+
 En séance du JJ/MM/AAAA, le Comité Social et Economique Central (CSE-C) de la société THALES LAS FRANCE SAS a adopté le règlement ci-après.
 
 Le présent règlement intérieur s'inscrit dans le cadre de l'accord groupe sur la représentation élue du personnel et les représentants de proximité en date du 13 décembre 2018 et sa déclinaison dans le cadre de l'accord Thales LAS France SAS sur la représentation élue du personnel et les représentants de proximité du 04 juin 2019.

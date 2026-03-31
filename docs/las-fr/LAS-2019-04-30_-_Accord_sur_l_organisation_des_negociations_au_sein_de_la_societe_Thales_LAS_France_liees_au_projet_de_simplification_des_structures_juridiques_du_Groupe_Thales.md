@@ -1,5 +1,8 @@
 # Accord sur l'organisation des négociations au sein de la société Thales LAS France SAS liées au projet de simplification des structures juridiques du Groupe Thales
 
+>[Télécharger le PDF](sources/LAS-2019-04-30_-_Accord_sur_l_organisation_des_negociations_au_sein_de_la_societe_Thales_LAS_France_liees_au_projet_de_simplification_des_structures_juridiques_du_Groupe_Thales.pdf)
+
+
 ---
 
 ENTRE :

@@ -1,5 +1,8 @@
 # ACCORD GROUPE SUR LE TEMPS ET L'ORGANISATION DU TRAVAIL
 
+>[Télécharger le PDF](sources/groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.pdf)
+
+
 ## **SOMMAIRE**
 
 

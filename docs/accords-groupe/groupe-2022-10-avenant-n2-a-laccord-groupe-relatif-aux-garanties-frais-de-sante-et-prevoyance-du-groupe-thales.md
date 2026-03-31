@@ -1,5 +1,8 @@
 # **AVENANT N°2** A L'ACCORD GROUPE RELATIF AUX GARANTIES FRAIS DE SANTE ET PREVOYANCE DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2022-10-avenant-n2-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.pdf)
+
+
 ## **PREAMBULE**
 
 Le 20 décembre 2019, les parties ont conclu un accord de Groupe portant sur les garanties Frais de santé et Prévoyance du Groupe Thales (ci-après l'Accord). Un premier avenant à cet Accord a été conclu le 27 janvier 2022.

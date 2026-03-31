@@ -1,5 +1,8 @@
 # ACCORD GROUPE THALES PORTANT SUR LE REGIME DEPENDANCE
 
+>[Télécharger le PDF](sources/groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.pdf)
+
+
 - Article 1 Objet de l'Accord
 - Article 2 Affiliation au régime dépendance
 - Article 3 Fonctionnement

@@ -2,6 +2,9 @@
 
 # Accord Groupe en faveur des Personnes en situation de handicap Années 2025-2026-2027
 
+>[Télécharger le PDF](sources/groupe-2024-12-19-accord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2025-2026-2027.pdf)
+
+
 
 ## **PREAMBULE**
 

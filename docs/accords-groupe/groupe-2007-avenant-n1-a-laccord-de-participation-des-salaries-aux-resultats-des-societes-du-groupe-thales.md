@@ -1,5 +1,8 @@
 # AVENANT N°1 A L'ACCORD DE PARTICIPATION DES SALARIES AUX RESULTATS DES SOCIETES DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2007-avenant-n1-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.pdf)
+
+
 ## **PREAMBULE**
 
 L'accord de participation des salariés aux résultats du groupe Thales a été conclu le 23 décembre 2004.

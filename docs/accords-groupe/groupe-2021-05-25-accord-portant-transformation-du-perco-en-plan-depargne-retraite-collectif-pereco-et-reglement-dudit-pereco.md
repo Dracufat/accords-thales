@@ -1,5 +1,8 @@
 # ACCORD PORTANT TRANSFORMATION DU PERCO EN PLAN D'EPARGNE RETRAITE COLLECTIF (PERECO) ET REGLEMENT DUDIT PERECO
 
+>[Télécharger le PDF](sources/groupe-2021-05-25-accord-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.pdf)
+
+
 
 ## **PREAMBULE**
 

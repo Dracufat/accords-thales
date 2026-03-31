@@ -1,5 +1,8 @@
 # Avenant N°5 constatant la possibilité de poursuivre l'application au sein de la société Thales DIS France SAS de l'accord de participation des salariés aux résultats des sociétés du Groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2022-01-27-avenant-n5-constatant-la-possibilite-de-poursuivre-lapplication-de-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Le 23 décembre 2004, les organisations syndicales représentatives du Groupe Thales et la Direction du Groupe ont conclu un accord de Groupe relatif à la participation des salariés aux résultats des sociétés du Groupe (ci-après « l'Accord Groupe » ou « l'Accord »).

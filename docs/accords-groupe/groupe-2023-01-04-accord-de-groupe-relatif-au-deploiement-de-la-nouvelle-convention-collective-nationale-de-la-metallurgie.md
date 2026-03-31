@@ -1,5 +1,8 @@
 # ACCORD DE GROUPE RELATIF AU DEPLOIEMENT DE LA NOUVELLE CONVENTION COLLECTIVE NATIONALE DE LA METALLURGIE
 
+>[Télécharger le PDF](sources/groupe-2023-01-04-accord-de-groupe-relatif-au-deploiement-de-la-nouvelle-convention-collective-nationale-de-la-metallurgie.pdf)
+
+
 ## **SOMMAIRE**
 
 ## **PRÉAMBULE**

@@ -1,5 +1,8 @@
 # Annexes à l'avenant n°1 à l'accord Groupe sur l'égalité professionnelle femmes-hommes
 
+>[Télécharger le PDF](sources/groupe-2012-annexes-a-lavenant-n1-a-laccord-groupe-sur-legalite-professionnelle-femmes-hommes.pdf)
+
+
 ---
 
 ## Annexe 1

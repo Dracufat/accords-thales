@@ -1,5 +1,8 @@
 # STATUTS de l'Association Thales des Retraités du Régime Dépendance (AT2RD)
 
+>[Télécharger le PDF](sources/groupe-2019-04-19-statuts-association-thales-des-retraites-du-regime-dependance-at2rd.pdf)
+
+
 
 ---
 

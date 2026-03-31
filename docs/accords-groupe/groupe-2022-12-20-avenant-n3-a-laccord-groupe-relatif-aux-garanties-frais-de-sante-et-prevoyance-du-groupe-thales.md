@@ -1,5 +1,8 @@
 # Avenant N°3 à l'Accord Groupe relatif aux garanties Frais de santé et Prévoyance du Groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2022-12-20-avenant-n3-a-laccord-groupe-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Depuis 2006, les salariés du Groupe Thales bénéficient de garanties de prévoyance et de frais de santé dans le cadre d'un dispositif collectif unique et obligatoire, répondant au souci de développer une protection sociale complète et uniforme pour l'ensemble des salariés du groupe, quelle que soit l'entreprise dont ils relèvent.

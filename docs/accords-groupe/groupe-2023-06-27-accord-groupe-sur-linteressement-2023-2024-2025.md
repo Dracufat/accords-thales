@@ -1,5 +1,8 @@
 # ACCORD GROUPE SUR L'INTERESSEMENT 2023 - 2024 - 2025
 
+>[Télécharger le PDF](sources/groupe-2023-06-27-accord-groupe-sur-linteressement-2023-2024-2025.pdf)
+
+
 
 ## **SOMMAIRE**
 

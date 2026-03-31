@@ -1,6 +1,9 @@
-# REGLEMENT INTERIEUR
+# REGLEMENT INTERIEUR de l'Etablissement de Rungis de la société THALES LAS FRANCE S.A.S
 
-## Etablissement de Rungis de la société THALES LAS FRANCE S.A.S
+
+>[Télécharger le PDF](sources/LAS-Rungis-2022-02-07Reglement_Interieur_Rungis-Toulouse_2022.pdf)
+
+
 
 3, avenue Charles Lindbergh — 94150 Rungis
 

@@ -1,5 +1,8 @@
 # Avenant n°2 à l'accord relatif au nombre et à la répartition des sièges au sein du Comité Social et Economique Central (CSEC) de la Société Thales LAS France SAS
 
+>[Télécharger le PDF](sources/LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.pdf)
+
+
 ---
 
 ENTRE :

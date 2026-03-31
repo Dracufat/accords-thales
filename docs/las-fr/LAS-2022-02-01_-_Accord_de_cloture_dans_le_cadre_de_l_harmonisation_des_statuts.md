@@ -1,5 +1,8 @@
 # Accord de clôture dans le cadre de l'harmonisation des statuts au sein de Thales LAS France SAS
 
+>[Télécharger le PDF](sources/LAS-2022-02-01_-_Accord_de_cloture_dans_le_cadre_de_l_harmonisation_des_statuts.pdf)
+
+
 ---
 
 ENTRE :

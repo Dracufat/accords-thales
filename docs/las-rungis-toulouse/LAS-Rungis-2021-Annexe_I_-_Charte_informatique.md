@@ -1,5 +1,8 @@
 # Charte d'utilisation des ressources numériques
 
+>[Télécharger le PDF](sources/LAS-Rungis-2021-Annexe_I_-_Charte_informatique.pdf)
+
+
 ---
 
 ## Table des matières

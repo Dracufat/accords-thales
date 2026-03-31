@@ -1,5 +1,8 @@
 # ACCORD RELATIF AUX GARANTIES FRAIS DE SANTÉ ET PRÉVOYANCE DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2019-12-20-accord-relatif-aux-garanties-frais-de-sante-et-prevoyance-du-groupe-thales.pdf)
+
+
 ---
 
 ## Préambule

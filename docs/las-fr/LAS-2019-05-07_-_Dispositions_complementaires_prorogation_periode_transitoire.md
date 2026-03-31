@@ -1,5 +1,8 @@
 # Engagements complémentaires de la Direction dans le cadre de la signature majoritaire en date du 30 avril 2019
 
+>[Télécharger le PDF](sources/LAS-2019-05-07_-_Dispositions_complementaires_prorogation_periode_transitoire.pdf)
+
+
 *DRS – JRH : Edition du 03 mai 2019*
 
 ---

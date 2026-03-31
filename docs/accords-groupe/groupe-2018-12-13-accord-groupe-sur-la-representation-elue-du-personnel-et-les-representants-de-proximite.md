@@ -1,5 +1,8 @@
 # ACCORD GROUPE SUR LA REPRESENTATION ELUE DU PERSONNEL ET LES REPRESENTANTS DE PROXIMITE
 
+>[Télécharger le PDF](sources/groupe-2018-12-13-accord-groupe-sur-la-representation-elue-du-personnel-et-les-representants-de-proximite.pdf)
+
+
 
 ## **SOMMAIRE**
 

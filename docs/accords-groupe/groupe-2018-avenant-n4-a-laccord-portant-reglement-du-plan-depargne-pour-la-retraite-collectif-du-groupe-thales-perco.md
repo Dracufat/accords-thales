@@ -1,5 +1,8 @@
 # AVENANT N°4 A L'ACCORD PORTANT REGLEMENT DU PLAN D'EPARGNE POUR LA RETRAITE COLLECTIF DU GROUPE THALES (PERCO)
 
+>[Télécharger le PDF](sources/groupe-2018-avenant-n4-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.pdf)
+
+
 ---
 
 ## PREAMBULE

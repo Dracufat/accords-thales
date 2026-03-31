@@ -1,5 +1,8 @@
 # ACCORD SUR LES DEPLACEMENTS PROFESSIONNELS
 
+>[Télécharger le PDF](sources/groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.pdf)
+
+
 ## **SOMMAIRE**
 
 ## **Préambule**

@@ -1,5 +1,8 @@
 # ACCORD INSTITUANT UN REGIME SURCOMPLEMENTAIRE OBLIGATOIRE AUX GARANTIES COLLECTIVES « FRAIS DE SANTE » DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2019-12-20-accord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Le groupe Thales a mis en conformité son régime relatif aux frais de santé pour donner suite aux différentes réformes du contrat responsable (et notamment les décrets n°2014-1374 du 18 novembre 2014 et n°2019-21 du 12 janvier 2019) qui ont instauré des plafonds et des planchers de remboursements afin d'encadrer les dépenses de santé.

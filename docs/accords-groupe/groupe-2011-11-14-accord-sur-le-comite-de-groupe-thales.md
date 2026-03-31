@@ -1,5 +1,8 @@
 # ACCORD SUR LE COMITE DE GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2011-11-14-accord-sur-le-comite-de-groupe-thales.pdf)
+
+
 ## **Préambule**
 
 L'accord portant création du comité de Groupe a été conclu avec l'ensemble des organisations syndicales concernées le 27 avril 2000.

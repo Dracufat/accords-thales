@@ -1,5 +1,8 @@
 # Avenant N°1 à l'Accord Groupe portant transformation du PERCO en Plan d'Épargne Retraite Collectif (PERECO) et règlement dudit PERECO
 
+>[Télécharger le PDF](sources/groupe-2022-10-03-avenant-n1-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.pdf)
+
+
 ## Préambule
 
 Le 25 mai 2021, les parties ont conclu un accord de Groupe portant transformation du PERCO en Plan d'Épargne Retraite Collectif (PERECO) et règlement dudit PERECO (ci-après l'Accord).

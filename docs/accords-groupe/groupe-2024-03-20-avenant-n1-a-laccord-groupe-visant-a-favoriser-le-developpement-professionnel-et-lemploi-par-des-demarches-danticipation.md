@@ -1,5 +1,8 @@
 # Avenant N°1 à l'Accord Groupe visant à favoriser le développement professionnel et l'emploi par des démarches d'anticipation
 
+>[Télécharger le PDF](sources/groupe-2024-03-20-avenant-n1-a-laccord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
+
+
 ## Préambule
 
 L'accord Groupe visant à favoriser le développement professionnel et l'emploi par des démarches d'anticipation a été conclu pour une durée déterminée de cinq ans à compter du 24 avril 2019 et arrive donc à échéance le 24 avril 2024.

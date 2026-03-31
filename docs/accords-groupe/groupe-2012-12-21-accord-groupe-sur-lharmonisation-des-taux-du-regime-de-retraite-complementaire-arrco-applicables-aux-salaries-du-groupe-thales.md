@@ -1,5 +1,8 @@
 # ACCORD GROUPE SUR L'HARMONISATION DES TAUX DU REGIME DE RETRAITE COMPLEMENTAIRE ARRCO APPLICABLES AUX SALARIES DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2012-12-21-accord-groupe-sur-lharmonisation-des-taux-du-regime-de-retraite-complementaire-arrco-applicables-aux-salaries-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Par la signature des accords sur le guichet unique en 2005 et sur les Dispositions sociales en 2006, le groupe Thales a souhaité harmoniser les règles applicables à l'ensemble de ses salariés en matière de retraite et de prévoyance.

@@ -1,5 +1,8 @@
 # ACCORD PORTANT REGLEMENT DU PLAN D'EPARGNE POUR LA RETRAITE COLLECTIF DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2007-10-17-accord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales.pdf)
+
+
 Le règlement du plan d'épargne pour la retraite collectif (ci-après le « PERCO Groupe Thales ») est institué par le présent accord (ci-après « l'Accord ») négocié entre Thales SA et les organisations syndicales représentatives signataires de l'avenant n°1 de l'accord sur les dispositions sociales pour le bénéfice des salariés de Thales SA et l'ensemble de ses sociétés filiales détenues directement ou indirectement à plus de 50% (ci-après « le Groupe »).
 
 Le présent PERCO Groupe Thales soumis aux dispositions du Titre IV du Livre IV du Code du travail est établi selon les modalités prévues par le Titre III du Livre I du Code du travail.

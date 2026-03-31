@@ -1,5 +1,8 @@
 # AVENANT N°2 A L'ACCORD PORTANT RÈGLEMENT DU PLAN D'ÉPARGNE POUR LA RETRAITE COLLECTIF DU GROUPE THALES (PERCO)
 
+>[Télécharger le PDF](sources/groupe-2012-avenant-n2-a-laccord-portant-reglement-du-plan-depargne-pour-la-retraite-collectif-du-groupe-thales-perco.pdf)
+
+
 ---
 
 ## PRÉAMBULE

@@ -1,5 +1,8 @@
 # Avenant N°1 à l'Accord instituant un régime surcomplémentaire obligatoire aux garanties collectives « Frais de santé » du Groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2022-01-17-avenant-n1-a-laccord-instituant-un-regime-surcomplementaire-obligatoire-aux-garanties-collectives-frais-de-sante-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Le 20 décembre 2019, les parties ont conclu un accord de Groupe portant sur la mise en place d'un régime surcomplémentaire obligatoire aux garanties collectives « Frais de santé » (ci-après l'Accord).

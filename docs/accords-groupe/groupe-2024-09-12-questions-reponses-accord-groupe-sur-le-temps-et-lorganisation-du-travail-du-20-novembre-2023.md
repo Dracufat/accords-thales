@@ -1,5 +1,8 @@
 # Questions / réponses sur l'Accord Groupe sur le temps et l'organisation du travail du 20 novembre 2023
 
+>[Télécharger le PDF](sources/groupe-2024-09-12-questions-reponses-accord-groupe-sur-le-temps-et-lorganisation-du-travail-du-20-novembre-2023.pdf)
+
+
 Date de création : 5 mars 2024
 
 ## CHAPITRE I - DISPOSITIONS GENERALES

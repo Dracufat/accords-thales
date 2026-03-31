@@ -1,5 +1,8 @@
 # ACCORD SUR LES MOYENS DES INTERCENTRES GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2018-04-03-accord-sur-les-moyens-des-intercentres-groupe-thales.pdf)
+
+
 Entre le Directeur des Ressources humaines du Groupe Thales,
 
 d'une part

@@ -1,5 +1,8 @@
 # Avenant triennal relatif à l'égalité professionnelle entre les femmes et les hommes au sein de la société Thales LAS France SAS Années 2024-2025-2026
 
+>[Télécharger le PDF](sources/LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.pdf)
+
+
 ---
 
 ENTRE :

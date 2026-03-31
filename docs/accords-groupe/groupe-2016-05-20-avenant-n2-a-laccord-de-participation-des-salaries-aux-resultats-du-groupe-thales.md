@@ -1,5 +1,8 @@
 # AVENANT N° 2 A L'ACCORD DE PARTICIPATION DES SALARIÉS AUX RÉSULTATS DES SOCIÉTÉS DU GROUPE THALES
 
+>[Télécharger le PDF](sources/groupe-2016-05-20-avenant-n2-a-laccord-de-participation-des-salaries-aux-resultats-du-groupe-thales.pdf)
+
+
 ---
 
 ## Préambule

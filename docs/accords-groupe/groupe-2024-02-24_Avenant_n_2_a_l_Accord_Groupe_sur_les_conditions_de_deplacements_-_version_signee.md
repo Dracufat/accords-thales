@@ -1,5 +1,8 @@
 # Avenant N°2 à l'Accord Groupe sur les déplacements professionnels
 
+>[Télécharger le PDF](sources/groupe-2024-02-24_Avenant_n_2_a_l_Accord_Groupe_sur_les_conditions_de_deplacements_-_version_signee.pdf)
+
+
 ## Préambule
 
 Le 23 novembre 2021, les parties ont conclu un accord de Groupe portant sur les déplacements professionnels (ci-après l'Accord). Un premier avenant a été conclu le 3 octobre 2022 pour tenir compte des évolutions de la structure du Groupe Thales.

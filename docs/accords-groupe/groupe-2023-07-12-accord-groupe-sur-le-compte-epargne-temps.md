@@ -1,5 +1,8 @@
 # ACCORD GROUPE SUR LE COMPTE EPARGNE TEMPS
 
+>[Télécharger le PDF](sources/groupe-2023-07-12-accord-groupe-sur-le-compte-epargne-temps.pdf)
+
+
 ## **SOMMAIRE**
 
 | Article 1  | **Périmètre du présent accord**                                                     |                                                                                                                                                  |  |  |

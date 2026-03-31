@@ -1,5 +1,8 @@
 # Grille des salaires minima hiérarchiques (SMH) dans la métallurgie à compter du 1er janvier 2026
 
+>[Télécharger le PDF](sources/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.pdf)
+
+
 *Février 2026*
 
 ---

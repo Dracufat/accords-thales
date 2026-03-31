@@ -1,5 +1,8 @@
 # Avenant N°3 à l'Accord Groupe portant transformation du PERCO en Plan d'Épargne Retraite Collectif (PERECO) et règlement dudit PERECO
 
+>[Télécharger le PDF](sources/groupe-2024-03-20-avenant-n3-a-laccord-groupe-portant-transformation-du-perco-en-plan-depargne-retraite-collectif-pereco-et-reglement-dudit-pereco.pdf)
+
+
 ## Préambule
 
 Le 25 mai 2021, les parties ont conclu un accord de Groupe portant transformation du PERCO en Plan d'Épargne Retraite d'Entreprise Collectif (PERECO) et règlement dudit PERECO (ci-après « l'Accord »). L'Accord a fait l'objet de deux avenants conclus respectivement le 3 octobre 2022 et le 27 avril 2023.

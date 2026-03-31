@@ -1,5 +1,8 @@
 # Avenant N°2 à l'accord Groupe en faveur des personnes en situation de handicap
 
+>[Télécharger le PDF](sources/groupe-2024-07-26-avenant-n2-a-laccord-groupe-en-faveur-des-personnes-en-situation-de-handicap-annees-2021-2022-2023.pdf)
+
+
 ## Préambule
 
 L'accord Groupe en faveur des personnes en situation de handicap a été conclu le 17 novembre 2020, pour une durée déterminée de trois ans, soit du 1er janvier 2021 au 31 décembre 2023.

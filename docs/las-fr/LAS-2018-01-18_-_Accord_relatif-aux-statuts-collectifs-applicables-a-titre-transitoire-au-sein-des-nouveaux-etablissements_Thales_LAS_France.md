@@ -1,5 +1,8 @@
 # Accord relatif aux statuts collectifs applicables, à titre transitoire, au sein des nouveaux établissements de la Société Thales LAS France SAS
 
+>[Télécharger le PDF](sources/LAS-2018-01-18_-_Accord_relatif-aux-statuts-collectifs-applicables-a-titre-transitoire-au-sein-des-nouveaux-etablissements_Thales_LAS_France.pdf)
+
+
 ---
 
 ## INTRODUCTION

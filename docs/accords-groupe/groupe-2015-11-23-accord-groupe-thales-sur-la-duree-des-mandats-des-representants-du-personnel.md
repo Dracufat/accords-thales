@@ -1,5 +1,8 @@
 # ACCORD GROUPE THALES SUR LA DUREE DES MANDATS DES REPRESENTANTS DU PERSONNEL
 
+>[Télécharger le PDF](sources/groupe-2015-11-23-accord-groupe-thales-sur-la-duree-des-mandats-des-representants-du-personnel.pdf)
+
+
 Entre David Tournadre, Directeur des Ressources Humaines du Groupe Thales, agissant par délégation du Président Directeur Général pour le compte de la société Thales SA, entreprise dominante du Groupe constitué des sociétés visées en annexe,
 
 d'une part

@@ -1,5 +1,8 @@
 # Avenant N°7 à l'Accord de participation des salariés aux résultats des sociétés du Groupe Thales
 
+>[Télécharger le PDF](sources/groupe-2023-06-20-avenant-n7-a-laccord-de-participation-des-salaries-aux-resultats-des-societes-du-groupe-thales.pdf)
+
+
 ## Préambule
 
 Le 23 décembre 2004, les organisations syndicales représentatives du Groupe Thales et la Direction du Groupe ont conclu un accord de Groupe relatif à la participation des salariés aux résultats des sociétés du Groupe (ci-après « l'Accord Groupe » ou « l'Accord »).

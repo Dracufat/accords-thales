@@ -1,5 +1,8 @@
 # ACCORD GROUPE VISANT A FAVORISER LE DEVELOPPEMENT PROFESSIONNEL ET L'EMPLOI PAR DES DEMARCHES D'ANTICIPATION
 
+>[Télécharger le PDF](sources/groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
+
+
 
 ## SOMMAIRE
 
