@@ -2,13 +2,13 @@
 
 >[Télécharger le PDF](sources/groupe-2018-04-03-accord-sur-les-moyens-des-intercentres-groupe-thales.pdf)
 
-> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+> 📅 Signé le **23/03/2018** — Courbevoie
 >
-> 🏢 **Thales** : __Nom-du-signataire__, __fonction__
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe Thales
 >
-> ✅ **Signataires** : __liste-orgas-signataires__
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT) · CGT (Grégory LEWANDOWSKI)
 >
-> ❌ **Non Signataires** : __liste-orgas-non-signataires__
+> ❌ **Non Signataires** : aucun
 
 
 Entre le Directeur des Ressources humaines du Groupe Thales,

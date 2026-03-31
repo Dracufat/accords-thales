@@ -64,31 +64,6 @@ Il est convenu entre les parties que les différentes indemnisations prises sur 
 
 ---
 
-## Sommaire
-
-- [Chapitre 1 : Le travail en horaires décalés](#chapitre-1--le-travail-en-horaires-décalés)
-  - [Article 1 : Définitions](#article-1--définitions)
-  - [Article 2 : Typologie des horaires décalés](#article-2--typologie-des-horaires-décalés)
-  - [Article 3 : Principes de mise en œuvre des horaires décalés](#article-3--principes-de-mise-en-œuvre-des-horaires-décalés)
-  - [Article 4 : Indemnisation et temps de travail](#article-4--indemnisation-et-temps-de-travail)
-  - [Article 5 : Autres dispositions renvoyées aux établissements](#article-5--autres-dispositions-renvoyées-aux-établissements)
-- [Chapitre 2 : Les astreintes](#chapitre-2--les-astreintes)
-  - [Article 6 : Principes généraux et champ d'application](#article-6--principes-généraux-et-champ-dapplication)
-  - [Article 7 : Typologie des astreintes](#article-7--typologie-des-astreintes)
-  - [Article 8 : Principes de mise en œuvre de l'astreinte](#article-8--principes-de-mise-en-œuvre-de-lastreinte)
-  - [Article 9 : Indemnisation et temps de travail](#article-9--indemnisation-et-temps-de-travail)
-- [Chapitre 3 : Le travail les jours habituellement non travaillés](#chapitre-3--le-travail-les-jours-habituellement-non-travaillés)
-  - [Article 10 : Principes généraux et champ d'application](#article-10--principes-généraux-et-champ-dapplication)
-  - [Article 11 : Principes de mise en œuvre du travail les jours habituellement non travaillés](#article-11--principes-de-mise-en-œuvre-du-travail-les-jours-habituellement-non-travaillés)
-  - [Article 12 : Indemnisation et temps de travail](#article-12--indemnisation-et-temps-de-travail)
-- [Chapitre 4 : Champ d'application, durée et dépôt de l'accord](#chapitre-4--champ-dapplication-durée-et-dépôt-de-laccord)
-  - [Article 13 : Champ d'application, durée et entrée en vigueur de l'accord](#article-13--champ-dapplication-durée-et-entrée-en-vigueur-de-laccord)
-  - [Article 14 : Clause de revoyure](#article-14--clause-de-revoyure)
-  - [Article 15 : Dépôt de l'accord](#article-15--dépôt-de-laccord)
-- [Annexes](#annexe-1)
-
----
-
 ## Chapitre 1 : Le travail en horaires décalés
 
 Sans pour autant définir en détail les modalités des horaires décalés pouvant être mis en place au sein des établissements de Thales LAS France SAS, les parties entendent leur donner un cadre commun au recours à ces horaires décalés. Les établissements bénéficieront néanmoins de la possibilité de prendre des mesures correspondant à leur besoin spécifique.

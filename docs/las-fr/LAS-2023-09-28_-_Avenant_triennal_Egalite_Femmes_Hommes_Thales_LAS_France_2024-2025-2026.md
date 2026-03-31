@@ -36,20 +36,6 @@ D'autre part.
 
 ---
 
-## Sommaire
-
-- [Préambule](#préambule)
-- [Plan d'action n°1 : Mixité professionnelle](#plan-daction-n1--mixité-professionnelle)
-- [Plan d'action n°2 : Agissements sexistes, harcèlement sexuel et violences au travail](#plan-daction-n2--agissements-sexistes-harcèlement-sexuel-et-violences-au-travail-fondées-sur-le-sexe-lidentité-de-genre-ou-lorientation-sexuelle)
-- [Plan d'action n°3 : Articulation entre l'activité professionnelle et la vie personnelle et familiale / Conditions de travail](#plan-daction-n3--articulation-entre-lactivité-professionnelle-et-la-vie-personnelle-et-familiale--conditions-de-travail)
-- [Plan d'action n°4 : Accompagnement des femmes dans leur évolution de carrière](#plan-daction-n4--accompagnement-des-femmes-dans-leur-évolution-de-carrière)
-- [Plan d'action n°5 : Rémunération effective](#plan-daction-n5--rémunération-effective)
-- [Plan d'action n°6 : Le rôle des commissions](#plan-daction-n6--le-rôle-des-commissions)
-- [Dispositions générales](#dispositions-générales)
-- [Annexe : Liste des indicateurs chiffrés](#annexe--liste-des-indicateurs-chiffrés)
-
----
-
 ## Préambule
 
 L'accord relatif à l'égalité professionnelle entre les femmes et les hommes de Thales LAS France conclu le 19 avril 2019 et complété par un avenant triennal signé le même jour a permis de déterminer des plans d'actions favorisant la mixité professionnelle au sein de la société, favorisant l'accompagnement des femmes dans leur évolution de carrière, favorisant la conciliation entre la vie professionnelle et la vie personnelle et familiale, assurant la santé et sécurité des salariés et l'égalité dans la rémunération effective.

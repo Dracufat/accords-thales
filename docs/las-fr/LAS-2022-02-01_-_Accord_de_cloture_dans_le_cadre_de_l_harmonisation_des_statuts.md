@@ -50,27 +50,6 @@ C'est dans ce contexte que les parties au présent accord se sont réunies afin 
 
 ---
 
-## Sommaire
-
-- [Chapitre 1 : Objet de l'accord](#chapitre-1--objet-de-laccord)
-- [Chapitre 2 : Déplacements professionnels](#chapitre-2--déplacements-professionnels)
-- [Chapitre 3 : Mesures mises en place au sein de Thales LAS France SAS dans le cadre de l'harmonisation des statuts](#chapitre-3--mesures-mises-en-place-au-sein-de-thales-las-france-sas-dans-le-cadre-de-lharmonisation-des-statuts)
-  - [Article 1 : Dispositions relatives à la parentalité](#article-1--dispositions-relatives-à-la-parentalité)
-  - [Article 2 : Dispositions relatives aux primes de transport](#article-2--dispositions-relatives-aux-primes-de-transport)
-  - [Article 3 : Dispositions relatives aux congés supplémentaires liés à l'âge des salariés](#article-3--dispositions-relatives-aux-congés-supplémentaires-liés-à-lâge-des-salariés)
-- [Chapitre 4 : Ralliement à l'accord Groupe dispositions sociales](#chapitre-4--ralliement-à-laccord-groupe-dispositions-sociales)
-  - [Article 4 : Dispositions relatives aux conséquences de la dénonciation de la « rente à vie »](#article-4--dispositions-relatives-aux-conséquences-de-la-dénonciation-de-la--rente-à-vie-)
-  - [Article 5 : Ralliement à la majoration d'ancienneté du groupe](#article-5--ralliement-à-la-majoration-dancienneté-du-groupe)
-  - [Article 6 : Ralliement aux dispositions groupe relatives aux congés supplémentaires liés à l'ancienneté](#article-6--ralliement-aux-dispositions-groupe-relatives-aux-congés-supplémentaires-liés-à-lancienneté)
-- [Chapitre 5 : Mesures spécifiques maintenues localement](#chapitre-5--mesures-spécifiques-maintenues-localement)
-  - [Article 7 : Dispositions relatives au prêt au bénéfice des salariés](#article-7--dispositions-relatives-au-prêt-au-bénéfice-des-salariés)
-  - [Article 8 : Dispositions relatives au maintien du contrat de travail pendant trois ans consécutifs d'arrêt de travail](#article-8--dispositions-relatives-au-maintien-du-contrat-de-travail-pendant-trois-ans-consécutifs-darrêt-de-travail)
-  - [Article 9 : Dispositions relatives aux congés non rémunérés](#article-9--dispositions-relatives-aux-congés-non-rémunérés)
-- [Chapitre 6 : Champ d'application, durée et dépôt de l'accord](#chapitre-6--champ-dapplication-durée-et-dépôt-de-laccord)
-- [Annexes](#annexe-1)
-
----
-
 ## Chapitre 1 : Objet de l'accord
 
 Le présent accord a pour objet d'harmoniser ou clôturer les dispositions contenues dans les accords issus des anciennes Sociétés fusionnées au sein de Thales LAS France SAS.

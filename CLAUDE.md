@@ -25,7 +25,7 @@
 ## Conventions sur les fichiers markown des accords
 
 - dans le fichier md juste apres le titre doit apparaitre un bloc de citation avec le lien pour télécharger l'accord : `>[Télécharger le PDF](sources/<nom-de-l-accord.pdf)`
-- dans le fichier md juste apres le lien de teléchargement doit apparaitre un bloc de citation decrivant la signature :
+- dans le fichier md juste apres le lien de teléchargement doit apparaitre un bloc de citation decrivant la signature. Les informations nécessaires a la completion des placeholders se trouve usuellement dans la derniere section avant les annexes. Le template du bloc est le suivant:
 \> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
 \>
 \> 🏢 **Thales** : __Nom-du-signataire-de-la direction__, __fonction__

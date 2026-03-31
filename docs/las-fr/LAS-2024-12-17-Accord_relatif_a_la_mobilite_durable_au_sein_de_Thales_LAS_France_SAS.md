@@ -36,32 +36,6 @@ D'autre part,
 
 ---
 
-## Table des matières
-
-- [PREAMBULE](#preambule)
-- [Article 1 - CHAMP D'APPLICATION](#article-1---champ-dapplication)
-  - [1.1 Bénéficiaires](#11-bénéficiaires)
-  - [1.2 Déplacements concernés](#12-déplacements-concernés)
-- [Article 2 — PRISE EN CHARGE DES FRAIS DE TRANSPORT PUBLIC COLLECTIF](#article-2--prise-en-charge-des-frais-de-transport-public-collectif)
-  - [2.1 Type d'abonnement pris en charge](#21-type-dabonnement-pris-en-charge)
-  - [2.2 Montant de la prise en charge](#22-montant-de-la-prise-en-charge)
-- [Article 3 - FORFAIT MOBILITES DURABLES](#article-3---forfait-mobilites-durables)
-  - [3.1 Modes de transports inclus dans le Forfait Mobilités Durables](#31-modes-de-transports-inclus-dans-le-forfait-mobilités-durables)
-  - [3.2 Fréquence d'utilisation](#32-fréquence-dutilisation)
-  - [3.3 Modalités de prise en compte de l'utilisation du vélo](#33-modalités-de-prise-en-compte-de-lutilisation-du-vélo)
-  - [3.4 Montant et modalités de versement du Forfait Mobilités Durables](#34-montant-et-modalités-de-versement-du-forfait-mobilités-durables)
-  - [3.5 Demande et justificatifs à fournir](#35-demande-et-justificatifs-à-fournir)
-  - [3.6 Entrée dans les effectifs en cours d'année civile](#36-entrée-dans-les-effectifs-en-cours-dannée-civile)
-- [Article 4 - SECURITE DES DEPLACEMENTS](#article-4---securite-des-deplacements)
-  - [4.1 Sensibilisation à la sécurité des déplacements](#41-sensibilisation-à-la-sécurité-des-déplacements)
-  - [4.2 Participation aux frais des équipements de sécurité](#42-participation-aux-frais-des-équipements-de-sécurité)
-- [Article 5 - MESURES VISANT A FAVORISER LE RECOURS AU FORFAIT MOBILITES DURABLES](#article-5---mesures-visant-a-favoriser-le-recours-au-forfait-mobilites-durables)
-- [Article 6 - DISPOSITIONS FINALES](#article-6---dispositions-finales)
-  - [6.1 Durée, rendez-vous, révision, état annuel de mise en œuvre du Forfait Mobilités Durables](#61-durée-rendez-vous-révision-état-annuel-de-mise-en-œuvre-du-forfait-mobilités-durables)
-  - [6.2 Dépôt](#62-dépôt)
-
----
-
 ## PREAMBULE
 
 La Société THALES LAS FRANCE reconnaît l'importance des enjeux économiques, sociaux et environnementaux liés aux mobilités durables.

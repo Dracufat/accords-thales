@@ -2,13 +2,13 @@
 
 >[Télécharger le PDF](sources/groupe-2015-11-23-accord-groupe-thales-sur-la-duree-des-mandats-des-representants-du-personnel.pdf)
 
-> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+> 📅 Signé le **23/11/2015** — Courbevoie
 >
-> 🏢 **Thales** : __Nom-du-signataire__, __fonction__
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe Thales
 >
-> ✅ **Signataires** : __liste-orgas-signataires__
+> ✅ **Signataires** : CFDT (Anne COGNIEUX) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT)
 >
-> ❌ **Non Signataires** : __liste-orgas-non-signataires__
+> ❌ **Non Signataires** : CGT
 
 
 Entre David Tournadre, Directeur des Ressources Humaines du Groupe Thales, agissant par délégation du Président Directeur Général pour le compte de la société Thales SA, entreprise dominante du Groupe constitué des sociétés visées en annexe,

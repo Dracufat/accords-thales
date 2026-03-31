@@ -46,15 +46,6 @@ C'est en ces circonstances que la Direction et les organisations syndicales repr
 
 ---
 
-## Sommaire
-
-- [Chapitre 1 : Majorations de salaire à raison des conditions particulières de travail](#chapitre-1--majorations-de-salaire-à-raison-des-conditions-particulières-de-travail)
-- [Chapitre 2 : Horaires atypiques en mission](#chapitre-2--horaires-atypiques-en-mission)
-- [Chapitre 3 : Bonnes pratiques dans le cadre des déplacements professionnels](#chapitre-3--bonnes-pratiques-dans-le-cadre-des-déplacements-professionnels)
-- [Chapitre 4 : Dispositions finales](#chapitre-4--dispositions-finales)
-
----
-
 ## Chapitre 1 : Majorations de salaire à raison des conditions particulières de travail
 
 Conformément à l'article 9 de l'accord Groupe sur les déplacements professionnels du 23 novembre 2021, le présent chapitre fixe les modalités de majorations de salaire à raison des conditions particulières de travail en mission.

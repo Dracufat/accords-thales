@@ -2,13 +2,13 @@
 
 >[Télécharger le PDF](sources/groupe-2015-11-23-accord-relatif-aux-modalites-du-controle-social-du-service-de-sante-au-travail-du-groupe-thales.pdf)
 
-> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+> 📅 Signé le **25/11/2015** — Courbevoie
 >
-> 🏢 **Thales** : __Nom-du-signataire__, __fonction__
+> 🏢 **Thales** : David TOURNADRE, Directeur des Ressources Humaines du Groupe Thales
 >
-> ✅ **Signataires** : __liste-orgas-signataires__
+> ✅ **Signataires** : CFDT (Didier GLADIEU) · CFE-CGC (José CALZADO) · CFTC (Véronique MICHAUT) · CGT (Laurent TROMBINI)
 >
-> ❌ **Non Signataires** : __liste-orgas-non-signataires__
+> ❌ **Non Signataires** : aucun
 
 
 ## **PREAMBULE**
