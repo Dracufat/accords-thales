@@ -1,11 +1,13 @@
-# Sommaire des accords Thales
+# Sommaire des accords interprofessionnels
 
 > 2 fichiers — organisés par thème — dernière mise à jour : 2026-03-30
 
 ---
 
+Les textes de la branche métallurgie à jour se trouve sur [le site de l'UIMM](https://uimm.lafabriquedelavenir.fr/textes-conventionnels-metallurgie/)
 
 ## Tableau récapitulatif
+
 
 ### Accords Interprofessionnels
 

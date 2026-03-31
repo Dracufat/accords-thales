@@ -1,9 +1,10 @@
-# Sommaire des accords Thales
+# Sommaire des accords Thales Las France
 
 > 18 accords — organisés par thème — dernière mise à jour : 2026-03-30
 
 ---
 
+Les accords applicables a la société LAS France sont tirés de l'intranet.
 
 ## Tableau récapitulatif
 

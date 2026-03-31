@@ -1,9 +1,10 @@
-# Sommaire des accords Thales
+# Sommaire des accords Thales LAS Rungis Toulouse
 
 > 4 fichiers — organisés par thème — dernière mise à jour : 2026-03-30
 
 ---
 
+Les accords applicables a la société LAS sont tirés de l'intranet.
 
 ## Tableau récapitulatif
 

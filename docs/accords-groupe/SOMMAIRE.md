@@ -1,9 +1,10 @@
-# Sommaire des accords Thales
+# Sommaire des accords groupes Thales
 
 > 64 fichiers — organisés par thème — dernière mise à jour : 2026-03-30
 
 ---
 
+Les accords groupe sont tirés du [site de la coordination](https://coord.cgtthales.fr/accords/) et du site sur les dispositions sociales [Thadis](https://www.thadis.com/)
 
 ## Tableau récapitulatif
 
