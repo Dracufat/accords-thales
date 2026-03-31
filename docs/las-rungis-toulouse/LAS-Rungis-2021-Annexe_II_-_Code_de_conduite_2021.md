@@ -2,7 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-Rungis-2021-Annexe_II_-_Code_de_conduite_2021.pdf)
 
-
+> 📅 Signé le **avril 2021** — Groupe Thales
+>
+> 🏢 **Thales** : Direction Générale et Conseil d'administration du Groupe
+>
+> ✅ **Signataires** : N/A
+>
+> ❌ **Non Signataires** : N/A
 
 ---
 

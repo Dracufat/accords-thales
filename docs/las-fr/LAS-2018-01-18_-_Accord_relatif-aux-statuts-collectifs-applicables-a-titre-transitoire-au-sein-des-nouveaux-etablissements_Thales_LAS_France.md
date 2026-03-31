@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2018-01-18_-_Accord_relatif-aux-statuts-collectifs-applicables-a-titre-transitoire-au-sein-des-nouveaux-etablissements_Thales_LAS_France.pdf)
 
+> 📅 Signé le **18 janvier 2018** — Elancourt
+>
+> 🏢 **Thales** : Philippe MONTEL, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFE-CGC, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : CFDT
 
 ---
 

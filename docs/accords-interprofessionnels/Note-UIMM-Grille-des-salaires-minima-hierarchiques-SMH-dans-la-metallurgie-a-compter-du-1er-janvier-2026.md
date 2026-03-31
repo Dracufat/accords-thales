@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.pdf)
 
+> 📅 Signé le **février 2026** — Paris
+>
+> 🏢 **Thales** : UIMM (document de branche UIMM)
+>
+> ✅ **Signataires** : N/A
+>
+> ❌ **Non Signataires** : N/A
 
 *Février 2026*
 
@@ -11,16 +18,6 @@
 >
 > - Seul le barème des SMH figurant en annexe 6-1 a une valeur conventionnelle.
 > - Les barèmes figurant dans le présent document n'ont qu'une valeur informative.
-
----
-
-## Table des matières
-
-- Barème unique « base 35h » (Annexe 6 de la CCNM modifiée du 7 février 2022)
-- Barème pour un forfait en heures sur l'année de plus de 1607 heures et de 1 767 heures au plus
-- Barème pour un forfait en heures sur l'année de plus de 1767 heures et de 1927 heures au plus
-- Barème pour un forfait en jours sur l'année
-- Barème pour un cadre dirigeant
 
 ---
 

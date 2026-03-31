@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2023-10-16_-_Accord_relatif_a_l_aide_supplementaire_aux_transports_individuels_au_sein_de_la_societe_Thales_LAS_France_SAS.pdf)
 
+> 📅 Signé le **16 octobre 2023** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : —
 
 ---
 

@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-05-07_-_Dispositions_complementaires_prorogation_periode_transitoire.pdf)
 
+> 📅 Signé le **07 mai 2019** — Elancourt
+>
+> 🏢 **Thales** : Philippe Lan, Directeur des Relations Sociales et Juridique RH
+>
+> ✅ **Signataires** : Direction uniquement (engagements complémentaires)
+>
+> ❌ **Non Signataires** : —
 
 *DRS – JRH : Edition du 03 mai 2019*
 

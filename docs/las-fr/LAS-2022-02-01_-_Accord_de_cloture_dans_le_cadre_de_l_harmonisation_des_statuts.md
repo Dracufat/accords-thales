@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2022-02-01_-_Accord_de_cloture_dans_le_cadre_de_l_harmonisation_des_statuts.pdf)
 
+> 📅 Signé le **01 février 2022** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC
+>
+> ❌ **Non Signataires** : CGT, SUPPer
 
 ---
 

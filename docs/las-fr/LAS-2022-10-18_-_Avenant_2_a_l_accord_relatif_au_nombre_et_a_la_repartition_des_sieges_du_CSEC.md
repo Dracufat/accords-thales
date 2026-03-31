@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2022-10-18_-_Avenant_2_a_l_accord_relatif_au_nombre_et_a_la_repartition_des_sieges_du_CSEC.pdf)
 
+> 📅 Signé le **18 octobre 2022** — Rungis
+>
+> 🏢 **Thales** : Philippe LAN, Directeur des Relations Sociales et Juridique RH
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : —
 
 ---
 

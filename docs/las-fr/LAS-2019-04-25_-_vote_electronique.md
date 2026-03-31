@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-04-25_-_vote_electronique.pdf)
 
+> 📅 Signé le **25 avril 2019** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFE-CGC, CFTC
+>
+> ❌ **Non Signataires** : CFDT, CGT, SUPPer
 
 ---
 

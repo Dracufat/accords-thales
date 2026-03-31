@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2022-06-14_-_Accord_Thales_LAS_sur_les_conditions_particulieres_de_travail_en_deplacement_professionnel.pdf)
 
+> 📅 Signé le **14 juin 2022** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT, SUPPer (avec réserves SUPPer)
+>
+> ❌ **Non Signataires** : —
 
 ---
 

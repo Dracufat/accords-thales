@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS_2021-12-22_-Accord_sur-le-maintien-des-statuts_existants-au-sein-de-la-societe-Thales-LAS-France.pdf)
 
+> 📅 Signé le **22 décembre 2021** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : —
 
 ---
 

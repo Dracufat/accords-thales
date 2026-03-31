@@ -2,22 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-Rungis-2021-Annexe_I_-_Charte_informatique.pdf)
 
-
----
-
-## Table des matières
-
-- [Préambule](#préambule)
-- [1. Champ d'application](#1-champ-dapplication)
-- [2. Accès et utilisation des Ressources Numériques](#2-accès-et-utilisation-des-ressources-numériques)
-- [3. Messagerie électronique](#3-messagerie-électronique)
-- [4. Internet](#4-internet)
-- [5. Equipements nomades](#5-equipements-nomades)
-- [6. Confidentialité et Sécurité](#6-confidentialité-et-sécurité)
-- [7. Contrôle](#7-contrôle)
-- [8. Protection des données à caractère personnel](#8-protection-des-données-à-caractère-personnel)
-- [9. Sanctions](#9-sanctions)
-- [10. Accessibilité et entrée en vigueur](#10-accessibilité-et-entrée-en-vigueur)
+> 📅 Signé le **2021** — Groupe Thales
+>
+> 🏢 **Thales** : Direction Générale du Groupe
+>
+> ✅ **Signataires** : N/A
+>
+> ❌ **Non Signataires** : N/A
 
 ---
 

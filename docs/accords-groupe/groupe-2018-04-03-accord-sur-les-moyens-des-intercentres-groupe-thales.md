@@ -2,6 +2,14 @@
 
 >[Télécharger le PDF](sources/groupe-2018-04-03-accord-sur-les-moyens-des-intercentres-groupe-thales.pdf)
 
+> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+>
+> 🏢 **Thales** : __Nom-du-signataire__, __fonction__
+>
+> ✅ **Signataires** : __liste-orgas-signataires__
+>
+> ❌ **Non Signataires** : __liste-orgas-non-signataires__
+
 
 Entre le Directeur des Ressources humaines du Groupe Thales,
 

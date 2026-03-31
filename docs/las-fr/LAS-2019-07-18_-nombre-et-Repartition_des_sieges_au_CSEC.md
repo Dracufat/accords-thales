@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-07-18_-nombre-et-Repartition_des_sieges_au_CSEC.pdf)
 
+> 📅 Signé le **19 juillet 2019** — Rungis
+>
+> 🏢 **Thales** : Philippe LAN, Directeur des Relations Sociales et Juridique RH
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : —
 
 ---
 

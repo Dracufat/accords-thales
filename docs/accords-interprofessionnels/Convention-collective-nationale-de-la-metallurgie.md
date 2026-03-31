@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/Convention-collective-nationale-de-la-metallurgie.pdf)
 
+> 📅 Signé le **7 février 2022** — Paris
+>
+> 🏢 **Thales** : UIMM (accord de branche interprofessionnel)
+>
+> ✅ **Signataires** : CFE-CGC Métallurgie, FO Métallurgie, CFDT Métallurgie
+>
+> ❌ **Non Signataires** : CGT Métallurgie
 
 **Convention collective nationale de la métallurgie du 7 février 2022**
 *modifiée par l'avenant du 1er juillet 2022 et par l'avenant du 30 septembre 2022*

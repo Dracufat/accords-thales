@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2021-09-08-Accord-sur-les-horaires-atypiques-Thales-LAS-France.pdf)
 
+> 📅 Signé le **8 septembre 2021** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFE-CGC, CFTC, CGT
+>
+> ❌ **Non Signataires** : CFDT, SUPPer
 
 ---
 

@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-04-19_-_Avenant_triennal_egalite_pro_2019-2020-2021_Thales_LAS_France.pdf)
 
+> 📅 Signé le **19 avril 2019** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT
+>
+> ❌ **Non Signataires** : SUPPer
 
 ## Années 2019-2020-2021
 

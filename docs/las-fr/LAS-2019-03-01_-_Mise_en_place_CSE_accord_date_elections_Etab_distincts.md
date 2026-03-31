@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-03-01_-_Mise_en_place_CSE_accord_date_elections_Etab_distincts.pdf)
 
+> 📅 Signé le **1er mars 2019** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFE-CGC, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : CFDT
 
 ---
 

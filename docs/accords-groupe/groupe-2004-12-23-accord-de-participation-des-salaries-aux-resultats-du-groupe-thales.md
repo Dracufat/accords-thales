@@ -2,6 +2,14 @@
 
 >[Télécharger le PDF](sources/groupe-2004-12-23-accord-de-participation-des-salaries-aux-resultats-du-groupe-thales.pdf)
 
+> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+>
+> 🏢 **Thales** : __Nom-du-signataire__, __fonction__
+>
+> ✅ **Signataires** : __liste-orgas-signataires__
+>
+> ❌ **Non Signataires** : __liste-orgas-non-signataires__
+
 
 Entre les soussignés,
 

@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2023-09-28_-_Avenant_triennal_Egalite_Femmes_Hommes_Thales_LAS_France_2024-2025-2026.pdf)
 
+> 📅 Signé le **28 septembre 2023** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT
+>
+> ❌ **Non Signataires** : SUPPer
 
 ---
 

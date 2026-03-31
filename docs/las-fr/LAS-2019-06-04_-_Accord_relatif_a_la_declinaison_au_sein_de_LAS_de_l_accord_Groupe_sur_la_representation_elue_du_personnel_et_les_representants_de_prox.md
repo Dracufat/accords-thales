@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-06-04_-_Accord_relatif_a_la_declinaison_au_sein_de_LAS_de_l_accord_Groupe_sur_la_representation_elue_du_personnel_et_les_representants_de_prox.pdf)
 
+> 📅 Signé le **04 juin 2019** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFE-CGC, CFTC, CGT
+>
+> ❌ **Non Signataires** : SUPPer
 
 ---
 

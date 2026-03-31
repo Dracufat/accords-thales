@@ -2,6 +2,14 @@
 
 >[Télécharger le PDF](sources/groupe-2015-11-23-accord-relatif-aux-modalites-du-controle-social-du-service-de-sante-au-travail-du-groupe-thales.pdf)
 
+> 📅 Signé le **__date-de-signature__** — __lieu-de-signature__
+>
+> 🏢 **Thales** : __Nom-du-signataire__, __fonction__
+>
+> ✅ **Signataires** : __liste-orgas-signataires__
+>
+> ❌ **Non Signataires** : __liste-orgas-non-signataires__
+
 
 ## **PREAMBULE**
 

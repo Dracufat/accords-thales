@@ -3,48 +3,17 @@
 
 >[Télécharger le PDF](sources/LAS-Rungis-2022-02-07Reglement_Interieur_Rungis-Toulouse_2022.pdf)
 
-
+> 📅 Signé le **7 février 2022** — Rungis
+>
+> 🏢 **Thales** : Patrick SOITOUT, Directeur de l'établissement de Rungis — Thales LAS France
+>
+> ✅ **Signataires** : N/A
+>
+> ❌ **Non Signataires** : N/A
 
 3, avenue Charles Lindbergh — 94150 Rungis
 
 *Version en vigueur au 1er avril 2022*
-
----
-
-## Table des matières
-
-- [Préambule](#préambule)
-- [Dispositions générales](#dispositions-générales)
-  - [Article 1 - Objet et champ d'application](#article-1---objet-et-champ-dapplication)
-- [Hygiène et sécurité](#hygiène-et-sécurité)
-  - [Article 2 - Hygiène](#article-2---hygiène)
-  - [Article 3 - Sécurité du travail](#article-3---sécurité-du-travail)
-  - [Article 4 - Environnement](#article-4---environnement)
-- [Discipline générale](#discipline-générale)
-  - [Article 5 - Comportement dans les activités professionnelles](#article-5---comportement-dans-les-activités-professionnelles)
-  - [Article 6 - Lutte contre la corruption et divers manquements à la probité](#article-6---lutte-contre-la-corruption-et-divers-manquements-à-la-probité)
-  - [Article 7 - Accès à l'établissement](#article-7---accès-à-létablissement)
-  - [Article 8 - Horaires de travail](#article-8---horaires-de-travail)
-  - [Article 9 - Retards, absences](#article-9---retards-absences)
-  - [Article 10 - Procédure en cas d'accident du travail ou de trajet](#article-10---procédure-en-cas-daccident-du-travail-ou-de-trajet)
-  - [Article 11 - Circulation et stationnement dans l'établissement](#article-11---circulation-et-stationnement-dans-létablissement)
-  - [Article 12 - Sécurité et usage des moyens informatiques et de communication](#article-12---sécurité-et-usage-des-moyens-informatiques-et-de-communication)
-  - [Article 13 - Examens médicaux](#article-13---examens-médicaux)
-  - [Article 14 - Échelle et nature des sanctions](#article-14---échelle-et-nature-des-sanctions)
-  - [Article 15 - Affectation collective de défense](#article-15---affectation-collective-de-défense)
-- [Dispositions relatives aux droits des salariés](#dispositions-relatives-aux-droits-des-salariés)
-  - [Article 16 - Droit d'alerte](#article-16---droit-dalerte)
-  - [Article 17 - Droit de retrait](#article-17---droit-de-retrait)
-  - [Article 18 - Propos sexistes](#article-18---propos-sexistes)
-  - [Article 19 - Dispositions relatives au harcèlement sexuel](#article-19---dispositions-relatives-au-harcèlement-sexuel)
-  - [Article 20 - Dispositions relatives au harcèlement moral](#article-20---dispositions-relatives-au-harcèlement-moral)
-  - [Article 21 - Dispositions relatives à la violence au travail](#article-21---dispositions-relatives-à-la-violence-au-travail)
-  - [Article 22 - Dispositions communes au harcèlement sexuel, au harcèlement moral et à la violence au travail](#article-22---dispositions-communes-au-harcèlement-sexuel-au-harcèlement-moral-et-à-la-violence-au-travail)
-  - [Article 23 - Droits de défense des salariés](#article-23---droits-de-défense-des-salariés)
-- [Dispositions finales](#dispositions-finales)
-  - [Article 24 - Dispositions finales](#article-24---dispositions-finales)
-- [Annexe 1 — Charte d'utilisation des ressources numériques dans le Groupe Thales](#annexe-1)
-- [Annexe 2 — Code de conduite](#annexe-2)
 
 ---
 

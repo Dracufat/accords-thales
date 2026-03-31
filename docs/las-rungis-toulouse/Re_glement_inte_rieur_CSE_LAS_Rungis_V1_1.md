@@ -2,25 +2,18 @@
 
 >[Télécharger le PDF](sources/Re_glement_inte_rieur_CSE_LAS_Rungis_V1_1.pdf)
 
+> 📅 Signé le **31 mai 2022** — Rungis
+>
+> 🏢 **Thales** : Président du CSE LAS France SAS établissement Rungis/Toulouse
+>
+> ✅ **Signataires** : CSE Thales LAS France SAS Rungis/Toulouse (adopté en réunion plénière)
+>
+> ❌ **Non Signataires** : N/A
+
 ![Logo CSE Thales Rungis](images/logo_cse_thales_rungis.png)
 **V1.1**
 
 **Adopté en réunion plénière du CSE le 31 mai 2022**
-
----
-
-## SOMMAIRE
-
-1. [Fonctionnement de l'instance](#1-fonctionnement-de-linstance)
-2. [Composition des commissions](#2-composition-des-commissions)
-3. [Fonctionnement du CSE](#3-fonctionnement-du-cse)
-4. [Frais](#4-frais)
-5. [Personnalité civile du CSE](#5-personnalité-civile-du-cse)
-6. [Personnel du CSE](#6-personnel-du-cse)
-7. [Locaux](#7-locaux)
-8. [Communication du CSE](#8-communication-du-cse)
-9. [Raison sociale, adresse du CSE](#9-raison-sociale-adresse-du-cse)
-10. [Dispositions finales](#10-dispositions-finales)
 
 ---
 

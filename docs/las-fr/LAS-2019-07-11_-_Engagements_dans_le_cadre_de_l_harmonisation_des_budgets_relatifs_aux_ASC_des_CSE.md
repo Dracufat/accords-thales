@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2019-07-11_-_Engagements_dans_le_cadre_de_l_harmonisation_des_budgets_relatifs_aux_ASC_des_CSE.pdf)
 
+> 📅 Signé le **11 juillet 2019** — Elancourt
+>
+> 🏢 **Thales** : Philippe Lan, Directeur des Relations Sociales et Juridique RH
+>
+> ✅ **Signataires** : CFE-CGC, CFTC, CGT
+>
+> ❌ **Non Signataires** : CFDT, SUPPer
 
 ---
 

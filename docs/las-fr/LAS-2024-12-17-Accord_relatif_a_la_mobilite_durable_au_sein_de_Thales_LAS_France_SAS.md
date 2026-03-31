@@ -2,6 +2,13 @@
 
 >[Télécharger le PDF](sources/LAS-2024-12-17-Accord_relatif_a_la_mobilite_durable_au_sein_de_Thales_LAS_France_SAS.pdf)
 
+> 📅 Signé le **17 décembre 2024** — Elancourt
+>
+> 🏢 **Thales** : Philippe NETO, Directeur des Ressources Humaines
+>
+> ✅ **Signataires** : CFDT, CFTC, CGT, SUPPer
+>
+> ❌ **Non Signataires** : CFE-CGC
 
 ---
 
