@@ -100,6 +100,11 @@ Dans l'hypothèse où un salarié utiliserait plusieurs modes de transport pour 
 
 Les salariés dont le temps de trajet est soit inchangé soit réduit du fait de cette mobilité ne percevront pas cette indemnité, de même que les salariés dits « inactifs ».
 
+>[^1] Est ici pris en compte le domicile du salarié au moment du transfert. <br>
+>[^2] L’adresse du futur lieu de travail prise en compte dans la modélisation est 2 rue Marcel Dassault 78140 Vélizy-Villacoublay. <br>
+>[^3] A titre indicatif, le MG s’élève au 1er janvier 2024 à 4,15€ bruts. Dans le cadre du présent accord, la valeur du MG est déterminée
+à la date effective de changement de lieu de travail.
+
 ---
 
 ## Chapitre 4 – Mesures destinées à compenser les frais de transport supplémentaires
@@ -177,6 +182,11 @@ Les justificatifs correspondants devront être fournis dans un délai de 3 mois 
 
 Il est rappelé en annexe 1 du présent accord les frais admis par l'URSSAF au titre des frais réellement engagés dans le cadre d'un déménagement à la date de signature du présent accord. En cas d'évolution, les parties s'accordent pour appliquer la réglementation sociale et fiscale en vigueur au moment de la date de versement de l'indemnité.
 
+
+>[^4] La valeur du MG est ici appréciée à la date du versement. <br>
+> [^5] Est ici visé le salarié ayant au moins un enfant à sa charge seule. L’enfant ou les enfants estlsont comptabilisé(s) dans la
+ligne« personne supplémentaire au sein du foyer»
+
 #### Article 5.1.4. Indemnité de double résidence
 
 A compter de son déménagement, le salarié qui se verrait contraint d'acquitter simultanément une double charge de logement après le déménagement pourra bénéficier du versement, par la Société, d'une indemnité dite « de double résidence ».
@@ -216,6 +226,12 @@ La Direction s'engage à examiner les situations particulières, portées à sa 
 
 Le montant maximum de l'avance est, compte tenu des aménagements de la voiture nécessaires, portée à 4 150 MG[^9] pour les salariés en situation de handicap ou ayant un ou plusieurs enfants en situation de handicap.
 
+
+
+>[^6] La valeur locative correspond à la valeur médiane entre deux estimations fournies par deux agences
+>immobilières différentes. <br>
+>[^7] Cette information sera attestée par la prise en charge des abonnements des transports en commun.<br>
+>[^8] La valeur du MG est ici appréciée à la date du versement.<br>
 ---
 
 ## Chapitre 6 – Mesures destinées à inciter à la mobilité douce
@@ -229,6 +245,8 @@ Cette aide sera complétée de 30 MG[^9] maximum pour l'achat d'équipements de 
 L'aide à l'achat d'un vélo électrique est accessible aux seuls salariés déclarant venir en transports en commun sur le nouveau lieu de travail. Elle est ainsi cumulable avec la prise en charge des frais supplémentaires de transports en commun. En revanche, elle est exclusive de la prise en charge des frais supplémentaires liés au véhicule personnel.
 
 Un même salarié ne peut bénéficier de cette aide qu'une seule fois.
+
+>[^9] La valeur du MG est ici appréciée à la date du versement.
 
 ### Article 6.2. Incitation au covoiturage
 
@@ -286,12 +304,11 @@ Fait à Elancourt, en 7 exemplaires originaux, le 29/05/2024.
 
 **Pour les Organisations Syndicales Représentatives au niveau de la Société, les Délégués syndicaux centraux :**
 
-- **CFDT** représentée par Madame Marie-Pierre ANDRE – Messieurs Thibault BONNEFIS – Patrick JOUAUD – Patrick VETU – Sébastien PRAUD
-- **CFE-CGC** représentée par Messieurs Stéphane DESCLOS – Bertrand DUQUESNOY - Stéphane HUSSON – Régis LEMERY – Yann VANET
-- **CFTC** représentée par Madame Lydie COLIN – Monsieur Igor GAZEYEFF
-- **CGT** représentée par Madame Sandra ITIER - Messieurs Eric DAGOIS – Cyril DARDENNE – Jean-Luc LECOINTE
-- **SUPPer** représenté par Messieurs Guillaume BOTTIER - Thierry COURDACHER – Aïssa DEGUIDA — Cyrille GRANDEMANGE - Sylvain LUZET
-
+- **CFDT** : Sébastien PRAUD
+- **CFE-CGC** : Régis LEMERY 
+- **CFTC**  : Monsieur Igor GAZEYEFF
+- **CGT**  : Cyril DARDENNE 
+- **SUPPer** : NON SIGNE
 ---
 
 ## Annexe 1 – Justificatifs en cas de déménagement
