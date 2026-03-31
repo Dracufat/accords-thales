@@ -5054,7 +5054,6 @@ dans le forfait.
 
 À la demande de l'employeur et compte tenu de la charge de travail, les heures accomplies, avec
 l'accord du salarié, au-delà de la durée contractuelle du travail fixée par la convention de forfait
-
 ouvrent droit à un complément de rémunération, au plus tard à la fin de la période annuelle de
 décompte.
 
