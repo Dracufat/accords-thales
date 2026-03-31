@@ -17,6 +17,13 @@
 
 ## Conventions
 - Ne pas modifier le contenu des fichiers .md existants dans les sous dossiers
-- Demander avant toute modification du SOMMMAIRE.md
+- Demander avant toute modification des sommaires SOMMMAIRE.md présents dans chaque catégorie
 - Conserver l'arborescence actuelle des 4 sous-dossiers
 - Le fichier sommaire à la racine sert de base pour la navigation mkdocs.yml
+
+## Procédure pour l'ajout d'un accord
+
+- si je te signale qu'un accord a été ajouté, j'ai créé un fichier .md a partir d'un nouveau pdf que tu peux identifier car il n'a pas été commité
+- rajoute dans le fichier md juste apres le titre un lien pour télécharger l'accord: 
+`>[Télécharger le PDF](sources/<nom-de-l-accord.pdf)`
+- rajoute une ligne le référencant dans le sommaire du type 
