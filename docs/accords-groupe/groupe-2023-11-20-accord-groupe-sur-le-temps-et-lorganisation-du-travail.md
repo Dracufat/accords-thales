@@ -3,10 +3,6 @@
 >[Télécharger le PDF](sources/groupe-2023-11-20-accord-groupe-sur-le-temps-et-lorganisation-du-travail.pdf)
 
 
-## **SOMMAIRE**
-
-
-
 ## **PREAMBULE**
 
 Dans les années 2000, le Groupe a cherché à mettre en place une organisation commune du temps de travail sur la base d'un accord cadre et d'accords société.

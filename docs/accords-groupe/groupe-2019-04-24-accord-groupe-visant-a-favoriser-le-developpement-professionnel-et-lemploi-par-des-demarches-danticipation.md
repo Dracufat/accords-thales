@@ -3,9 +3,6 @@
 >[Télécharger le PDF](sources/groupe-2019-04-24-accord-groupe-visant-a-favoriser-le-developpement-professionnel-et-lemploi-par-des-demarches-danticipation.pdf)
 
 
-
-## SOMMAIRE
-
 ## **PREAMBULE**
 
 Les parties à l'accord, après avoir établi le bilan du précédent accord (2013- 2018), et échangé leurs points de vue sur les enjeux de la période à venir, sont convenues de la nécessité de poursuivre leur démarche d'anticipation et de conclure ce nouvel accord pour la période 2019-2023.

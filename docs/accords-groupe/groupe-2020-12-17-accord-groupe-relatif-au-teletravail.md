@@ -3,53 +3,6 @@
 >[Télécharger le PDF](sources/groupe-2020-12-17-accord-groupe-relatif-au-teletravail.pdf)
 
 
-## SOMMAIRE
-
-- TITRE I - DEFINITION
-- TITRE II - TELETRAVAIL HABITUEL ET REGULIER
-  - Article 1 — Cadre du télétravail et principes généraux
-    - Article 1.1 : Lien avec le collectif de travail
-    - Article 1.2 : Télétravail et mode d'organisation
-  - Article 2 - Conditions
-    - Article 2.1 - Principe de volontariat
-    - Article 2.2 - Eligibilité / Activités pouvant être exercées en télétravail
-  - Article 3 — Mise en place
-    - Article 3.1 - Situations de télétravail préexistant à l'entrée en vigueur du présent accord
-    - Article 3.2 - Mise en œuvre du télétravail
-    - Article 3.3 - Première candidature au télétravail
-    - Article 3.4 - Situations individuelles spécifiques
-    - Article 3.5 — Rythme de télétravail
-    - Article 3.6 - Formalisation du télétravail
-    - Article 3.7 - Réversibilité permanente
-    - Article 3.8 — Modification de fonction, de poste, de service, d'organisation ou de domicile
-- TITRE III - TELETRAVAIL PONCTUEL POUR REPONDRE A DES SITUATIONS INDIVIDUELLES
-- TITRE IV - TELETRAVAIL PONCTUEL POUR REPONDRE A DES CIRCONSTANCES COLLECTIVES EXCEPTIONNELLES
-  - Article 4 — Situations visées et mise en place du télétravail
-  - Article 5 - Reprise d'activité dans les conditions antérieures
-- TITRE V - PRINCIPES DE FONCTIONNEMENT EN TELETRAVAIL
-  - Article 6 ~ Maintien du lien avec l'entreprise
-  - Article 7 - Modalités d'organisation de l'activité du télétravailleur
-    - Article 7.1 - Organisation de l'activité du télétravailleur
-    - Article 7.2 ~ Contrôle et gestion du temps de travail
-  - Article 8 - Environnement et équipements de travail dans le cadre du télétravail habituel
-    - Article 8.1 — Lieu de télétravail
-    - Article 8.2 — Equipements et accompagnement matériel du télétravail
-    - Article 8.3 — Santé et Sécurité du télétravailleur
-- TITRE VI - DROITS ET DEVOIRS DU SALARIE ET PREVENTION DES EFFETS DE L'ISOLEMENT
-  - Article 9- Droits collectifs
-  - Article 10 — Droits individuels
-  - Article 11 — Protection des données, confidentialité
-  - Article 12 — Assurances
-- TITRE VII - DISPOSITIONS FINALES
-  - Article 13 — Nature et périmètre de l'accord
-  - Article 14 — Suivi et mise en œuvre de l’accord
-  - Article 15 — Durée de l'accord
-  - Article 16 — Publicité et dépôt de l’accord
-- ANNEXES
-  - Annexe 1 : Périmètre du Groupe
-  - Annexe 2 : Avenant de mise en place du télétravail
-  - Annexe 3 : Modèle attestation conformité électrique / assurance
-
 ## PREAMBULE
 
 Depuis le premier accord relatif au télétravail mis en place à titre expérimental conclu le 26 avril 2013, la Direction et les Organisations syndicales représentatives au niveau du Groupe Thales ont régulièrement adapté le dispositif de télétravail pour tenir compte de l'évolution de la législation et de la volonté commune d'en ouvrir l'accès au plus grand nombre de salariés dans le Groupe.

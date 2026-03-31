@@ -4,25 +4,6 @@
 
 
 
-## **SOMMAIRE**
-
-| SOMMAIRE                                                                                                                                  | 2  |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----|
-| PRÉAMBULE                                                                                                                                 | 3  |
-| Article 1 : Champ d'application                                                                                                           | 4  |
-| Article 2 : Evolution du périmètre                                                                                                        | 4  |
-| Article 3 : Bénéficiaires                                                                                                                 | 5  |
-| Article 4 : Nature des sommes versées au titre de l'intéressement                                                                         | 5  |
-| Article 5 : Calcul de l'intéressement global distribuable                                                                                 | 5  |
-| Article 6 : Critères de répartition                                                                                                       | 9  |
-| Article 8 : Information du Comité social économique central (société multi-établissemer social économique (entreprise mono-établissement) |    |
-| Article 9 : Versement des sommes issues de l'intéressement                                                                                | 11 |
-| Article 10 : Information des bénéficiaires                                                                                                | 12 |
-| Article 12 : Entrée en vigueur et durée de l'accord                                                                                       | 13 |
-| Article 13 : Différends                                                                                                                   | 13 |
-| Article 14 : Notification et dépôt                                                                                                        | 13 |
-
-
 ## **PRÉAMBULE**
 
 L'accord de Groupe sur l'intéressement signé le 5 juin 2020 entre la Direction et l'ensemble des Organisations syndicales représentatives au niveau du groupe Thales est arrivé à échéance le 31 décembre 2022.

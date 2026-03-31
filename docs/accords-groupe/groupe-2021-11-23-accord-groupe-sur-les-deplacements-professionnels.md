@@ -3,8 +3,6 @@
 >[Télécharger le PDF](sources/groupe-2021-11-23-accord-groupe-sur-les-deplacements-professionnels.pdf)
 
 
-## **SOMMAIRE**
-
 ## **Préambule**
 
 La gestion des déplacements professionnels connait un traitement disparate au sein du Groupe Thales : la Convention sur les déplacements de 1989 n'est pas appliquée par toutes les sociétés du Groupe, et l'est rarement de manière homogène, certaines d'entre elles ayant défini leur propre corps de règles.

@@ -3,31 +3,6 @@
 >[Télécharger le PDF](sources/groupe-2019-04-19-accord-groupe-thales-portant-sur-le-regime-dependance.pdf)
 
 
-- Article 1 Objet de l'Accord
-- Article 2 Affiliation au régime dépendance
-- Article 3 Fonctionnement
-- Article 4 Financement
-  - 4.1. Cotisations des salariés Thales
-  - 4.2  Prise en charge du financement des salariés Thales
-  - 4.3. Financement du premier trimestre 2019 pour les salariés Thales
-  - 4.4. Cotisations des salariés Thales retraités
-
-- Article 5 - Maintien e de la garantie dépendance
-  - 5.1. Maintien à titre facultatif de la garantie dépendance au bénéfice des retraités de la société
-  - 5.2. Maintien à titre obligatoire de la garantie dépendance au titre de la portabilité des droits
-- Article 6 - Le sort des garanties donnant lieu à indemnisation
-
-  - 6.1. Période de suspension donnant lieu à indemnisation
-  - 6.2. Période de suspension ne donnant pas lieu à indemnisation
-- Article 7 Action sociale et services
-- Article 8 cle 8 Information individuelle et collective
-- Article 9 Organisme porteur du risque
-- Article 10 Suivi du contrat dépendance salariés et retraités Thales
-- Article 11 Périmètre de l'accord
-- Article 12 Entrée en vigueur, révision et durée de l'accord
-- Article 13 Dépôt et publicité
-- ANNEXE Périmètre d'application de l'accord
-
 ## Préambule
 
 L'Accord d'Entreprise du 23 novembre 2006 portant sur les dispositions sociales applicables aux salariés des sociétés du Groupe THALES a instauré plusieurs régimes de protection sociale complémentaire dont un régime dépendance.

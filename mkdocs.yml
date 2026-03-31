@@ -27,6 +27,7 @@ theme:
 plugins:
   - search:
       lang: fr
+      separator: '[\s\-\.]+'
 
 markdown_extensions:
   - toc:

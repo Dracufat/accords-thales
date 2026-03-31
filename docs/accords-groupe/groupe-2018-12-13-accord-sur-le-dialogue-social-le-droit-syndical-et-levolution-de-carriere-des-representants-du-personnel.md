@@ -1,25 +1,6 @@
 # ACCORD SUR LE DIALOGUE SOCIAL, LE DROIT SYNDICAL ET L'EVOLUTION DE CARRIERE DES REPRESENTANTS DU PERSONNEL
 
-## SOMMAIRE
-
-### TITRE I - CHAMP D'APPLICATION
-
-### **TITRE II - REPRESENTATION SYNDICALE**
-
-- <u>Chapitre 1</u>: Favoriser le dialogue social
-- <u>Chapitre 2</u> : Acteurs de la représentation syndicale et crédits d'heures associés
-- <u>Chapitre 3</u>: Moyens supplémentaires à l'exercice du droit syndical
-- <u>Chapitre 4</u> : Formation à l'exercice des mandats
-
-### TITRE III - CONCILIATION DU MANDAT REPRESENTATIF ET DE L'ACTIVITE PROFESSIONNELLE
-
-- <u>Chapitre 1</u>: Favoriser la conciliation du mandat et de l'activité professionnelle
-- <u>Chapitre 2</u>: Assurer le maintien des compétences professionnelles et la reprise de l'activité professionnelle
-- <u>Chapitre 3</u>: Valoriser les parcours des représentants du personnel et des mandatés
-
-### **TITRE IV - DISPOSITIONS FINALES**
-
-### ANNEXE
+>[Télécharger le PDF](sources/groupe-2018-12-13-accord-sur-le-dialogue-social-le-droit-syndical-et-levolution-de-carriere-des-representants-du-personnel.pdf)
 
 
 ## **PREAMBULE**

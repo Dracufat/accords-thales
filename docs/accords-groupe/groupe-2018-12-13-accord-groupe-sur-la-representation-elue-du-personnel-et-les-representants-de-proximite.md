@@ -4,30 +4,6 @@
 
 
 
-## **SOMMAIRE**
-
-1. Durée et nombre de mandats successifs      
-2.  Cadre de mise en place du CSE
-3.  Le Comité Social et Economique d'Etablissement
-  - 3.1 Composition du CSE
-  - 3.2 Attributions du CSE
-  - 3.3 Moyens du CSE
-  - 3.4 Fonctionnement du CSE
-  - 3.5 Les Commissions du CSE
-4. Le Comité Social et Economique Central
-  - 4.1 Composition du CSEC
-  - 4.2 Attributions du CSEC
-  - 4.3 Moyens du CSEC
-  - 4.4 Fonctionnement du CSEC
-  - 4.5 Les commissions du CSEC
-5. Les représentants de proximité
-- 5.1 Périmètre de mise en place des représentants de proximité
-- 5.2 Modalités de désignation des représentants de proximité
-- 5.3 Attributions des représentants de proximité
-- 5.4 Moyens des représentants de proximité
-- 5.5 Fonctionnement des représentants de proximité
-6. Dispositions Finales
-
 ## **Préambule**
 
 L'ordonnance n°2017-1386 du 22 septembre 2017 relative à la nouvelle organisation du dialogue social et économique dans l'entreprise a profondément modifié le cadre législatif des institutions représentatives du personnel en créant une instance unique : le comité social et économique (CSE) qui reprend ainsi les prérogatives des instances précédentes (CE, CHSCT, DP).

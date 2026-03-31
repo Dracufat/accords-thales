@@ -2,9 +2,6 @@
 
 >[Télécharger le PDF](sources/groupe-2023-01-04-accord-de-groupe-relatif-au-deploiement-de-la-nouvelle-convention-collective-nationale-de-la-metallurgie.pdf)
 
-
-## **SOMMAIRE**
-
 ## **PRÉAMBULE**
 
 Le 7 février 2022, l'Union des Industries et Métiers de la Métallurgie (UIMM) et trois des quatre organisations syndicales représentatives de la branche – la CFDT, la CFE-CGC et FO – ont signé la nouvelle Convention collective nationale de la Métallurgie (NCCNM) qui s'applique à l'ensemble des salariés des entreprises de la branche, quelle que soit leur catégorie socioprofessionnelle.
