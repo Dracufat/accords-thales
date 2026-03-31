@@ -71,7 +71,9 @@ Le site est généré dans le dossier `site/`.
 accords-thales/
 ├── docs/
 │    ├── /accords-groupe    # accords en format MD
-│    │   └── /sources       # sources en pdf
+│    │   ├── /sources       # sources en pdf
+│    │   ├── SOMMAIRE.md    # liste des  accords en cours
+│    │   └── REVOLU.md      # liste des accords révolus. ils ne sont pas ajoutés dans la nav
 │    ├── /accords-interprofessionnels
 │    │    └── /sources
 │    ├── ...
