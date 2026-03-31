@@ -29,7 +29,7 @@
 \>
 \> 🏢 **Thales** : __Nom-du-signataire-de-la direction__, __fonction__
 \>
-\> ✅ **Signataires** : CFDT (Guy HENRY) · CFE-CGC (Hervé TAUSKY) · CFTC (Alain DESVIGNES) · FO (Dominique ALLO)
+\> ✅ **Signataires** : __orga1__ (__signataire1__) · __orga2__ (__signataire2__) · ...
 \>
 \> ❌ **Non Signataires** : __liste-des-orgas-non-signataires__
 - il ne doit pas y avoir de sommaire dans le fichier md
