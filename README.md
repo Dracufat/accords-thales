@@ -2,6 +2,8 @@
 
 Extraction et traitement des accords groupe Thales à partir de fichiers PDF en utilisant [marker-pdf](https://github.com/VikParuchuri/marker).
 
+Publication des accords sur le site [Pages](https://dracufat.github.io/accords-thales/)
+
 ## Prérequis
 
 - [Miniconda](https://docs.conda.io/en/latest/miniconda.html) ou [Anaconda](https://www.anaconda.com/)
@@ -63,7 +65,7 @@ Le site est disponible sur http://127.0.0.1:8000/
 mkdocs build
 ```
 
-Le site est généré dans le dossier `site/`.
+Le site est généré dans le dossier `site/`. Permet de verifier les erreurs. Ne 
 
 ## Structure du projet
 
@@ -83,4 +85,10 @@ accords-thales/
 └── README.md
 ```
 
-### Pour ajouter un 
+### Pour ajouter un accord
+
+1. ajouter le fichier pdf OCRisé au bon endroit (choisir la sous catégorie correcte)
+2. générer le fichier md, par exemple avec Claude
+3. mettre à jour le fichier SOMMAIRE.md de la sous-catégorie
+4. Exécuter le script `update_index_and_mkdocs.py`
+5. Commit and push, le workflow github publiera la nouvelle version du site 
