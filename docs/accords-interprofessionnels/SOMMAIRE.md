@@ -1,6 +1,6 @@
 # Sommaire des accords interprofessionnels
 
-> 2 fichiers — organisés par thème — dernière mise à jour : 2026-03-30
+> 3 fichiers — organisés par thème — dernière mise à jour : 2026-03-30
 
 ---
 
@@ -11,8 +11,8 @@ Les textes de la branche métallurgie à jour se trouve sur [le site de l'UIMM](
 
 ### Accords Interprofessionnels
 
-| Catégorie | Titre | Date       | Document | PDF |
-|-----------|-------|------------|---------|-----|
-| **Convention collective nationale de la métallurgie — Textes de référence** | Convention collective nationale de la métallurgie | 20/06/2026 | [↗](metallurgie-20-02-2026-convention-collective.md) | [↗](sources/metallurgie-20-02-2026-convention-collective.pdf) |
-| | Note UIMM — Grille des salaires minima hiérarchiques (SMH) dans la métallurgie à compter du 1er janvier 2026 | 01/01/2026 | [↗](Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md) | [↗](sources/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.pdf) |
-
+| Catégorie | Titre | Date       | Document | PDF                                                                                                                                        |
+|-----------|-------|------------|---------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| **Convention collective nationale de la métallurgie — Textes de référence** | Convention collective nationale de la métallurgie | 20/06/2026 | [↗](metallurgie-20-02-2026-convention-collective.md) | [Télécharger le PDF](sources/metallurgie-20-02-2026-convention-collective.pdf)                                                             |
+| | Note UIMM — Grille des salaires minima hiérarchiques (SMH) dans la métallurgie à compter du 1er janvier 2026 | 01/01/2026 | [↗](Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.md) | [Télécharger le PDF](sources/Note-UIMM-Grille-des-salaires-minima-hierarchiques-SMH-dans-la-metallurgie-a-compter-du-1er-janvier-2026.pdf) |
+| | Accord Santé, Sécurité, Qualité de Vie et Conditions de Travail | 11/07/2023 | [↗](metallurgie-2023-07-11-accord_sante_securite_conditions_et_qualite_de_vie_au_travail_du_7_fevrier_2022.md) | [Télécharger le PDF](sources/metallurgie-2023-07-11-accord_sante_securite_conditions_et_qualite_de_vie_au_travail_du_7_fevrier_2022.pdf)   |
